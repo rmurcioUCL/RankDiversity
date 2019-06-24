@@ -1,0 +1,100 @@
+London,7074265,London,7187300,London,6679700,London,7566600,London,7452300,London,7992300,London,8348000,London,8655000,London,8203900,London,7480200,London,7251400,London,6339500
+Birmingham,1020589,Birmingham,1013200,Birmingham,961000,Birmingham,1014000,Birmingham,1013400,Birmingham,1107200,Birmingham,1112700,Glasgow,1131800,Glasgow,1088400,Glasgow,1034200,Glasgow,784500,Glasgow,761700
+Leeds,726939,Leeds,726800,Glasgow,730000,Glasgow,754600,Glasgow,897000,Glasgow,1054900,Glasgow,1089800,Birmingham,1041000,Birmingham,1002600,Birmingham,922200,Liverpool,746400,Liverpool,702200
+Glasgow,616430,Glasgow,668100,Leeds,680700,Liverpool,538800,Liverpool,603200,Liverpool,745800,Liverpool,788700,Liverpool,827400,Liverpool,855700,Liverpool,802900,Manchester,714300,Manchester,543900
+Sheffield,530375,Sheffield,530600,Sheffield,501200,Sheffield,470700,Manchester,543800,Manchester,661800,Manchester,703100,Manchester,732900,Manchester,766400,Manchester,730000,Birmingham,525800,Birmingham,522200
+Bradford,483422,Bradford,483700,Bradford,457300,Leeds,445200,Sheffield,516000,Leeds,510700,Sheffield,512900,Sheffield,520000,Sheffield,511800,Sheffield,490600,Sheffield,454600,Leeds,429000
+Liverpool,467995,Liverpool,458000,Liverpool,452500,Manchester,437600,Leeds,501100,Sheffield,494300,Leeds,505200,Leeds,494000,Leeds,482800,Leeds,458200,Leeds,445600,Sheffield,409100
+Edinburgh,448850,Edinburgh,450200,Manchester,404900,Bristol,413900,Edinburgh,453400,Edinburgh,468400,Edinburgh,466800,Edinburgh,475500,Edinburgh,434000,Edinburgh,420300,Belfast,386900,Belfast,349200
+Manchester,430818,Manchester,431100,Edinburgh,404000,Edinburgh,408800,Bristol,426200,Bristol,437000,Bristol,442300,Belfast,438100,Belfast,415200,Belfast,415200,Bristol,357000,Bristol,329400
+Bristol,399633,Bristol,405200,Kirklees,373100,Kirklees,370600,Middlesbrough,395500,Belfast,399300,Nottingham,306100,Bristol,415500,Bristol,397000,Bristol,377000,Edinburgh,320300,Edinburgh,304800
+Kirklees,388807,Kirklees,392200,Bristol,339600,Wirral,339000,Kirklees,369300,Coventry,395500,Hull,299100,Hull,318700,Hull,313500,Bradford,291000,Bradford,288500,Bradford,279800
+Wirral,329179,Wirral,326600,Wirral,330800,Leicester,324400,Belfast,360200,Kirklees,352900,Bradford,292400,Newcastle upon Tyne,291300,Bradford,298000,Hull,287200,Hull,278000,Hull,240300
+Wakefield,317342,Cardiff,324400,Wakefield,310900,Hull,322100,Wirral,355800,Wirral,352000,Newcastle upon Tyne,291700,Bradford,288700,Newcastle upon Tyne,283200,Newcastle upon Tyne,275000,Newcastle upon Tyne,266600,Nottingham,239700
+Cardiff,315040,Wakefield,319600,Dudley,304600,Coventry,318700,Coventry,333000,Sandwell,339500,Leicester,285200,Nottingham,278300,Stoke-on-Trent,276600,Nottingham,262600,Nottingham,259900,Salford,221000
+Dudley,312194,Dudley,311900,Sandwell,290100,Sandwell,307000,Sandwell,330200,Nottingham,311900,Stoke-on-Trent,275100,Stoke-on-Trent,272000,Nottingham,268800,Portsmouth,247300,Stoke-on-Trent,234500,Newcastle upon Tyne,215300
+Wigan,309786,Coventry,303900,Sefton,289500,Sefton,302000,Sefton,307500,Hull,303300,Coventry,258200,Leicester,263300,Portsmouth,252400,Stoke-on-Trent,240400,Salford,231400,Stoke-on-Trent,214700
+Coventry,306503,Wigan,301500,Sunderland,289000,Belfast,297900,Nottingham,296800,Bradford,295900,Cardiff,243600,Portsmouth,258400,Leicester,239200,Leicester,234100,Portsmouth,231100,Leicester,211600
+Belfast,297300,Belfast,297200,Doncaster,288900,Bradford,293300,Bradford,294500,Sefton,294500,Portsmouth,233500,Cardiff,223100,Cardiff,223600,Salford,234000,Leicester,227200,Portsmouth,188100
+Leicester,294830,Stockport,291900,Coventry,284400,Nottingham,273300,Hull,284700,Leicester,273500,Plymouth,209000,Coventry,213000,Salford,223400,Plymouth,210000,Cardiff,182300,Bolton,168200
+Sunderland,294261,Leicester,290900,Belfast,284400,Stoke-on-Trent,272400,Leicester,282000,Newcastle upon Tyne,269700,Aberdeen,182700,Plymouth,211800,Plymouth,208200,Cardiff,200200,Bolton,180900,Cardiff,164300
+Sandwell,292196,Sunderland,290700,Stockport,284400,Wolverhampton,263500,Cardiff,276800,Stoke-on-Trent,265300,Sunderland,181500,Salford,199400,Sunderland,185800,Bolton,178700,Dundee,165000,Dundee,161200
+Stockport,291080,Doncaster,289900,Nottingham,284000,Cardiff,262300,Wolverhampton,268400,Cardiff,256300,Southampton,178300,Sunderland,182400,Bolton,177300,Dundee,168300,Aberdeen,163900,Sunderland,146100
+Sefton,289739,Sandwell,289400,Cardiff,272600,Plymouth,238600,Stoke-on-Trent,263600,Trafford,223200,Salford,178200,Aberdeen,180800,Southampton,176000,Rhondda,162700,Rhondda,152800,Oldham,137200
+Nottingham,283969,Sefton,286900,Leicester,270500,Trafford,221000,Plymouth,246900,Portsmouth,215100,Dundee,177300,Southampton,180100,Dundee,175600,Southampton,161000,Sunderland,151200,Blackburn,129200
+Newcastle-upon-Tyne,282338,Nottingham,284300,Hull,266900,Derby,218000,Trafford,228000,North Tyneside,210500,Bolton,167200,Dundee,179000,Aberdeen,167300,Sunderland,159100,Oldham,147500,Brighton,123500
+Hull,266775,Newcastle upon Tyne,273000,Newcastle upon Tyne,259500,Tameside,217000,Newcastle upon Tyne,221400,Southampton,204800,Wolverhampton,162700,Bolton,169400,Coventry,167100,Aberdeen,159000,Blackburn,133100,Aberdeen,114900
+Bolton,265449,Bolton,267400,Walsall,259500,Southampton,211300,Tameside,220800,Plymouth,204400,Swansea,161000,Swansea,161100,Swansea,164800,Swansea,157600,Brighton,131200,Derby,114800
+Walsall,262593,Walsall,261100,Bolton,258900,Newcastle upon Tyne,199100,Derby,219300,Tameside,204200,Brighton,156500,Brighton,146500,Birkenhead,147800,Birkenhead,145600,Birkenhead,130800,Rhondda,113700
+Plymouth,255826,Hull,257900,Plymouth,255800,North Tyneside,197400,Sunderland,215700,Calderdale,201200,Southend-on-Sea,151800,Wolverhampton,145300,Brighton,147400,Oldham,145000,Derby,123400,Preston,113000
+Rotherham,255342,Rotherham,253700,Stoke-on-Trent,254300,Sunderland,195100,Southampton,213600,Sunderland,189700,Middlesbrough,147300,Birkenhead,144400,Derby,142400,Brighton,142400,Norwich,121500,Norwich,111700
+Stoke-on-Trent,254438,Plymouth,253200,Rotherham,251600,Reading,194700,North Tyneside,207900,Aberdeen,185400,Blackpool,147200,Middlesbrough,139800,Rhondda,141300,Middlesbrough,131100,Southampton,119000,Birkenhead,110900
+Wolverhampton,244453,Stoke-on-Trent,250800,Wolverhampton,242200,Calderdale,190300,Portsmouth,204300,South Tyneside,184800,Bournemouth,144700,Derby,139000,Oldham,140300,Derby,129800,Preston,117100,Gateshead,109900
+Derby,233708,Wolverhampton,240900,Derby,235200,Aberdeen,186800,Calderdale,195200,Dundee,183000,Birkenhead,142500,Southend-on-Sea,138100,Middlesbrough,138300,Coventry,128200,Gateshead,116900,Plymouth,107600
+Swansea,230180,Derby,236400,Barnsley,220900,Dudley,186500,Knowsley,194100,Swansea,166700,Stockport,141700,Stockport,134800,Wolverhampton,133200,Blackburn,126600,Swansea,114700,Halifax,104900
+Salford,229179,Swansea,229800,Salford,220500,Walsall,177900,Dudley,185400,Southend-on-Sea,165100,Derby,141300,Oldham,126100,Norwich,126200,Gateshead,125100,Plymouth,112000,Southampton,104800
+Barnsley,227213,Barnsley,228200,Aberdeen,218200,Portsmouth,174200,Walsall,184400,Brighton,163200,Oldbury and Smethwick,130300,Blackpool,125800,Stockport,125500,Stockport,123300,Stockport,108700,South Shields,100900
+Tameside,220722,Salford,224800,Oldham,216500,Knowsley,173000,Dundee,182100,Bolton,160800,Huddersfield,129000,Huddersfield,125600,Blackburn,122700,Wolverhampton,121300,South Shields,108600,Burnley,97000
+Oldham,220172,Trafford,220200,Tameside,216400,Swansea,172400,Aberdeen,182000,Middlesbrough,157400,Oldham,121300,Oldbury and Smethwick,125100,Gateshead,122400,Norwich,120700,Huddersfield,107800,Huddersfield,95000
+Trafford,218893,Tameside,219400,Southampton,214900,Dundee,172300,South Tyneside,177100,Salford,155100,Norwich,121200,Gateshead,124500,Southend-on-Sea,120100,South Shields,118600,Burnley,106300,Swansea,94500
+Aberdeen,217260,Oldham,218700,Trafford,212700,Norwich,169800,Swansea,171300,Bournemouth,154300,Preston,119300,Norwich,122300,Preston,119000,Preston,117400,Coventry,106300,Wolverhampton,94200
+Southampton,214859,Southampton,215300,Milton Keynes,204400,Preston,166700,West Bromwich,166600,Blackpool,153200,Gateshead,115000,Bournemouth,122100,Bournemouth,116800,Huddersfield,110100,Middlesbrough,104800,Stockport,92800
+Rochdale,207563,Aberdeen,213100,Rochdale,202200,Luton,163200,Brighton,163900,Knowsley,151400,Walsall,114500,Rhondda,121900,South Shields,113500,Southend-on-Sea,106000,Halifax,101600,Middlesbrough,91300
+Solihull,203922,Rochdale,209000,Renfrew,201200,South Tyneside,160100,Oldbury and Smethwick,163300,Wolverhampton,150800,Reading,114200,Preston,113200,Huddersfield,113500,Burnley,103200,Saint Helens,96600,Northampton,87000
+Gateshead,200968,Milton Keynes,206900,Solihull,199900,Middlesbrough,158200,Southend-on-Sea,162400,Stockport,142500,Rhondda,111400,Blackburn,113000,Saint Helens,106800,Saint Helens,102600,Wolverhampton,95300,Walsall,86400
+Milton Keynes,197131,Reading,206000,Gateshead,199600,Southend-on-Sea,155700,Luton,160700,Birkenhead,141800,Blackburn,111200,South Shields,110400,Walsall,103100,Blackpool,99600,Walsall,92100,Hartlepool,85400
+North Tyneside,193619,Solihull,205600,North Tyneside,192300,Northampton,154200,Bolton,154400,Derby,132400,Saint Helens,110300,Walsall,107300,Blackpool,101600,Halifax,99100,Rochdale,91400,Saint Helens,84400
+Calderdale,192844,Renfrew,202100,Calderdale,191600,West Bromwich,153700,Blackpool,149800,Luton,131600,Luton,109200,Saint Helens,107200,Burnley,98300,Walsall,96900,Northampton,90100,Rochdale,83100
+Northampton,192382,Northampton,194450,Portsmouth,190400,Oldbury and Smethwick,153300,Bournemouth,149000,Huddersfield,130700,South Shields,106600,York,100800,Halifax,98100,Newport,92400,Govan,89600,Oldbury and Smethwick,79700
+Portsmouth,190370,Calderdale,192400,Warrington,187000,Huddersfield,147800,Stockport,139500,Norwich,120100,Newport,105500,Reading,100400,Wallasey,97600,Reading,92300,Wigan,89200,Paisley,79400
+Warrington,189012,North Tyneside,192000,Swansea,182100,Blackpool,146300,Birkenhead,138100,Reading,119900,York,105400,Halifax,97400,Reading,97100,Bournemouth,91800,Paisley,84500,York,77900
+Norwich,186600,Stockton-on-Tees,191600,Luton,181500,Bolton,144000,Reading,133400,Walsall,118500,Ipswich,104800,Northampton,96500,Grimsby,92500,Northampton,90900,Newport,83700,Leith,77400
+Swindon,182400,Warrington,191200,Northampton,180600,Bournemouth,142800,Salford,131300,Ipswich,117400,Northampton,104400,Newport,95900,Northampton,92300,Rochdale,90800,York,82300,Aston Manor,77300
+Bury,181873,Gateshead,191000,Stockton-on-Tees,179000,Stockport,135500,Huddersfield,130600,Oldham,115300,Wallasey,101400,Ipswich,95100,Rochdale,90300,Wallasey,90800,Devonport,81700,Govan,76400
+Luton,181468,Portsmouth,186700,Saint Helens,178800,Brighton,134600,Basildon,129900,Thurrock,114300,Oxford,98700,Wallasey,94200,Newport,89200,Wigan,89400,King's Norton and Northfield,81200,Reading,72200
+Saint Helens,179483,Bury,180700,Swindon,177100,Ipswich,129700,Northampton,126300,Preston,113300,Halifax,98400,Oxford,94100,Ipswich,87500,Paisley,84800,Merthyr Tydfil,81000,Devonport,70400
+Stockton-on-Tees,179009,Swindon,180100,Bury,176800,Swindon,127300,Thurrock,125000,South Shields,109500,Beeston and Stapleford,97700,Paisley,92700,Paisley,86400,York,84000,Leith,80500,Coventry,70000
+York,175095,Saint Helens,176800,Southend-on-Sea,172300,Thurrock,127000,Ipswich,122700,Saint Helens,108700,Grimsby,94400,Grimsby,92300,Wigan,85400,Grimsby,82400,Bournemouth,78700,Merthyr Tydfil,69200
+Southend-on-Sea,172266,Middlesbrough,175130,Bath,164700,York,123100,Norwich,120700,Newport,108100,Paisley,93700,Rochdale,91300,York,84800,Oldbury and Smethwick,82100,Wallasey,78500,Greenock,68100
+New Forest,169513,Norwich,173800,Wycombe,162000,Poole,122800,Newport,111800,Oxford,106300,Rochdale,88400,Luton,90800,Oldbury and Smethwick,84400,Greenock,81100,Reading,75200,Newport,67300
+Bath,164725,Luton,173700,Basildon,161100,Rotherham,122400,Oxford,110600,Blackburn,106200,West Bromwich,88000,Burnley,88700,West Bromwich,81300,Merthyr Tydfil,80100,Greenock,75100,Ipswich,66600
+Wycombe,164045,Bath,170200,Dundee,161000,Newport,115900,Havant,108800,Northampton,105400,Burnley,85000,Hartlepool,88500,Oxford,80500,Ipswich,79400,Aston Manor,75000,Hastings,65500
+Basildon,163280,New Forest,169500,New Forest,160500,Saint Helens,114400,Solihull,107500,York,104400,Darlington,84900,West Bromwich,82700,Warrington,79300,Warrington,76800,Grimsby,74600,West Bromwich,65200
+Huddersfield,163000,Bournemouth,167700,Peterborough,159900,Oxford,113800,Poole,106600,Gateshead,103300,Wigan,84600,Wigan,82500,Greenock,78900,Southport,76600,Ipswich,73900,Warrington,64200
+Bournemouth,160749,Basildon,165900,Bournemouth,155500,Peterborough,113400,Oldham,105500,Wallasey,103200,Southport,84000,Greenock,81700,Southport,78900,Bootle,76500,Warrington,72200,Grimsby,63100
+Oxford,160000,Wycombe,162100,South Tyneside,154700,Blackburn,109600,York,105200,Rhondda,100300,Poole,83000,Southport,78600,Bootle,76800,West Bromwich,75100,Oldbury and Smethwick,70700,Hanley,61600
+Peterborough,158674,Southend-on-Sea,160400,Chelmsford,152400,Watford,109500,Saint Helens,104100,Grimsby,96700,Rotherham,82300,Cambridge,78200,Darlington,72100,Barrow-in-Furness,74200,Bootle,69900,Wigan,60800
+Chelmsford,156601,Peterborough,156000,Knowsley,152100,Oldham,107100,Blackburn,101100,Halifax,96100,Doncaster,82100,Warrington,78100,Barnsley,71500,Partick,69700,Southport,69600,Bournemouth,59800
+Brighton,156124,Chelmsford,156000,Macclesfield,151600,Gloucester,106500,South Shields,100200,West Bromwich,96000,Thurrock,82100,Hanley,77800,Merthyr Tydfil,71100,Motherwell,68900,Handsworth,68600,Bootle,58600
+South Tyneside,156078,Brighton,155900,Blackpool,151200,Slough,106300,Cambridge,99600,Solihull,96000,Cambridge,81500,Rotherham,76400,Rotherham,69700,Bath,68700,West Bromwich,68300,Bury,58000
+Poole,154700,South Tyneside,152800,Birkenhead,150160,Sutton Coldfield,102600,Wallasey,97500,Paisley,95800,Warrington,80700,Leith,76000,Bath,68800,Hartlepool,68600,Partick,66800,Barrow-in-Furness,57600
+Colchester,154176,Knowsley,150460,Middlesbrough,144500,Birkenhead,99100,Hartlepool,97100,Cambridge,95500,Bath,79300,Darlington,75900,Luton,68500,Rotherham,68000,Hartlepool,63900,King's Norton and Northfield,57100
+Knowsley,154053,Macclesfield,150000,Reading,142900,Rochdale,97300,Preston,96800,Poole,92100,Greenock,76300,Bootle,74100,Hartlepool,68100,Oxford,67300,Barrow-in-Furness,63800,Rotherham,54300
+Macclesfield,152604,Blackpool,148300,West Bromwich,140000,Salford,96500,Grimsby,95600,Swindon,91700,Barnsley,75600,Handsworth,72600,Stockton-on-Tees,67700,Hastings,66500,Southend-on-Sea,62700,Partick,54300
+Blackpool,152459,Huddersfield,147300,Poole,139200,Basildon,94800,Paisley,95300,Doncaster,86300,Exeter,75500,Doncaster,71600,Cambridge,66800,Lincoln,66000,Rotherham,62500,Wallasey,53600
+Dundee,150250,Dundee,146700,Oxford,134800,Solihull,93900,Gateshead,94700,Rochdale,85800,Bootle,75000,Barnsley,71500,Barrow-in-Furness,66200,Darlington,65800,Hastings,61100,Handsworth,52900
+Middlesbrough,146778,Poole,144800,Thurrock,132300,Woking and Byfleet,92700,Exeter,93800,Rotherham,85500,Stockton-on-Tees,74200,Gillingham,70600,Lincoln,66200,Stockton-on-Tees,64100,Tynemouth,58800,Stockton-on-Tees,51500
+Cambridge,145800,Thurrock,143100,Brighton,132000,Gillingham,92500,Rochdale,91500,Darlington,84200,Watford,73100,Exeter,69200,Exeter,66000,Tynemouth,63800,Bury,58600,Tynemouth,51400
+Ipswich,145000,Oxford,142400,Ipswich,130150,Hartlepool,91700,Halifax,91000,Bootle,82800,Hartlepool,72700,Poole,68900,Hastings,65200,Eastbourne,62000,Stockton-on-Tees,58500,Great Yarmouth,51300
+Birkenhead,143000,Birkenhead,138200,Newport,129900,Grimsby,91500,Swindon,90700,Southport,82000,Gillingham,70700,Motherwell,68400,Tynemouth,64900,Chesterfield,61200,Blackpool,58400,Jarrow,50900
+Reading,142851,West Bromwich,136900,Preston,126100,Gateshead,91400,Gloucester,90000,Stockton-on-Tees,81300,Newcastle-under-Lyme,70000,Wishaw,68400,Motherwell,64700,Great Yarmouth,60700,Lincoln,57300,Burton upon Trent,50400
+West Bromwich,137000,York,136600,Huddersfield,122000,Chelmsford,91100,Rhondda,89000,Bath,80900,Hove,69500,Bath,68300,Chesterfield,64200,Exeter,59600,Great Yarmouth,55900,Bath,49800
+Gloucester,136300,Ipswich,127800,Norwich,120900,Worthing,90700,Gillingham,88500,Slough,80800,Lincoln,69400,Stockton-on-Tees,67300,Doncaster,63300,Cambridge,59300,Darlington,55600,Cheltenham,49400
+Newport,128000,Cambridge,127300,Havant,119700,Wigan,88700,Aldridge-Brownhills,88200,Burnley,80600,Worthing,69400,Barrow-in-Furness,66900,Swindon,62400,Luton,57100,Dewsbury,53400,Oxford,49300
+Preston,122700,Gloucester,123600,Slough,108000,Southport,88600,Worthing,87800,Exeter,80300,Swindon,68900,Tynemouth,66500,Gillingham,61500,Swindon,56800,Chesterfield,53400,Lincoln,48800
+Havant,120700,Newport,120600,Cheltenham,103100,Exeter,88200,Slough,87700,Wigan,78700,Chesterfield,68600,Watford,65700,Dudley,59600,Bury,56400,Oxford,53000,Dudley,48700
+Blackburn,117900,Havant,116800,Gloucester,101600,Derry,87600,Darlington,85900,Lincoln,77100,Motherwell,68200,Chesterfield,64700,Wakefield,59100,Dudley,55900,Eastbourne,52500,Southport,48100
+Winchester,116600,Cheltenham,110300,York,101000,Colchester,87500,Bath,85600,Hartlepool,77000,Wishaw,68200,Hastings,64300,Eastbourne,57400,Aberdare,55000,Gillingham,52300,Gloucester,48000
+Cheltenham,116400,Blackburn,108700,Darlington,101000,Cheltenham,87200,Southport,84900,Warrington,76000,Solihull,68000,Newcastle-under-Lyme,63400,Carlisle,57300,Doncaster,54400,Wakefield,51500,Blackpool,47300
+Maidstone,113140,Fareham and Portchester,107900,Chesterfield,99400,Cambridge,87100,Rotherham,84500,Watford,75600,Carlisle,67900,Lincoln,63100,Poole,57200,Dewsbury,54200,Dudley,51100,Exeter,47200
+Exeter,111770,Exeter,107400,Fareham and Portchester,99300,Eastbourne,86700,Sutton Coldfield,83600,Barnsley,74700,Barrow-in-Furness,67500,Merthyr Tydfil,62300,Great Yarmouth,56800,Gillingham,54000,Swindon,50800,Worcester,46600
+Doncaster,109800,Winchester,107200,Exeter,98100,Stockton-on-Tees,86700,Doncaster,81100,Greenock,74600,Gloucester,67300,Dudley,61600,Stretford,56800,Barnsley,53700,Aberdare,50800,Carlisle,45500
+Derry,107800,Colchester,105130,Winchester,96400,South Shields,86500,Wigan,81100,Hove,73000,Tynemouth,66600,Chiswick,61500,Bury,56200,Wakefield,52900,Bath,50700,Swindon,45000
+Basingstoke,107300,Derry,104700,Worthing,96200,Maidstone,86100,Gosport,78900,Gillingham,72900,North Shields,66600,Swindon,60600,Hove,55000,Carlisle,52700,Barnsley,50600,Darlington,44500
+Darlington,106000,Worthing,101900,Colchester,96000,Darlington,85500,Watford,78000,Motherwell,72800,Slough,66200,Carlisle,60200,Dewsbury,54300,Gloucester,51300,Gloucester,50000,Ashton-under-Lyne,43900
+Worthing,100200,Woking and Byfleet,96400,Maidstone,95000,Paisley,84300,Harlow,77900,Cheltenham,72200,Hastings,65500,Epsom and Ewell,59900,Gloucester,52900,Burton upon Trent,48900,Luton,50000,Aberdare,43400
+Woking and Byfleet,99200,Basingstoke,93900,Hartlepool,92000,Bath,84300,Newcastle-under-Lyme,77300,Sutton Coldfield,72200,Cheltenham,62800,Stretford,59700,Ashton-under-Lyne,51600,Worcester,48800,Cheltenham,48900,Eastbourne,43300
+Great Yarmouth,97200,Maidstone,93600,Cambridge,91900,Warrington,81400,Colchester,76700,Carlisle,71100,Dudley,62500,Bury,59400,Worcester,50500,Cheltenham,48400,Exeter,48700,Accrington,43100
+Worcester,97000,Great Yarmouth,90900,Burnley,91100,Chester,80200,Woking and Byfleet,76300,Tynemouth,70100,Stretford,61900,Worthing,59100,Burton upon Trent,49500,Crewe,46500,Doncaster,48500,Gillingham,42500
+Chesterfield,93200,Preston,87500,Worcester,89500,Hemel Hempstead,80100,Burnley,76100,Gloucester,69800,Merthyr Tydfil,61100,Wakefield,59000,Cheltenham,49400,Hove,46500,Burton upon Trent,48300,Crewe,42100
+Hartlepool,92000,Darlington,86400,Great Yarmouth,87700,Crawley,80100,Cheltenham,75500,Colchester,67500,Wakefield,60400,Hove,58800,Aberdare,48700,Clydebank,46500,Worcester,48000,Dover,41800
