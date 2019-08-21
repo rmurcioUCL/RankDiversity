@@ -1,0 +1,102 @@
+﻿city,2010,city,2001,city,1991,city,1981,city,1971,city,1961,city,1950,city,1940,city,1931,city,1921,city,1911,city,1900
+London,8173932,London,7187366,London,6679735,London,7566680,London,7452377,London,7992388,London,8348056,London,8655040,London,8203942,London,7480215,London,7251493,London,6339547
+Manchester,2682544,Birmingham,1013277,Birmingham,961097,Birmingham,1014012,Birmingham,1013483,Birmingham,1107232,Birmingham,1112757,Glasgow,1131828,Glasgow,1017371,Glasgow,1006216,Glasgow,884576,Glasgow,861768
+Glasgow,1622080,Leeds,726891,Glasgow,1298374,Glasgow,927392,Glasgow,1083265,Glasgow,1133862,Glasgow,1256998,Birmingham,1041020,Birmingham,1002648,Birmingham,922278,Liverpool,746418,Liverpool,702237
+Birmingham,1020589,Glasgow,1581250,Leeds,680706,Liverpool,538838,Liverpool,603228,Liverpool,745817,Liverpool,788780,Liverpool,827464,Liverpool,855761,Liverpool,802996,Manchester,2617598,Manchester,2357150
+Leeds,726939,Sheffield,530618,Sheffield,501245,Sheffield,470716,Manchester,2729741,Manchester,2699711,Manchester,2688987,Manchester,2693775,Manchester,2707070,Manchester,2660088,Birmingham,525896,Birmingham,522282
+Sheffield,530375,Bradford,483760,Bradford,457357,Leeds,445266,Sheffield,516100,Leeds,510749,Sheffield,512978,Sheffield,520099,Sheffield,511819,Sheffield,490683,Sheffield,454665,Leeds,429031
+Bradford,483422,Liverpool,458064,Liverpool,452595,Manchester,2575441,Leeds,501177,Sheffield,494347,Leeds,505259,Leeds,494015,Leeds,482853,Leeds,458262,Leeds,445612,Sheffield,409159
+Liverpool,467995,Edinburgh,450252,Manchester,2569750,Bristol,413955,Edinburgh,453402,Edinburgh,468445,Edinburgh,466877,Edinburgh,475530,Edinburgh,434045,Edinburgh,420345,Belfast,386912,Belfast,349236
+Edinburgh,448850,Manchester,2482352,Edinburgh,404005,Edinburgh,408837,Bristol,426203,Bristol,437035,Bristol,442378,Belfast,438194,Belfast,415300,Belfast,415289,Bristol,357068,Bristol,329445
+Bristol,399633,Bristol,405231,Bristol,339624,Wirral,339049,Middlesbrough,395521,Belfast,399368,Nottingham,306113,Bristol,415596,Bristol,397064,Bristol,377036,Edinburgh,320345,Edinburgh,304864
+Wirral,329179,Wirral,326678,Wirral,330894,Leicester,324449,Belfast,360273,Coventry,395537,Hull,299186,Hull,318722,Hull,313521,Bradford,291059,Bradford,288520,Bradford,279869
+Wakefield,317342,Cardiff,324423,Wakefield,310973,Hull,322113,Wirral,355834,Wirral,352081,Bradford,292450,Newcastle upon Tyne,291323,Bradford,298008,Hull,287265,Hull,278026,Hull,240316
+Cardiff,315040,Wakefield,319614,Dudley,304683,Coventry,318793,Coventry,333022,Sandwell,339544,Newcastle upon Tyne,291731,Bradford,288711,Newcastle upon Tyne,283222,Newcastle upon Tyne,275030,Newcastle upon Tyne,266635,Nottingham,239757
+Dudley,312194,Dudley,311975,Sandwell,290128,Sandwell,307065,Sandwell,330216,Nottingham,311906,Leicester,285214,Nottingham,278318,Stoke-on-Trent,276690,Nottingham,262653,Nottingham,259909,Newcastle upon Tyne,215311
+Coventry,306503,Coventry,303908,Sefton,289520,Sefton,302015,Sefton,307561,Hull,303366,Stoke-on-Trent,275135,Stoke-on-Trent,272057,Nottingham,268820,Portsmouth,247314,Stoke-on-Trent,234538,Stoke-on-Trent,214748
+Belfast,297396,Belfast,297271,Sunderland,289093,Belfast,297910,Nottingham,296838,Bradford,295975,Coventry,258212,Leicester,263344,Portsmouth,252460,Stoke-on-Trent,240420,Portsmouth,231109,Leicester,211608
+Leicester,294830,Leicester,290907,Doncaster,288988,Bradford,293369,Bradford,294516,Sefton,294571,Cardiff,243628,Portsmouth,258447,Leicester,239243,Leicester,234122,Leicester,227214,Portsmouth,188171
+Sunderland,294261,Sunderland,290792,Coventry,284423,Nottingham,273354,Hull,284753,Leicester,273565,Portsmouth,233524,Cardiff,223173,Cardiff,223699,Plymouth,210075,Cardiff,182338,Cardiff,164382
+Sandwell,292196,Doncaster,289906,Belfast,284417,Stoke-on-Trent,272418,Leicester,282089,Newcastle upon Tyne,269743,Plymouth,209085,Coventry,213083,Plymouth,208288,Cardiff,200264,Dundee,165087,Dundee,161214
+Sefton,289739,Sandwell,289435,Nottingham,284022,Wolverhampton,263548,Cardiff,276810,Stoke-on-Trent,265343,Aberdeen,182719,Plymouth,211847,Sunderland,185872,Dundee,168326,Aberdeen,163995,Sunderland,146171
+Nottingham,283969,Sefton,286950,Cardiff,272616,Cardiff,262329,Wolverhampton,268475,Cardiff,256308,Sunderland,181582,Sunderland,182429,Southampton,176005,Rhondda,162720,Rhondda,152863,Blackburn,129298
+Newcastle-upon-Tyne,282338,Nottingham,284374,Leicester,270502,Plymouth,238645,Stoke-on-Trent,263687,Portsmouth,215164,Southampton,178357,Aberdeen,180852,Dundee,175654,Southampton,161030,Sunderland,151277,Brighton,123529
+Hull,266775,Newcastle upon Tyne,273047,Hull,266907,Derby,218007,Plymouth,246953,North Tyneside,210569,Dundee,177392,Southampton,180135,Aberdeen,167361,Sunderland,159162,Blackburn,133107,Aberdeen,114903
+Walsall,262593,Walsall,261130,Newcastle upon Tyne,259586,Southampton,211341,Newcastle upon Tyne,221432,Southampton,204822,Wolverhampton,162704,Dundee,179037,Coventry,167122,Aberdeen,159027,Brighton,131236,Derby,114878
+Plymouth,255826,Hull,257926,Walsall,259577,Newcastle upon Tyne,199107,Derby,219379,Plymouth,204463,Swansea,161086,Swansea,161104,Swansea,164805,Swansea,157626,Birkenhead,130815,Rhondda,113785
+Rotherham,255342,Rotherham,253745,Plymouth,255876,North Tyneside,197423,Sunderland,215734,Calderdale,201275,Brighton,156513,Brighton,146583,Birkenhead,147805,Birkenhead,145625,Derby,123418,Preston,113073
+Stoke-on-Trent,254438,Plymouth,253299,Stoke-on-Trent,254326,Sunderland,195124,Southampton,213615,Sunderland,189781,Southend-on-Sea,151821,Wolverhampton,145343,Brighton,147410,Brighton,142460,Norwich,121547,Norwich,111769
+Wolverhampton,244453,Stoke-on-Trent,250837,Rotherham,251699,Reading,194783,North Tyneside,207981,Aberdeen,185451,Middlesbrough,147352,Birkenhead,144474,Derby,142490,Middlesbrough,131111,Southampton,119022,Birkenhead,110995
+Derby,233708,Wolverhampton,240986,Wolverhampton,242221,Calderdale,190365,Portsmouth,204335,South Tyneside,184848,Blackpool,147278,Middlesbrough,139807,Rhondda,141355,Derby,129840,Preston,117113,Gateshead,109975
+Swansea,230180,Derby,236473,Derby,235277,Aberdeen,186892,Calderdale,195299,Dundee,183015,Bournemouth,144722,Derby,139058,Middlesbrough,138395,Coventry,128233,Gateshead,116925,Plymouth,107638
+Barnsley,227213,Swansea,229832,Barnsley,220944,Dudley,186550,Knowsley,194189,Swansea,166726,Birkenhead,142578,Southend-on-Sea,138142,Wolverhampton,133250,Blackburn,126664,Swansea,114742,Halifax,104969
+Aberdeen,217260,Barnsley,228280,Aberdeen,218280,Walsall,177930,Dudley,185497,Southend-on-Sea,165148,Derby,141359,Blackpool,125810,Norwich,126254,Gateshead,125158,Plymouth,112001,Southampton,104850
+Southampton,214859,Southampton,215321,Southampton,214953,Portsmouth,174264,Walsall,184441,Brighton,163225,Oldbury and Smethwick,130314,Huddersfield,125636,Blackburn,122735,Wolverhampton,123364,South Shields,108660,South Shields,100967
+Solihull,203922,Aberdeen,213174,Milton Keynes,204500,Knowsley,173079,Dundee,182186,Middlesbrough,157436,Huddersfield,129010,Oldbury and Smethwick,125176,Gateshead,122408,Norwich,121334,Huddersfield,107834,Burnley,97048
+Gateshead,200968,Milton Keynes,206994,Renfrew,201240,Swansea,172415,Aberdeen,182038,Bournemouth,154305,Norwich,121264,Gateshead,124533,Southend-on-Sea,120132,South Shields,120739,Burnley,106357,Huddersfield,95002
+Milton Keynes,197131,Reading,206094,Solihull,199998,Dundee,172343,South Tyneside,177159,Blackpool,153268,Preston,119374,Norwich,122318,Preston,119062,Preston,118609,Coventry,106395,Swansea,94536
+North Tyneside,193619,Solihull,205630,Gateshead,199660,Norwich,169840,Swansea,171375,Knowsley,151448,Gateshead,115087,Bournemouth,122125,Bournemouth,116856,Huddersfield,117495,Middlesbrough,104847,Wolverhampton,94257
+Calderdale,192844,Renfrew,202158,North Tyneside,192397,Preston,166728,West Bromwich,166631,Wolverhampton,150818,Walsall,114556,Rhondda,121939,South Shields,113533,Southend-on-Sea,110172,Halifax,101626,Middlesbrough,91345
+Northampton,192382,Northampton,194450,Calderdale,191637,Luton,163287,Brighton,163953,Birkenhead,141807,Reading,114284,Preston,113259,Huddersfield,113594,Burnley,106049,Saint Helens,96618,Northampton,87071
+Portsmouth,190370,Calderdale,192478,Portsmouth,190430,South Tyneside,160146,Oldbury and Smethwick,163357,Derby,132494,Rhondda,111449,Blackburn,113045,Saint Helens,106873,Saint Helens,103251,Wolverhampton,95368,Walsall,86486
+Warrington,189012,North Tyneside,192075,Warrington,187031,Middlesbrough,158223,Southend-on-Sea,162423,Luton,131626,Blackburn,111291,South Shields,110472,Walsall,103199,Blackpool,102629,Walsall,92115,Hartlepool,85432
+Norwich,186623,Stockton-on-Tees,191621,Swansea,182193,Southend-on-Sea,155706,Luton,160767,Huddersfield,130730,Saint Helens,110365,Walsall,107364,Blackpool,101674,Halifax,99621,Northampton,90125,Saint Helens,84407
+Swindon,182433,Warrington,191250,Luton,181553,Northampton,154211,Blackpool,149894,Norwich,120197,Luton,109208,Saint Helens,107297,Burnley,98370,Walsall,99169,Govan,89647,Oldbury and Smethwick,79749
+Luton,181468,Gateshead,191061,Northampton,180686,West Bromwich,153735,Bournemouth,149056,Reading,119917,South Shields,106680,York,100830,Halifax,98160,Newport,96993,Paisley,84597,Paisley,79481
+Saint Helens,179483,Portsmouth,186750,Stockton-on-Tees,179020,Oldbury and Smethwick,153333,Birkenhead,138130,Walsall,118577,Newport,105595,Reading,100409,Wallasey,97655,Reading,92450,Newport,83712,York,77971
+Stockton-on-Tees,179009,Swindon,180185,Saint Helens,178857,Huddersfield,147846,Reading,133463,Ipswich,117418,York,105489,Halifax,97432,Reading,97175,Bournemouth,92362,York,82335,Leith,77495
+York,175095,Saint Helens,176856,Swindon,177161,Blackpool,146338,Huddersfield,130695,Thurrock,114335,Ipswich,104862,Northampton,96532,Grimsby,92507,Northampton,91899,Devonport,81750,Aston Manor,77341
+Southend-on-Sea,172266,Middlesbrough,175130,Southend-on-Sea,172332,Bournemouth,142867,Basildon,129980,Preston,113350,Northampton,104489,Newport,95949,Northampton,92354,Wallasey,90920,King's Norton and Northfield,81294,Govan,76437
+New Forest,169513,Norwich,173858,Bath,164716,Brighton,134693,Northampton,126330,South Shields,109598,Wallasey,101411,Ipswich,95122,Newport,89208,Paisley,89440,Merthyr Tydfil,81032,Reading,72269
+Bath,164725,Luton,173749,Wycombe,162042,Ipswich,129778,Thurrock,125006,Saint Helens,108779,Oxford,98746,Wallasey,94255,Ipswich,87547,York,84892,Leith,80558,Devonport,70425
+Wycombe,164045,Bath,170282,Basildon,161166,Swindon,127389,Ipswich,122730,Newport,108143,Halifax,98409,Oxford,94109,Paisley,86406,Grimsby,84089,Bournemouth,78752,Coventry,70014
+Basildon,163280,New Forest,169549,Dundee,161078,Thurrock,127071,Norwich,120702,Oxford,106311,Beeston and Stapleford,97737,Paisley,92786,York,84850,Oldbury and Smethwick,82476,Wallasey,78539,Merthyr Tydfil,69263
+Huddersfield,163038,Bournemouth,167785,New Forest,160546,York,123187,Newport,111826,Blackburn,106245,Grimsby,94479,Grimsby,92316,Oldbury and Smethwick,84406,Greenock,82142,Reading,75214,Greenock,68172
+Bournemouth,160749,Basildon,165955,Peterborough,159941,Poole,122899,Oxford,110683,Northampton,105449,Paisley,93724,Luton,90876,West Bromwich,81379,Merthyr Tydfil,81185,Greenock,75186,Newport,67345
+Oxford,160012,Wycombe,162103,Bournemouth,155592,Rotherham,122427,Havant,108831,York,104423,West Bromwich,88081,Burnley,88738,Oxford,80580,Ipswich,80112,Aston Manor,75078,Ipswich,66684
+Peterborough,158674,Southend-on-Sea,160496,South Tyneside,154789,Newport,115995,Solihull,107562,Gateshead,103323,Burnley,85058,Hartlepool,88575,Warrington,79340,Warrington,79484,Grimsby,74675,Hastings,65583
+Chelmsford,156601,Peterborough,156098,Chelmsford,152494,Saint Helens,114471,Poole,106643,Wallasey,103267,Darlington,84948,West Bromwich,82799,Greenock,78949,Southport,76888,Ipswich,73919,West Bromwich,65251
+Brighton,156124,Chelmsford,156099,Knowsley,152147,Oxford,113898,York,105264,Rhondda,100363,Southport,84066,Greenock,81796,Southport,78996,Bootle,76675,Warrington,72203,Warrington,64289
+South Tyneside,156078,Brighton,155906,Macclesfield,151681,Peterborough,113475,Saint Helens,104129,Grimsby,96711,Poole,83100,Southport,78632,Bootle,76873,West Bromwich,76508,Oldbury and Smethwick,70762,Grimsby,63154
+Poole,154745,South Tyneside,152889,Blackpool,151259,Blackburn,109615,Blackburn,101163,Halifax,96165,Rotherham,82391,Cambridge,78229,Darlington,72155,Barrow-in-Furness,75127,Bootle,69911,Hanley,61607
+Colchester,154176,Knowsley,150460,Birkenhead,150160,Watford,109561,South Shields,100245,West Bromwich,96064,Doncaster,82180,Warrington,78189,Barnsley,71517,Partick,74282,Southport,69668,Bournemouth,59837
+Knowsley,154053,Macclesfield,150089,Middlesbrough,144589,Gloucester,106512,Cambridge,99664,Solihull,96013,Thurrock,82178,Hanley,77856,Merthyr Tydfil,71174,Motherwell,69726,Handsworth,68641,Bootle,58628
+Macclesfield,152604,Blackpool,148335,Reading,142930,Slough,106314,Wallasey,97569,Paisley,95894,Cambridge,81582,Rotherham,76486,Rotherham,69745,Bath,68907,West Bromwich,68301,Barrow-in-Furness,57671
+Blackpool,152459,Huddersfield,147364,West Bromwich,140069,Sutton Coldfield,102691,Hartlepool,97195,Cambridge,95538,Warrington,80724,Leith,76085,Bath,68824,Hartlepool,68763,Partick,66828,King's Norton and Northfield,57160
+Dundee,150250,Dundee,146788,Poole,139241,Birkenhead,99123,Preston,96823,Poole,92194,Bath,79303,Darlington,75930,Luton,68531,Rotherham,68636,Hartlepool,63951,Rotherham,54361
+Middlesbrough,146778,Poole,144832,Oxford,134843,Basildon,94852,Grimsby,95640,Swindon,91767,Greenock,76393,Bootle,74171,Hartlepool,68189,Oxford,68078,Barrow-in-Furness,63830,Partick,54371
+Cambridge,145852,Thurrock,143173,Thurrock,132375,Solihull,93984,Paisley,95356,Doncaster,86394,Barnsley,75648,Handsworth,72674,Stockton-on-Tees,67796,Hastings,67313,Southend-on-Sea,62702,Wallasey,53678
+Ipswich,145003,Oxford,142492,Brighton,132063,Woking and Byfleet,92785,Gateshead,94772,Rotherham,85599,Exeter,75510,Doncaster,71637,Cambridge,66898,Lincoln,66581,Rotherham,62573,Handsworth,52999
+Birkenhead,143093,Birkenhead,138225,Ipswich,130150,Gillingham,92531,Exeter,93822,Darlington,84277,Bootle,75055,Barnsley,71582,Barrow-in-Furness,66216,Darlington,66028,Hastings,61104,Stockton-on-Tees,51588
+Reading,142851,West Bromwich,136987,Newport,129909,Hartlepool,91746,Halifax,91053,Bootle,82870,Stockton-on-Tees,74211,Gillingham,70699,Lincoln,66241,Stockton-on-Tees,65839,Tynemouth,58857,Tynemouth,51426
+West Bromwich,137078,York,136674,Preston,126122,Grimsby,91571,Swindon,90716,Southport,82088,Watford,73137,Exeter,69276,Exeter,66013,Tynemouth,64185,Stockton-on-Tees,58561,Great Yarmouth,51311
+Gloucester,136400,Ipswich,127820,Huddersfield,122060,Gateshead,91427,Gloucester,90028,Stockton-on-Tees,81325,Hartlepool,72752,Poole,68950,Hastings,65277,Eastbourne,63871,Blackpool,58427,Jarrow,50983
+Newport,128078,Cambridge,127313,Norwich,120987,Chelmsford,91165,Rhondda,89022,Bath,80956,Gillingham,70784,Motherwell,68433,Tynemouth,64929,Chesterfield,62013,Lincoln,57318,Burton upon Trent,50475
+Preston,122779,Gloucester,123687,Havant,119774,Worthing,90718,Gillingham,88549,Slough,80811,Newcastle-under-Lyme,70084,Wishaw,68410,Motherwell,64763,Great Yarmouth,61298,Great Yarmouth,55944,Bath,49822
+Havant,120760,Newport,120617,Slough,108057,Southport,88626,Aldridge-Brownhills,88272,Burnley,80641,Hove,69547,Bath,68351,Chesterfield,64298,Exeter,60733,Darlington,55641,Cheltenham,49448
+Blackburn,117970,Havant,116823,Cheltenham,103110,Exeter,88284,Worthing,87819,Exeter,80390,Lincoln,69405,Stockton-on-Tees,67369,Doncaster,63355,Cambridge,59610,Dewsbury,53480,Oxford,49393
+Winchester,116636,Cheltenham,110386,Gloucester,101605,Derry,87633,Slough,87724,Lincoln,77168,Worthing,69452,Barrow-in-Furness,66995,Swindon,62452,Luton,59333,Chesterfield,53424,Lincoln,48885
+Cheltenham,116433,Blackburn,108726,York,101076,Colchester,87502,Darlington,85922,Hartlepool,77057,Swindon,68936,Tynemouth,66507,Gillingham,61509,Swindon,57191,Oxford,53013,Dudley,48757
+Maidstone,113140,Fareham and Portchester,107990,Darlington,101019,Cheltenham,87266,Bath,85661,Warrington,76029,Chesterfield,68684,Watford,65791,Dudley,59608,Dudley,56890,Eastbourne,52569,Southport,48173
+Exeter,111770,Exeter,107500,Chesterfield,99425,Cambridge,87113,Southport,84960,Watford,75603,Motherwell,68284,Chesterfield,64720,Wakefield,59105,Aberdare,55976,Gillingham,52393,Gloucester,48085
+Doncaster,109869,Winchester,107272,Fareham and Portchester,99317,Eastbourne,86719,Rotherham,84509,Barnsley,74771,Wishaw,68223,Hastings,64383,Eastbourne,57403,Doncaster,55059,Wakefield,51568,Blackpool,47358
+Derry,107853,Colchester,105130,Exeter,98197,Stockton-on-Tees,86753,Sutton Coldfield,83624,Greenock,74610,Solihull,68034,Newcastle-under-Lyme,63438,Carlisle,57302,Dewsbury,54493,Dudley,51200,Exeter,47202
+Basingstoke,107347,Derry,104701,Winchester,96463,South Shields,86556,Doncaster,81190,Hove,73076,Carlisle,67962,Lincoln,63122,Poole,57234,Gillingham,54231,Swindon,50872,Worcester,46656
+Darlington,106081,Worthing,101986,Worthing,96288,Maidstone,86132,Gosport,78930,Gillingham,72972,Barrow-in-Furness,67591,Merthyr Tydfil,62341,Great Yarmouth,56874,Barnsley,54084,Aberdare,50871,Carlisle,45521
+Worthing,100283,Woking and Byfleet,96480,Colchester,96076,Darlington,85509,Watford,78068,Motherwell,72859,Gloucester,67351,Dudley,61631,Stretford,56875,Wakefield,53733,Bath,50733,Swindon,45029
+Woking and Byfleet,99248,Basingstoke,93968,Maidstone,95056,Paisley,84342,Harlow,77964,Cheltenham,72300,Tynemouth,66658,Chiswick,61505,Hove,55047,Carlisle,52945,Barnsley,50636,Darlington,44584
+Great Yarmouth,97263,Maidstone,93660,Hartlepool,92094,Bath,84357,Newcastle-under-Lyme,77320,Sutton Coldfield,72287,North Shields,66606,Swindon,60642,Dewsbury,54329,Gloucester,52763,Gloucester,50056,Ashton-under-Lyne,43974
+Worcester,97066,Great Yarmouth,90922,Cambridge,91979,Warrington,81444,Colchester,76729,Carlisle,71111,Slough,66280,Carlisle,60221,Gloucester,52951,Burton upon Trent,51400,Luton,50066,Aberdare,43432
+Chesterfield,93283,Preston,87524,Burnley,91184,Chester,80221,Woking and Byfleet,76359,Tynemouth,70155,Hastings,65508,Epsom and Ewell,59963,Ashton-under-Lyne,51661,Worcester,48936,Cheltenham,48961,Eastbourne,43323
+Hartlepool,92047,Darlington,86480,Worcester,89568,Hemel Hempstead,80198,Burnley,76157,Gloucester,69852,Cheltenham,62821,Stretford,59724,Worcester,50574,Cheltenham,48822,Exeter,48794,Accrington,43133
+Grimsby,88243,Hartlepool,86030,Great Yarmouth,87776,Crawley,80178,Cheltenham,75555,Colchester,67508,Dudley,62529,Worthing,59197,Burton upon Trent,49513,Crewe,48402,Doncaster,48514,Gillingham,42540
+Halifax,88134,Hastings,85830,Hemel Hempstead,87379,Hemel Hempstead,80166,Bootle,74339,Hastings,66544,Stretford,61918,Wakefield,59079,Cheltenham,49480,Hove,46598,Burton upon Trent,48330,Crewe,42172
+Bedford,87590,Chesterfield,85110,Hartlepool,87310,Lincoln,80072,Motherwell,74232,Worcester,65963,Merthyr Tydfil,61199,Hove,58889,Aberdare,48745,Clydebank,46554,Worcester,48082,Dover,41839
+Nuneaton,86552,Burnley,84112,Burnley,87231,Harlow,79223,Lincoln,74168,Barrow-in-Furness,64914,Wakefield,60482,Gloucester,56567,Clydebank,47069,Scarborough,46299,Carlisle,46044,Keighley,41607
+Chester,86011,Derry (Londonderry),83652,Darlington,86767,Scunthorpe,79043,Worcester,73077,Dudley,63057,Worcester,59766,Eastbourne,56455,Worthing,46232,Leigh,45512,Ashton-under-Lyne,45276,Wakefield,41483
+Weston-super-Mare,83641,Halifax,83440,Bath,85202,Barnsley,76864,Bedford,72931,Wakefield,61367,Gosport,58297,Great Yarmouth,53879,Torquay,46247,Derry,45223,Crewe,45067,Ilford,41236
+Derry (Londonderry),83125,Nuneaton,83070,Chester,84254,Halifax,76788,Hastings,72824,Eastbourne,60951,Eastbourne,57871,Worcester,53346,Mansfield,46112,Mansfield,44413,Accrington,45089,Barnsley,41134
+Stockton-on-Tees,82729,Bedford,82660,Stockton-on-Tees,83576,Saint Albans,76744,Epsom and Ewell,72120,Chester,59393,Colchester,57427,Wood Green,53234,Crewe,46127,Eccles,44259,Leigh,44145,Lancaster,40310
+St Albans,82146,Chester,81650,Worcester,82661,Burnley,76415,Hove,72056,Merthyr Tydfil,59043,Keighley,56960,Dewsbury,52989,Leigh,45375,Coatbridge,43916,Dover,43608,Leigh,40053
+Harlow,82059,Stevenage,80970,Basingstoke,81228,Bedford,75698,Carlisle,71838,Coatbridge,53922,Epsom and Ewell,56606,Cheltenham,51972,Derry,45224,Poole,43708,Colchester,43598,Derry,39938
+Redditch,81919,Stockton-on-Tees,80060,Hastings,81139,Worcester,75565,Maidstone,71342,Dewsbury,53089,Woking and Byfleet,55090,Colchester,51978,Accrington,45095,Accrington,43690,Keighley,43587,Colchester,38457

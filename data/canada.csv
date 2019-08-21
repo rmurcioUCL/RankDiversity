@@ -1,0 +1,100 @@
+﻿city,2011,city,2002,city,c1991,city,c1981,city,c1971,city,c1961,city,1951,city,1941,city,1931,city,1921,city,1911,city,1901
+Toronto,5852602,Abbotsford ,155316,Abbotsford,100045,Drummondville,54480,Anjou,33919,Alma,19962,Barrie,21858.336,Amherst,8630,Montreal,818666,Montreal,618555,Montreal,470590,Montreal,267714
+Montreal,4031844,Ajax ,73753,Ajax,57446,Chilliwack,63410.4,Barrie,60717.6,Barrie,36430.56,Belleville,20529,Barrie,9748,Toronto,631201,Toronto,521928,Toronto,376524,Toronto,208083
+Vancouver,2419030,Barrie ,161642,Barrie,126495,Lethbridge,64889,Belleville,35239,Belleville,30751,Brandon,24632,Belleville,15714,Vancouver,246654,Winnipeg,179196,Winnipeg,136052,Quebec,68845
+Ottawa,1303536,Beauport ,72813,Beauport,69219,Kamloops,71910,Brampton,73602,Brampton,18553,Brantford,51653,Brandon,17632,Winnipeg,218830,Vancouver,117249,Vancouver,100445,Ottawa,59917
+Calgary,1300352,Belleville ,84098,Brampton,234426,Brantford,90939.2,Brantford,65081,Brandon,28277,Calgary,177938,Brantford,31973,Quebec,130643,Hamilton,114227,Ottawa,87116,Hamilton,52638
+Edmonton,1234370,Brampton ,325428,Brantford,113674,Guelph,91216.8,Burlington,86182,Brantford,56779,Cambridge,23641,Brockville,11367,Ottawa,126964,Ottawa,107894,Hamilton,82096,Winnipeg,42375
+Quebec,783564,Brantford ,129629,Brossard,64869,Kelowna,100251.2,Burnaby,124246,Brockville,17731,Cap-de-la-Madeleine,22514,Calgary,88927,Hamilton,115599,Quebec,95224,Quebec,78722,Halifax,40822
+Winnipeg,756937,Brossard ,65026,Burlington,129615,Peterborough,100778.4,Calgary,403326,Burlington,47026,Charlottetown,16442,Cambridge,15320,Calgary,83879,Calgary,63312,Halifax,46699,Saint John,40740
+Hamilton,748208,Burlington ,150836,Burnaby,158943,Barrie,101196,Cambridge,64100,Calgary,279183,Chatham,22205,Cap-de-la-Madeleine,12035,Edmonton,119267,London,61052,London,46393,London,38090
+Kitchener,517328,Burnaby ,193954,Calgary,768650,Sherbrooke,139767.2,Charlesbourg,33408,Cambridge,27814,Chicoutimi,24479,Charlottetown,14564,London,71041,Edmonton,88870,Calgary,43703,Saint Johns,29682
+London,439584,Caledon ,50595,Cambridge,92845,Niagara Falls,210923.4,Chateauguay,33785,Cap-de-la-Madeleine,26915,Corner Brook,23125,Chatham,17426,Windsor,63136,Halifax,58482,Saint John,42583,Vancouver,26111
+Niagara Falls,404524,Calgary ,1007469,Charlesbourg,70825,Victoria,246527.2,Chatham,35344,Charlottetown,19057,Cornwall,18002,Chicoutimi,16027,Verdun,60772,Saint John,47207,Saint Johns,32300,Victoria,20869
+Halifax,404389,Cambridge ,110372,Charlottetown,57589,Ottawa,793315,Chicoutimi,131924,Chatham,29875,Dartmouth,20004,Corner Brook,12571,Halifax,59340,Verdun,42291,Victoria,31758,Kingston,18070
+Oshawa,372378,Cape Breton ,105968,Chicoutimi,160947,Vancouver,1468211,Chilliwack,50728.32,Chicoutimi,105072,Drummondville,26458,Cornwall,14151,Regina,53218,Victoria,38723,Regina,30213,Brantford,15799
+Victoria,358422,Charlesbourg ,70310,Chilliwack,79263,Toronto,3498967,Cornwall,47103,Corner Brook,25445,East Kildonan,18671,Dartmouth,10820,Saint John,47506,Windsor,38641,Verdun,25086,Windsor,12018
+Windsor,329884,Charlottetown,62539,Coquitlam,84007,Abbotsford,42007,Dartmouth,64002,Cornwall,43603,East York,69479,Drummondville,10675,Thunder Bay,46180,Thunder Bay,35478,Edmonton,49973,Charlottetown,11476
+Saskatoon,280764,Chatham-Kent ,107341,Cornwall,53551,Anjou,37387,Drummondville,43584,Dartmouth,47007,Eastview,19073,Eastview,8040,Saint Johns,42642,Regina,34475,Brantford,23008,Hull,11309
+Sherbrooke,206578,Chicoutimi ,160973,Dartmouth,67891,Beauport,60494,East York,104993,Drummondville,39301,Edmonton,324031,Edmonton,173846,Saskatoon,41772,Brantford,29430,New Westminster,20045,Guelph,10676
+St. Johns,204542,Chilliwack ,88183,Delta,89025,Brampton,149036,Edmonton,690853,East Kildonan,28178,Etobicoke,103104,Forest Hill,11858,Victoria,39108,Saskatoon,25797,Sherbrooke,18458,Saint-Thomas,10409
+Barrie,194432,Clarington ,69834,Drummondville,68160,Brossard,52290,Etobicoke,282232,Eastview,24693,Forest Hill,19097,Fredericton,10135,Trois-Rivieres,35512,Hull,24111,Hull,18191,Sherbrooke,10107
+Regina,192079,Coquitlam ,112890,East York,102754,Burlington,114911,Fredericton,37730,Edmonton,537695,Fredericton,18092,Galt,15358,Kitchener,30830,Sherbrooke,23580,Windsor,18053,Trois-Rivieres,10083
+Kelowna,186126,Cornwall ,49640,Edmonton,700471,Burnaby,136552,Galt,38903,Fredericton,24855,Galt,23647,Glace Bay,25154,Brantford,30156,Sydney,23180,Kingston,18059,Sydney,9933
+Abbotsford,176538,Delta ,96950,Etobicoke,310071,Calgary,626020,Glace Bay,43584,Galt,27892,Glace Bay,24136,Granby,14279,Hull,29412,Trois-Rivieres,22437,Sydney,17707,Belleville,9975
+Greater Sudbury ,168197,Dollard-des-Ormeaux ,48206,Fredericton,71973,Cambridge,77296,Granby,39395,Glace Bay,24258,Granby,26167,Grand'Mere,8627,Sherbrooke,28976,Kitchener,21887,Glace Bay,16605,Peterborough,9732
+Kingston,164326,Drummondville ,76599,Gatineau,92352,Charlesbourg,68381,Guelph,72973.44,Granby,31520,Guelph,35027.2512,Guelph,23353,Outremont,28633,Kingston,21895,Medicine Hat,16019,Stratford,9506
+Chicoutimi-Jonquiere,161163,Edmonton ,984555,Gloucester,110781,Charlottetown,45069,Halifax,220438,Guelph,43784.064,Halifax,90956,Halifax,70570,Saint Catharines,24801,Sault Sainte Marie,21077,Westmount,14678,Moncton,9050
+Trois-Rivieres,153875,Fredericton ,47560,Guelph,114021,Chateauguay,36978,Hamilton,495913,Halifax,183936,Hamilton,237708,Hamilton,166324,Westmount,24377,Peterborough,21088,Moose Jaw,13812,Brockville,8812
+Guelph,147992,Gatineau ,102898,Halifax,325526,Chatham,41041,Hull,62823,Hamilton,395294,Hull,48989,Hull,32935,Oshawa,23401,Saint Catharines,19931,Saint Boniface,13821,Woodstock,8822
+Moncton,142812,Greater Sudbury ,155219,Hamilton,643286,Chicoutimi,135226,Kamloops,43818,Hull,56905,Jacques-Cartier,33091,Joliette,12749,Kingston,23437,Guelph,18188,Saskatoon,12048,Sarnia,8292
+Brantford,139845,Guelph ,131172,Hull,60734,Cornwall,53437,Kelowna,80200.96,Jacques-Cartier,40821,Joliette,16917,Jonquiere,13882,Sault Sainte Marie,23108,Westmount,17630,Lethbridge,12073,Cambridge,7560
+Saint John,129827,Halifax ,374410,Jonquiere,57966,Dartmouth,62391,Kingston,77009,Joliette,22294,Jonquiere,25412,Kingston,30112,Sydney,22537,Moncton,17568,Moncton,11368,Galt,7506
+Thunder Bay,125024,Halton Hills ,48184,Kamloops,79928,Delta,74792,Kitchener,224420,Jonquiere,28612,Kingston,48067,Kitchener,35756,Peterborough,22304,Glace Bay,17076,Charlottetown,11213,Owen Sound,7540
+Peterborough,122472,Hamilton ,697023,Kelowna,125314,Dollard-des-Ormeaux,39949,La Salle,72915,Kamloops,18748,Kitchener,59242,La Tuque,7942,Guelph,21113,Stratford,16100,Amherst,9048,Waterloo,7385
+Lethbridge,111299,Hull ,66246,Kingston,136450,East York,102075,Lachine,44491,Kingston,63487,La Salle,18922,Lachine,20147,Moncton,20753,Saint-Thomas,16097,Nanaimo,8292,Levis,7351
+Belleville,104710,Jonquiere ,54842,Kitchener,378687,Edmonton,657127,Laval,228150,Kitchener,154923,Lachine,34383,Lethbridge,16568,Glace Bay,20721,Brandon,15477,Brandon,7570,Edmonton,27034
+Kanata,104559,Kamloops ,89329,La Salle,73841,Etobicoke,298727,Lethbridge,51840,Lachine,38625,Leaside,16596,Levis,12083,Niagara Falls,19088,Lachine,15487,Fredericton,7278,Saint-Hyacinthe,7076
+Cape Breton,103116,Kawartha Lakes ,69179,Laval,314426,Fredericton,64400,London,284548,Lethbridge,41472,Lethbridge,31194,Lindsay,8497,Moose Jaw,19078,Sarnia,14963,Nelson,7068,Cornwall,6764
+Kamloops,102072,Kelowna ,155950,Leamington,35842,Gatineau,75058,Longueuil,97532,London,181353,London,100671,London,78395,Lachine,18618,Niagara Falls,14837,Yarmouth,6612,New Westminster,6767
+Nanaimo,101242,Kingston ,154919,Lethbridge,81021,Granby,38190,Markham,36714,Longueuil,24142,Medicine Hat,20661,Magog,9051,Sudbury,18554,New Westminster,14512,New Glasgow,6460,Sorel,6765
+Sarnia,99547,Kitchener ,439937,Levis,39526,Halifax,277756,Mississauga,172433,Medicine Hat,25310,Moncton,35610,Medicine Hat,12939,Sarnia,18296,Chatham,13395,Prince Albert,6346,Nanaimo,6508
+Chilliwack,97582,Langley ,86896,London,419584,Hamilton,529406,Moncton,71420,Mimico,18260,Mont-Royal,15947,Mimico,8140,Stratford,17729,Cambridge,13282,Truro,6159,Fredericton,6582
+Drummondville,93046,LaSalle ,73983,Longueuil,129918,Hull,56282,Montreal,2720415,Moncton,55831,Montreal,1094419,Moncton,22825,New Westminster,17524,Outremont,13271,Portage la Prairie,5904,Yarmouth,6420
+Red Deer,89715,Laval ,343005,Markham,153806,Jonquiere,50413,Montreal-Nord,88180,Montreal,2109504,Montreal-Nord,25406,Montreal,903058,Brandon,17188,Saint Boniface,12955,Wetaskiwin,4539,Dartmouth,6330
+Prince George,86846,Lethbridge ,100238,Medicine Hat,52704,Kingston,115020,Nanaimo,38816,Montreal-Nord,48439,Moose Jaw,29349,Moose Jaw,23181,Saint Boniface,16358,Charlottetown,12362,Prince Rupert,4238,Chatham,6248
+White Rock,85062,London ,458586,Mississauga,463443,Kitchener,287871,New Westminster,42179,Moose Jaw,33222,New Westminster,31446,New Glasgow,9248,North Bay,15552,Belleville,12229,Dawson,3041,Lindsay,6193
+Granby,82445,Longueuil ,128016,Moncton,119352,La Salle,76323,Niagara Falls,126554.04,Nanaimo,18091,Niagara Falls,37966.212,New Toronto,9584,Saint-Thomas,15471,Owen Sound,12253,Summerside,2772,Truro,6054
+Sault Ste. Marie,82212,Maple Ridge ,63169,Montreal,3123596,Lachine,37511,North Bay,49188,New Glasgow,22017,North Bay,20437,New Waterford,9323,Shawinigan,15355,Oshawa,11925,Red Deer,2441,Barrie,5681
+Saint-Jean-sur-Richelieu,81802,Markham ,208615,Montreal-Nord,85520,Laval,268318,North Vancouver,31809,New Westminster,33753,North Vancouver,19831,New Westminster,22016,Cambridge,14025,Lethbridge,11198,Whitehorse,755,Salaberry-de-Valleyfield,5565
+Medicine Hat,76156,Medicine Hat ,60924.8,Nanaimo,73559,London,283729,North York,504537,Niagara Falls,75932.424,North York,168622,Niagara Falls,20649,Chatham,14013,Saint-Hyacinthe,10982,North York,0,Yarmouth,5511
+Milton,75880,Mississauga ,612925,Nepean,107675,Longueuil,124342,Oakville,61497,North Bay,33516,Oak Bay,14757,North Bay,15603,Belleville,13853,North Bay,10717,Scarborough,0,Dawson,5077
+North Bay,74078,Moncton ,123776,Newcastle,49598,Markham,77076,Oshawa,120395,North Vancouver,23730,Oshawa,50186,North Vancouver,8932,Saint-Hyacinthe,13416,Shawinigan,10661,Mississauga,0,Esquimalt,5020
+Saint-Jerome,69598,Montreal ,3570498,Newcastle,5715,Medicine Hat,49621,Ottawa,596295,Orillia,18271,Ottawa,215195,Orillia,9894,Owen Sound,12867,Levis,10505,Saint Catharines,0,Collingwood,4982
+Charlottetown,68154,Montreal-Nord ,83669,Niagara Falls,351539,Mississauga,315121,Peterborough,80622.72,Oshawa,80968,Outremont,28369,Oshawa,28848,Charlottetown,12459,Amherst,10032,Kitchener,0,Cobourg,4852
+Chateauguay,66445,Nanaimo ,80993.6,North Bay,63363,Moncton,98447,Pickering,31749,Ottawa,429872,Owen Sound,16712,Ottawa,155059,Chicoutimi,11921,Brockville,10001,Laval,0,Niagara Falls,4648
+Fort McMurray,60555,New Westminster ,54656,North York,562694,Montreal,2828322,Pierrefonds,33096,Pembroke,18860,Pembroke,15240,Outremont,30869,Levis,11759,Medicine Hat,9663,Etobicoke,0,Pembroke,4473
+Cornwall,60554,Newmarket ,65788,Oakville,114732,Montreal-Nord,94942,Pointe-aux-Trembles,35662,Peterborough,64498.176,Peterborough,45148.7232,Owen Sound,14067,Saint-Jean-sur-Richelieu,11396,Nanaimo,9113,Surrey,0,Brandon,4340
+Welland-Pelham,60540,Niagara Falls ,394772,Oshawa,250167,Nanaimo,57794,Prince George,49138,Pointe-Claire,22893,Pointe-Claire,15199,Pembroke,11249,Lethbridge,10950,New Glasgow,9013,Oshawa,0,Calgary,4290
+Vernon,60123,Norfolk ,60847,Ottawa,956743,New Westminster,38667,Quebec,476226,Prince Albert,26121,Prince Albert,20201,Peterborough,31604.10624,Prince Albert,9978,Sydney Mines,8381,Brampton,0,Ingersoll,4224
+Fredericton,56663,North Bay ,59262.4,Peterborough,111976,North Bay,57182,Regina,139028,Quebec,357634,Quebec,167023,Prince Albert,14533,Brockville,9791,Fredericton,8170,Chicoutimi,0,Port Hope,4227
+Grande Prairie,55236,North Vancouver ,82310,Pickering,68459,North Vancouver,65400,Richmond,62141,Red Deer,25237,Regina,88881,Quebec,150855,Medicine Hat,9579,Dartmouth,7970,Burnaby,0,Trenton,4213
+Shawinigan,54669,Oakville ,144738,Pierrefonds,48776,North York,559591,Richmond Hill,32411,Regina,126722,Richmond,25943,Regina,58236,Dartmouth,9142,Prince Albert,7901,Sudbury,0,Oshawa,4173
+Rimouski,54630,Oshawa ,315099,Prince George,69789,Oakville,75897,Saanich,65044,Rimouski,22452,Rouyn-Noranda,16875,Riviere du Loup,8752,Fredericton,8847,Truro,7683,Markham,0,Aylmer,4185
+Leamington,50625,Ottawa ,1126321,Quebec,708728,Oshawa,154292,Saint Boniface,46720,Rouyn-Noranda,30203,Saanich,38010,Rouyn-Noranda,8803,Trail,7640,Yarmouth,7183,York,0,Portage la Prairie,3932
+Beloeil,48688,Peterborough ,116736,Red Deer,58149,Pickering,37826,Saint Catharines,303453,Saint Boniface,45539,Saint Boniface,28648,Saint Boniface,21667,Amherst,7519,Portage la Prairie,6517,Trois-Rivieres,0,Lachine,3869
+Saint-Hyacinthe,47289,Pickering ,87139,Regina,191720,Pierrefonds,38433,Saint James-Assiniboia,70841,Saint Catharines,95623,Saint Catharines,39454,Saint Catharines,30305,Nanaimo,6756,Prince Rupert,6427,Longueuil,0,New Glasgow,3833
+Brandon,45624,Pierrefonds ,54963,Repentigny,49663,Prince George,67698,Saint John,106704,Saint John,95641,Saint James-Assiniboia,26265,Saint John,51754,Prince Rupert,6441,Nelson,5264,Burlington,0,Orillia,3709
+Prince Albert,45024,Port Coquitlam ,51257,Richmond,126678,Quebec,619763,Saint Johns,131875,Saint Johns,90844,Saint John,51906,Saint Johns,41599,Kamloops,6201,North Battleford,4817,Richmond,0,Dundas,3625
+Chatham,44676,Prince George ,72406,Richmond Hill,80191,Red Deer,46402,Saint-Hubert,36984,Saint-Hyacinthe,31738,Saint Johns,56780,Saint-Hyacinthe,17867,North Battleford,6084,Swift Current,4204,Thunder Bay,0,Lauzon,3691
+Timmins,44315,Quebec ,169076,Saanich,95670,Regina,164394,Saint-Hyacinthe,39735,Saint-Jean-sur-Richelieu,34640,Saint-Hyacinthe,20364,Saint-Jean-sur-Richelieu,13694,Whitby,5346,Whitby,4170,Oakville,0,Joliette,3444
+Courtenay,43346,Red Deer ,67707,Saint Catharines,364610,Richmond,96298,Saint-Jean-sur-Richelieu,48064,Saint-Jerome,29119,Saint-Jean-sur-Richelieu,24254,Saint-Jerome,11386,Swift Current,5351,Bonavista,4131,Kelowna,0,Newcastle,3053
+Penticton,43218,Regina ,178225,Saint John,125068,Richmond Hill,37874,Saint-Jerome,35374,Saint-Thomas,22561,Saint-Jerome,20668,Saint-Thomas,17118,Yorkton,5071,Grand Falls,3846,Vaughan,0,Cote-Saint-Luc,3040
+Joliette,42850,Repentigny ,54550,Saint Johns,174286,Saanich,78706,Saint-Laurent,63140,Saint-Vital,29401,Saint-Laurent,35827,Salaberry-de-Valleyfield,17102,Kelowna,4793,Harbour Grace,3837,Gloucester,0,Richmond Hill,2956
+Airdrie,42844,Richmond ,164345,Saint-Hubert,74002,Saint Catharines,304463,Saint-Leonard,52071,Sainte-Foy,29724,Saint-Thomas,19046,Sarnia,18735,Grand Falls,4564,Carbonear,3337,Nepean,0,Saint-Jerome,2981
+Victoriaville,41925,Richmond Hill ,132030,Saint-Jean-sur-Richelieu,68497,Saint John,114012,Saint-Vital,33081,Salaberry-de-Valleyfield,29882,Salaberry-de-Valleyfield,23558,Saskatoon,43083,Bonavista,4038,Summerside,3256,East York,0,Summerside,2927
+St. Thomas,40973,Saanich ,103654,Saint-Laurent,72422,Saint Johns,154808,Sainte-Foy,67813,Sarnia,61331,Sarnia,43118,Sault Sainte Marie,25810,Carbonear,3444,Burin,2784,Sault Sainte Marie,0,Whitby,2879
+Georgetown,40185,Saint John ,125856,Saint-Leonard,73134,Saint-Hubert,60628,Salaberry-de-Valleyfield,37473,Saskatoon,112732,Saskatoon,70801,Shawinigan,20380,Prince George,2536,Red Deer,2346,Peterborough,0,Wallaceburg,2809
+Salaberry-de-Valleyfield,38323,Saint-Hubert ,75912,Sainte-Foy,71162,Saint-Hyacinthe,38249,Sarnia,78424,Sault Sainte Marie,58578,Sault Sainte Marie,37129,Sherbrooke,36002,Harbour Grace,2270,Wetaskiwin,2104,Guelph,0,Simcoe,2702
+Woodstock,37443,Saint-Laurent ,77391,Sarnia,87970,Saint-Jean-sur-Richelieu,60789,Saskatoon,126499,Shawinigan,63527,Scarborough,139181,Sorel,12307,Dawson,855,Dawson,1088,Saanich,0,Regina,2652
+Midland,36137,Saint-Leonard ,69604,Saskatoon,210054,Saint-Laurent,65909,Sault Sainte Marie,95329,Sherbrooke,89451.008,Shawinigan,28543,Stratford,17014,Whitehorse,529,Whitehorse,353,Cambridge,0,Renfrew,2607
+Sorel-Tracy,35770,Sainte-Foy ,72547,Sault Sainte Marie,101829,Saint-Leonard,79441,Scarborough,332153,Sorel,28905,Sherbrooke,62615.7056,Sudbury,32200,North York,0,North York,0,Gatineau,0,Glace Bay,2531
+Bowmanville-Newcastle,35168,Sarnia ,79637.6,Scarborough,524616,Sainte-Foy,68978,Shawinigan,61548,Stratford,20533,Sorel,16368,Sydney,28351,Scarborough,0,Scarborough,0,Barrie,0,Sydney Mines,2526
+Campbell River,33448,Saskatoon ,232779,Shawinigan,61754,Sarnia,84043,Sherbrooke,111813.76,Sudbury,110748,Stratford,19878,Sydney Mines,8282,Mississauga,0,Mississauga,0,Delta,0,Chicoutimi,2364
+Moose Jaw,32546,Sault Ste. Marie ,74566,Sherbrooke,174709,Saskatoon,154242,Sorel,34588,Sydney,106101,Sudbury,46040,Thetford Mines,12786,Laval,0,Laval,0,Sarnia,0,Brampton,2122
+Orillia,30546,Sherbrooke ,185838,Stoney Creek,50015,Sault Sainte Marie,87093,Sudbury,172524,Thetford Mines,25891,Sydney,31798,Thunder Bay,55078,Etobicoke,0,Etobicoke,0,Montreal-Nord,0,Magog,2131
+Stratford,30516,St. Albert ,53081,Sudbury,157623,Scarborough,443446,Surrey,98604,Thunder Bay,93331,Thetford Mines,19388,Timmins,28833,Surrey,0,Surrey,0,Coquitlam,0,Newmarket,2192
+Orangeville,29007,St. Catharines ,129170,Surrey,245237,Shawinigan,62710,Sydney,91216,Timmins,40125,Thunder Bay,76673,Toronto,667516,Brampton,0,Brampton,0,Richmond Hill,0,Riviere du Loup,2128
+Spruce Grove,27970,St. Johns ,177681,Sydney,116125,Stoney Creek,36828,Sydney Mines,34097,Toronto,1824506,Timmins,27611,Trail,9469,Burnaby,0,Saint Johns,0,Niagara Falls,0,Saint-Jean-sur-Richelieu,2046
+Lloydminster,27769,Strathcona County ,71986,Thunder Bay,124465,Sudbury,149919,Thunder Bay,111590,Transcona,18286,Toronto,662132,Trenton,8331,Markham,0,Chicoutimi,0,Saint-Hubert,0,Drummondville,2001
+Bolton,27108,Surrey ,347825,Toronto,4293065,Surrey,147140,Timmins,41514,Trois-Rivieres,83726,Trois-Rivieres,50234,Trois-Rivieres,42097,York,0,Burnaby,0,La Salle,0,Welland,2004
+Keswick-Elmhurst Beach,26002,Thunder Bay ,126844,Trois-Rivieres,136373,Sydney,87557,Toronto,2609638,Vancouver,790263,Vancouver,362005,Truro,10317,Longueuil,0,Sudbury,0,Saint-Leonard,0,Oakville,1840
+Val-dOr,25023,Toronto ,5004011,Vancouver,1857766,Thunder Bay,121432,Trois-Rivieres,97936,Verdun,78360,Verdun,77638,Vancouver,275444,Burlington,0,Markham,0,Saint-Laurent,0,Lachute,1822
+Saint-Georges,24940,Trois-Rivieres ,143138,Vaughan,111460,Timmins,46148,Vancouver,1071143,Victoria,154226,Victoria,52967,Verdun,67346,Richmond,0,York,0,Waterloo,0,Preston,1805
+Stouffville,24654,Vancouver ,2098170,Verdun,61356,Trois-Rivieres,111523,Verdun,74574,Victoriaville-Arthabaska,21785,Waterloo,16330,Victoria,44130,Oakville,0,Longueuil,0,Sainte-Foy,0,Saint-Vital,1896
+Okotoks,24470,Vaughan ,182022,Victoria,308159,Verdun,61340,Victoria,197221.76,Waterloo,21411,Welland,15956,Victoriaville-Arthabaska,10462,Vaughan,0,Burlington,0,Charlesbourg,0,Saint-Laurent,1703
+Quispamsis-Rothesay,23862,Verdun ,60564,Waterloo,71256,Waterloo,49409,Waterloo,37934,Welland,36151,West Kildonan,15201,Waterloo,9070,Gloucester,0,Richmond,0,Prince George,0,Sainte-Therese,1727
+Leduc,23827,Victoria ,328301,Whitby,61329,Welland,45467,Welland,44220,West Kildonan,21052,Westmount,24337,Welland,12523,Nepean,0,Oakville,0,Beauport,0,Chilliwack,1668
+Bradford,23024,Waterloo ,86543,Whitehorse,17988,Whitby,36736,West Vancouver,36423,Westmount,25021,Windsor,120597,Westmount,26031,East York,0,Kelowna,0,Pickering,0,Grand Falls,1688
+Innisfil,20365,Welland ,48402,Windsor,279666,Windsor,246135,Windsor,258600,Windsor,193405,Winnipeg,256739,Windsor,105339,Saanich,0,Vaughan,0,Saint-Jean-sur-Richelieu,0,Gatineau,1521
+Cochrane,17433,Whitby ,87413,Winnipeg,652417,Winnipeg,584836,Winnipeg,534775,Winnipeg,476031,Woodstock,18219,Winnipeg,222053,Gatineau,0,Gloucester,0,Kamloops,0,Kamloops,1400
