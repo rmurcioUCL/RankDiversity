@@ -1,103 +1,103 @@
-ï»¿city,2000,city,1990,city,1980,city,1970,city,1960,city,1950,city,1940,city,1930,city,1920,city,1914,city,1904
-TÃ´kyÃ´,14239883,TÃ´kyÃ´,13847018,TÃ´kyÃ´,13120135,TÃ´kyÃ´,11765378,TÃ´kyÃ´,9583054,TÃ´kyÃ´,6196890,TÃ´kyÃ´,7031961,Ã”saka,2676739,TÃ´kyÃ´,2262866,TÃ´kyÃ´,2135671,TÃ´kyÃ´,1818755
-Ã”saka,12453808,Ã”saka,12352982,Ã”saka,11729925,Ã”saka,9916668,Ã”saka,6543420,Ã”saka,4156769,Ã”saka,4056628,TÃ´kyÃ´,2405353,Ã”saka,1481451,Ã”saka,1548526,Ã”saka,1141242
-Nagoya,4327461,Nagoya,4151209,Nagoya,3840540,Nagoya,3348828,Nagoya,2430095,Nagoya,1481880,Nagoya,1448148,KyÃ´to,952414,KitakyÃ»shÃ»,688923,KyÃ´to,509457,KyÃ´to,380611
-Yokohama,3426708,Yokohama,3220373,Yokohama,2773778,Yokohama,2238323,Yokohama,1375793,KyÃ´to,1105772,KyÃ´to,1089728,Nagoya,907470,KyÃ´to,591340,Nagoya,452013,Yokohama,326026
-Sapporo,2097093,Sapporo,1932134,Sapporo,1668854,KyÃ´to,1419295,KyÃ´to,1284857,Yokohama,951294,Yokohama,968131,KÃ´be,787693,Nagoya,430041,KÃ´be,442270,Nagoya,288616
-Fukuoka,1695231,Fukuoka,1533743,KyÃ´to,1473135,KitakyÃ»shÃ»,1334466,KitakyÃ»shÃ»,1167103,KitakyÃ»shÃ»,916208,KÃ´be,967216,Yokohama,620313,Yokohama,422932,Yokohama,397697,KÃ´be,285033
-Hiroshima,1526490,Hiroshima,1510178,KitakyÃ»shÃ»,1382712,KÃ´be,1288973,KÃ´be,1114025,KÃ´be,813680,KitakyÃ»shÃ»,858845,KitakyÃ»shÃ»,580615,KÃ´be,308658,KitakyÃ»shÃ»,391991,Hiroshima,187230
-KÃ´be,1493438,KÃ´be,1477442,KÃ´be,1367452,Sapporo,1265868,Sapporo,759743,Sapporo,523821,Hiroshima,589501,Hiroshima,460795,Hiroshima,290945,Hiroshima,295428,Nagasaki,153352
-KyÃ´to,1467812,KyÃ´to,1461143,Fukuoka,1276547,Kawasaki,973594,Sendai,668265,Hiroshima,473554,Sapporo,370464,Sapporo,313514,Sapporo,210721,Sapporo,189857,Sapporo,134763
-Sendai,1377324,KitakyÃ»shÃ»,1338395,Hiroshima,1258728,Fukuoka,853321,Fukuoka,647108,Sendai,470504,Fukuoka,306895,Fukuoka,228313,Nagasaki,176545,Nagasaki,161236,KitakyÃ»shÃ»,121296
-KitakyÃ»shÃ»,1311992,Sendai,1221148,Kawasaki,1040848,Hiroshima,824916,Hiroshima,641367,Shizuoka,427581,Kawasaki,300706,Nagasaki,204694,Hakodate,144770,Kanazawa,129898,Sendai,100202
-Kawasaki,1249954,Kawasaki,1173698,Sendai,966677,Shizuoka,812918,Kawasaki,633027,Fukuoka,404173,Shizuoka,280825,Shizuoka,198910,Kanazawa,129335,Sendai,104137,Kanazawa,99767
-Shizuoka,953255,Shizuoka,945701,Shizuoka,907562,Sendai,762327,Shizuoka,610875,Kawasaki,319275,Nagasaki,252693,Hakodate,197358,Sendai,119037,Hakodate,99886,Hakodate,85341
-Chiba,887224,Chiba,829524,Chiba,746419,Chiba,482155,Kumamoto,373909,Kumamoto,286953,Sendai,238310,Sendai,195437,Kagoshima,103231,Fukuoka,97336,Okayama,81067
-Kumamoto,662008,Okayama,593731,Okayama,545829,Kumamoto,440089,Nagasaki,344222,Kanazawa,261557,Sasebo,206059,Kumamoto,169175,Fukuoka,95469,Sasebo,94922,Fukuoka,71099
-Okayama,626604,Kumamoto,579387,Kumamoto,525705,Hamamatsu,432281,Wakayama,337762,Ã”muta,256245,Hakodate,203922,Kanazawa,157353,Okayama,94622,Okayama,87035,Wakayama,68525
-Sagamihara,605637,Kagoshima,536855,Kagoshima,505487,Nagasaki,421112,Hamamatsu,333054,Nagasaki,241841,Wakayama,195209,Okayama,148783,Niigata,92140,Wakayama,77756,Sasebo,68330
-Hamamatsu,582192,Hamamatsu,534618,Hamamatsu,490811,Wakayama,418748,Himeji,328766,Himeji,229741,Kumamoto,194197,Toyohashi,138863,Sasebo,87191,Kagoshima,75960,Tokushima,63744
-Kagoshima,552165,Funabashi,533355,Funabashi,479438,Himeji,408405,Niigata,314539,Kagoshima,229528,Kagoshima,190331,Kagoshima,137238,Wakayama,83598,Tokushima,70353,Kumamoto,59709
-Funabashi,550185,Sagamihara,531544,Niigata,457883,Kagoshima,403331,Gifu,304530,Hakodate,229084,Kanazawa,186307,Sasebo,133259,Shizuoka,74139,Kumamoto,68261,Niigata,59686
-HachiÃ´ji,536007,Niigata,486181,Wakayama,453391,Gifu,385709,Kanazawa,299051,Niigata,227251,Gifu,172353,Niigata,125186,Kumamoto,70492,Niigata,66685,Kagoshima,59001
-Niigata,501415,HachiÃ´ji,466320,Nagasaki,447171,Niigata,383946,Kagoshima,296029,Wakayama,226419,Hamamatsu,166310,Wakayama,117487,Tokushima,68557,Toyama,64857,Toyama,56351
-Himeji,478332,Matsudo,456212,Himeji,446315,Okayama,375171,Ã”muta,270251,Hamamatsu,215789,Okayama,163618,Hamamatsu,109518,Toyohashi,65216,Shizuoka,64123,Fukui,50222
-Matsuyama,473462,Himeji,454484,Sagamihara,439335,Kanazawa,361449,Sasebo,262524,Gifu,214031,Niigata,150953,Gifu,107527,Hamamatsu,64736,Fukui,56275,Shizuoka,48791
-Matsudo,464886,Wakayama,445231,Kanazawa,417743,Kurashiki,339854,Okayama,260804,Okayama,205085,Toyohashi,142759,Kawasaki,104460,Ã”muta,64305,Naha,55577,KÃ´fu,44227
-Kawaguchi,460073,Nagasaki,444690,Gifu,410456,Iwaki,327228,Iwaki,260198,Sasebo,203550,Fuse,134755,Ã”muta,97346,Utsunomiya,63884,Toyohashi,54742,Naha,43169
-Kanazawa,456413,Matsuyama,443386,Kurashiki,403899,Funabashi,325431,Kurashiki,252396,Kurashiki,199253,Toyama,127937,Tokushima,90698,Gifu,62750,Utsunomiya,54017,Maebashi,41772
-Ichikawa,448665,Kanazawa,442973,Matsuyama,401792,Matsuyama,322969,Hakodate,243018,Iwaki,188967,Ã”muta,124301,Maebashi,84931,Maebashi,62391,KÃ´fu,53789,Gifu,40236
-Utsunomiya,443843,Kawaguchi,438774,Matsudo,400927,Kawaguchi,305987,Chiba,241646,Matsuyama,174564,Tokushima,119697,Kurume,83014,Toyama,61811,Gifu,51688,Yamagata,40202
-Ã”ita,436539,Ichikawa,436683,HachiÃ´ji,387265,Utsunomiya,301262,Utsunomiya,239067,Akita,167550,Matsuyama,117596,Asahikawa,82577,Asahikawa,61398,Maebashi,50188,Matsuyama,37885
-Wakayama,432177,Utsunomiya,426816,Kawaguchi,379436,Asahikawa,288550,Matsuyama,238672,KÃ´chi,161637,Takamatsu,111224,Matsuyama,82543,Fukui,56673,Tsu,47362,Takamatsu,37404
-Kurashiki,430316,Kurashiki,414725,Utsunomiya,377756,Nagano,285431,Takamatsu,228287,Yokkaichi,158624,Muroran,107656,Aomori,82152,KÃ´fu,56222,Aomori,47141,Nagano,37272
-Nagasaki,423270,Gifu,410304,Ichikawa,364211,Sagamihara,278398,Naha,223004,Utsunomiya,157350,KÃ´chi,106651,Utsunomiya,81413,Muroran,56104,Yamagata,45414,Himeji,36582
-Gifu,402885,Ã”ita,408531,Ã”ita,360527,Naha,276429,Toyohashi,215527,Maebashi,156999,Himeji,104350,Takamatsu,79907,Naha,53917,Matsuyama,45272,Hirosaki,36415
-Fujisawa,379284,Fukuyama,365694,Asahikawa,352694,Takamatsu,274433,Fuse,212894,Numazu,156536,KÃ´fu,102453,KÃ´fu,79456,Matsuyama,51370,Takasaki,44146,Mito,36215
-Fukuyama,378838,Asahikawa,359133,Fukuyama,346002,Fuji,269547,Toyama,207332,Toyama,154572,Ube,100747,KÃ´chi,77007,Matsumoto,50063,Morioka,43562,Tsu,36103
-Machida,377597,Iwaki,355808,Iwaki,342197,Toyama,269362,Numazu,205672,Yamagata,150470,Aomori,99197,Toyama,75121,KÃ´chi,49340,Mito,43236,Utsunomiya,36030
-Toyohashi,364951,Fujisawa,350378,Nagano,324494,Numazu,267101,Akita,203715,Fuse,150167,Fukui,98073,Nagano,73926,Aomori,48926,Hamamatsu,43044,KÃ´chi,35594
-Iwaki,360102,Machida,349126,Hakodate,320280,Ichikawa,261139,Aomori,202210,Chiba,150053,Kawaguchi,97148,Matsumoto,72130,Yamagata,48458,Takamatsu,41825,Takasaki,35259
-Nagano,360190,Nagano,347025,Takamatsu,316752,Ã”ita,260656,KÃ´chi,196371,Ube,146964,Akita,96172,Fukui,66620,Tsu,47737,Nagano,41144,Matsue,35191
-Asahikawa,359525,Fuji,339655,Fuji,314025,Toyohashi,258530,Yokkaichi,196016,Toyohashi,145942,Chiba,92199,Yamagata,66141,Takamatsu,46618,Ise,40428,Saga,35111
-Fuji,354450,Toyohashi,338034,Toyama,305197,Fukuyama,255107,Yamagata,188602,Nagano,143580,Kurume,89585,Okazaki,65507,Himeji,45799,Himeji,40382,Aomori,34909
-Toyota,351130,Toyota,332351,Toyohashi,304345,Matsudo,253627,Asahikawa,188374,Matsumoto,140188,Utsunomiya,87965,Morioka,62290,Kurume,43669,Matsumoto,39793,Akita,34402
-Okazaki,336694,Takamatsu,329792,KÃ´chi,300829,HachiÃ´ji,253508,Tokushima,182853,Tokuyama,137997,Asahikawa,87519,Himeji,62259,Ã”ita,43119,Nagaoka,39463,Kurume,33359
-KÃ´riyama,334839,Toyama,321365,Fujisawa,300267,Sasebo,247913,Maebashi,181993,Tokushima,133372,Maebashi,87075,Ube,61299,Yonezawa,43055,Kurume,39251,Kawasaki,0
-Takamatsu,332996,KÃ´chi,317179,Numazu,298363,KÃ´riyama,241743,Hachinohe,174301,Asahikawa,126124,Numazu,86292,Naha,60555,Morioka,42424,KÃ´chi,39210,Chiba,0
-Kawagoe,330845,Numazu,317156,Naha,295874,Hakodate,241710,Kawaguchi,170165,Miyazaki,125685,KiryÃ»,86191,Takasaki,59991,Nagaoka,41626,Ã”ita,39000,Sagamihara,0
-KÃ´chi,330764,KÃ´riyama,314689,Machida,295496,KÃ´chi,240516,Ube,166676,Takamatsu,124677,Okazaki,84155,Miyazaki,58901,Mito,39465,Matsue,38689,Hamamatsu,0
-Tokorozawa,330196,Hakodate,307248,Aomori,287685,Aomori,240120,Okazaki,166133,Takaoka,123916,Hitachi,82939,Nagaoka,57959,Ise,39335,Hirosaki,38646,Funabashi,0
-Kashiwa,327915,Okazaki,306851,KÃ´riyama,286593,Akita,235970,Hitachi,161250,KÃ´fu,121641,Morioka,79578,Ã”ita,57398,Kushiro,39282,Yonezawa,38317,HachiÃ´ji,0
-Toyama,325791,Kashiwa,305137,Akita,284949,Ã”muta,230686,KÃ´fu,161058,Kurume,121592,Nobeoka,79478,Tsu,56117,HachiÃ´ji,39001,Takaoka,38088,Matsudo,0
-Numazu,318181,Kawagoe,304921,Toyota,281646,Yokkaichi,229290,Nagano,160567,Kawaguchi,118972,Ã”ita,77080,Muroran,55999,Okazaki,38537,Tottori,37303,Kawaguchi,0
-Akita,317666,Naha,304837,Maebashi,265240,Fujisawa,229069,Tokuyama,159504,Morioka,117636,Nagano,76980,KiryÃ»,53000,Akita,38371,Saga,36721,Ichikawa,0
-Koshigaya,308361,Tokorozawa,303091,Miyazaki,264986,Fukushima,227511,HachiÃ´ji,158451,Saga,115788,HachiÃ´ji,75208,Hachinohe,52979,Matsue,37504,Akita,36660,Ã”ita,0
-Miyazaki,305870,Akita,302497,Fukushima,262819,Maebashi,223634,Miyazaki,158396,KiryÃ»,115284,Hachinohe,73539,Yokkaichi,51832,Nagano,37356,Fukushima,34083,Kurashiki,0
-Naha,301053,Aomori,287847,Okazaki,262482,Tokushima,223502,Morioka,157470,Aomori,114559,Matsumoto,72808,Chiba,0,Kawasaki,37014,Yokkaichi,33844,Fujisawa,0
-Aomori,297974,Miyazaki,287487,Kawagoe,259327,Okazaki,210555,Ichikawa,157356,Muroran,110421,Takasaki,71045,Sagamihara,0,Takasaki,36886,JÃ´etsu,32472,Fukuyama,0
-Fukushima,291101,Maebashi,286370,Yokkaichi,255436,Hachinohe,208817,Kurume,155039,Fukui,108461,Tagawa,70227,Funabashi,0,Takaoka,36694,Onomichi,30049,Machida,0
-Yokkaichi,291110,Koshigaya,285370,Sasebo,251238,Muroran,208624,Hirosaki,152152,Hachinohe,104395,Yamagata,69249,HachiÃ´ji,0,Fukushima,35834,Nakatsu,15534,Toyohashi,0
-Morioka,288829,Fukushima,277591,Tokushima,249334,Yamagata,204144,Kushiro,150671,Ichikawa,102587,Tsu,68641,Matsudo,0,Yokkaichi,35216,Nanao,9071,Iwaki,0
-Hakodate,287664,Yokkaichi,274271,Fukui,241046,Miyazaki,202982,Fukui,149815,Funabashi,100395,Nagaoka,67035,Kawaguchi,0,Saga,33565,Nakatsugawa,3317,Asahikawa,0
-Maebashi,284211,Tokushima,263440,Kashiwa,239291,Machida,202830,Matsumoto,148751,YÃ»bari,99536,Miyazaki,66508,Ichikawa,0,Hirosaki,32875,Kawasaki,0,Fuji,0
-Ichihara,278293,Ichihara,257741,Hachinohe,238297,Fukui,200588,Nagaoka,148340,Takasaki,97941,Mito,66391,Kurashiki,0,Ã”gaki,28301,Chiba,0,Toyota,0
-Tokushima,268262,Fukui,252756,Yamagata,237069,Toyota,197294,Muroran,145749,Fukushima,97616,Naha,65844,Fujisawa,0,Chiba,0,Sagamihara,0,Okazaki,0
-Yamagata,255454,Yamagata,249596,Tokorozawa,236521,Morioka,196083,Takasaki,142274,Tsu,96436,YÃ»bari,65004,Fukuyama,0,Sagamihara,0,Funabashi,0,KÃ´riyama,0
-Hiratsuka,254687,Hiratsuka,246060,Morioka,229134,Kurume,194208,Fukuyama,140650,Okazaki,96069,Beppu,64743,Machida,0,Funabashi,0,HachiÃ´ji,0,Kawagoe,0
-Fukui,252333,Sasebo,244765,Ã”muta,224537,Tokuyama,193824,Mito,139489,Tottori,95850,Yokkaichi,63754,Iwaki,0,Matsudo,0,Matsudo,0,Tokorozawa,0
-Mito,246704,Hachinohe,241147,Koshigaya,223285,Hitachi,193241,Fukushima,139077,Nagaoka,94856,Kushiro,63204,Fuji,0,Kawaguchi,0,Kawaguchi,0,Kashiwa,0
-Hachinohe,241962,Takasaki,236566,Takasaki,221471,Takasaki,193127,Takaoka,135239,Ã”ita,94599,ChÃ´shi,61228,Toyota,0,Ichikawa,0,Ichikawa,0,Numazu,0
-Sasebo,240897,Morioka,235468,Kurume,217054,Kushiro,191959,Funabashi,135052,Kushiro,93444,Takaoka,59497,KÃ´riyama,0,Kurashiki,0,Kurashiki,0,Koshigaya,0
-Takasaki,239902,Mito,235048,Ichihara,216364,KÃ´fu,182792,Saga,129966,Beppu,93008,HÃ´fu,58982,Kawagoe,0,Fujisawa,0,Fujisawa,0,Miyazaki,0
-Kurume,236533,Kurume,228324,Mito,215700,Mito,173866,Niihama,125711,Maizuru,91933,MiyakonojÃ´,58898,Tokorozawa,0,Fukuyama,0,Fukuyama,0,Fukushima,0
-FuchÃ»,226876,Tokuyama,211527,Tokuyama,215337,Kawagoe,171016,Ã”ita,124863,Ashikaga,89855,Ichikawa,58149,Kashiwa,0,Machida,0,Machida,0,Yokkaichi,0
-SÃ´ka,225071,Ã”muta,210096,Kushiro,214728,Hiratsuka,163764,Odawara,124851,Tagawa,88478,KÃ´riyama,57485,Numazu,0,Iwaki,0,Iwaki,0,Morioka,0
-Chigasaki,220839,FuchÃ»,209459,Hiratsuka,214372,FuchÃ»,163288,Fujisawa,124698,Nobeoka,88111,Fukuyama,56753,Akita,0,Fuji,0,Asahikawa,0,Ichihara,0
-Atsugi,217453,SÃ´ka,206188,Muroran,206774,Matsumoto,162980,Fuji,124023,Kamakura,85492,Ã”gaki,56186,Koshigaya,0,Toyota,0,Fuji,0,Hiratsuka,0
-Ageo,212958,Kushiro,205667,Hitachi,204695,Nagaoka,162357,KiryÃ»,123092,Fujisawa,84686,Imabari,55604,Fukushima,0,KÃ´riyama,0,Toyota,0,Hachinohe,0
-Yamato,212862,Hitachi,202139,KÃ´fu,199381,Takaoka,159705,Nobeoka,122586,Yonago,83655,Matsue,55573,Ichihara,0,Kawagoe,0,Okazaki,0,FuchÃ»,0
-Matsumoto,209064,Chigasaki,201712,FuchÃ»,192272,Hirosaki,157626,JÃ´etsu,116600,HÃ´fu,83650,Ise,52684,Hiratsuka,0,Tokorozawa,0,KÃ´riyama,0,SÃ´ka,0
-ChÃ´fu,204857,Matsumoto,200766,Matsumoto,192175,ChÃ´fu,157562,Ashikaga,111022,Matsue,83283,Uwajima,52176,Mito,0,Kashiwa,0,Kawagoe,0,Chigasaki,0
-Tokuyama,204254,KÃ´fu,200651,SÃ´ka,186614,Odawara,156775,Tsu,110903,HachiÃ´ji,82541,Odawara,51859,FuchÃ»,0,Numazu,0,Tokorozawa,0,Atsugi,0
-Kasukabe,203419,ChÃ´fu,197733,ChÃ´fu,180516,Ashikaga,156042,Hiratsuka,108342,ChÃ´shi,82437,Hirosaki,51577,SÃ´ka,0,Koshigaya,0,Kashiwa,0,Ageo,0
-Odawara,200206,Atsugi,197341,Nagaoka,180321,Ichihara,156041,YÃ»bari,108070,Imari,82326,Iwakuni,51001,Chigasaki,0,Miyazaki,0,Numazu,0,Yamato,0
-KÃ´fu,196252,Yamato,194924,Odawara,177548,Mitaka,155746,Beppu,107735,JÃ´etsu,82198,Funabashi,50919,Atsugi,0,Ichihara,0,Koshigaya,0,Matsumoto,0
-Ã”muta,195590,Ageo,194918,Hirosaki,175329,Ube,152902,Kawagoe,107574,Ã”gaki,82191,Saga,50450,Ageo,0,Hiratsuka,0,Miyazaki,0,ChÃ´fu,0
-Hitachi,193470,Odawara,193443,Takaoka,175158,Kashiwa,150688,Matsue,106545,Fuji,81546,Maizuru,49872,Yamato,0,Hachinohe,0,Ichihara,0,Tokuyama,0
-Nagaoka,193418,Kasukabe,188874,Kamakura,172603,Saga,143554,Tottori,104846,Odawara,79500,Tottori,49317,ChÃ´fu,0,FuchÃ»,0,Hiratsuka,0,Kasukabe,0
-Kushiro,191738,Nagaoka,185949,Chigasaki,171001,Koshigaya,139484,KÃ´riyama,102693,Tsuyama,78673,Kumagaya,48961,Tokuyama,0,SÃ´ka,0,Hachinohe,0,Odawara,0
-Suzuka,186260,Takaoka,175590,Ube,169024,Kamakura,139278,Ã”gaki,102540,Yamaguchi,77877,Yonezawa,48848,Kasukabe,0,Chigasaki,0,FuchÃ»,0,Ã”muta,0
-Kodaira,178636,Ube,175156,Yamato,167949,Kodaira,137452,Sagamihara,101791,Mito,77553,Onomichi,48842,Odawara,0,Atsugi,0,SÃ´ka,0,Hitachi,0
-Hirosaki,177138,Kamakura,174354,Ageo,166281,Tokorozawa,136679,Obihiro,100992,Suzuka,77037,Fukushima,48398,Hitachi,0,Ageo,0,Chigasaki,0,Nagaoka,0
-Ube,174452,Suzuka,174164,Ashikaga,165813,Ã”gaki,134945,Yatsushiro,100647,Naha,75779,Ashikaga,48324,Kushiro,0,Yamato,0,Atsugi,0,Kushiro,0
-Obihiro,173095,Muroran,173534,Mitaka,164518,KiryÃ»,133193,Iwakuni,100322,Onomichi,75470,Aizuwakamatsu,48153,Suzuka,0,ChÃ´fu,0,Ageo,0,Suzuka,0
-Takaoka,172253,Saga,170046,Saga,163852,Obihiro,131668,Imabari,100135,MiyakonojÃ´,75133,Yonago,47200,Kodaira,0,Tokuyama,0,Yamato,0,Kodaira,0
-Tomakomai,172133,Ashikaga,167708,Suzuka,156368,Chigasaki,129607,Maizuru,99699,Niihama,73727,NÃ´gata,47016,Hirosaki,0,Kasukabe,0,ChÃ´fu,0,Ube,0
-Mitaka,171621,Obihiro,167475,Kasukabe,155672,Nobeoka,128361,Aizuwakamatsu,99597,KÃ´riyama,70948,Kanoya,46804,Obihiro,0,Odawara,0,Tokuyama,0,Obihiro,0
-Sakura,170926,Hino,165965,Kodaira,154682,Niihama,126095,Ise,99086,Kanuma,70505,Iizuka,46783,Takaoka,0,Hitachi,0,Kasukabe,0,Takaoka,0
-Yachiyo,168837,Mitaka,165644,Obihiro,153998,Tsu,125230,Kamakura,98627,Himi,70123,Seto,45887,Tomakomai,0,Suzuka,0,Odawara,0,Tomakomai,0
-Hadano,168151,Kodaira,164079,Tomakomai,152051,Beppu,123850,Matsusaka,98452,Kumagaya,69793,Kamaishi,42246,Mitaka,0,Kodaira,0,Ã”muta,0,Mitaka,0
-Saga,168029,Tomakomai,160190,Hino,145452,SÃ´ka,123327,Kumagaya,98201,Yatsushiro,69677,Kawagoe,38432,Sakura,0,Ube,0,Hitachi,0,Sakura,0
-Hino,167924,Sayama,157308,Atsugi,145414,Suzuka,121285,Mitaka,98021,Ise,69536,Yamaguchi,38230,Yachiyo,0,Obihiro,0,Kushiro,0,Yachiyo,0
-Kamakura,167667,Tsu,157269,Tsu,145054,Kumagaya,120888,Sakata,97709,Tochigi,68807,Obihiro,36694,Hadano,0,Tomakomai,0,Suzuka,0,Hadano,0
+city	2000	city	1990	city	1980	city	1970	city	1960	city	1950	city	1940	city	1930	city	1920	city	1914	city	1904
+Tôkyô	14239883	Tôkyô	13847018	Tôkyô	13120135	Tôkyô	11765378	Tôkyô	9583054	Tôkyô	6196890	Tôkyô	7031961	Ôsaka	2676739	Tôkyô	2262866	Tôkyô	2135671	Tôkyô	1818755
+Ôsaka	12453808	Ôsaka	12352982	Ôsaka	11729925	Ôsaka	9916668	Ôsaka	6543420	Ôsaka	4156769	Ôsaka	4056628	Tôkyô	2405353	Ôsaka	1481451	Ôsaka	1548526	Ôsaka	1141242
+Nagoya	4327461	Nagoya	4151209	Nagoya	3840540	Nagoya	3348828	Nagoya	2430095	Nagoya	1481880	Nagoya	1448148	Kyôto	952414	Kitakyûshû	688923	Kyôto	509457	Kyôto	380611
+Yokohama	3426708	Yokohama	3220373	Yokohama	2773778	Yokohama	2238323	Yokohama	1375793	Kyôto	1105772	Kyôto	1089728	Nagoya	907470	Kyôto	591340	Nagoya	452013	Yokohama	326026
+Sapporo	2097093	Sapporo	1932134	Sapporo	1668854	Kyôto	1419295	Kyôto	1284857	Yokohama	951294	Yokohama	968131	Kôbe	787693	Nagoya	430041	Kôbe	442270	Nagoya	288616
+Fukuoka	1695231	Fukuoka	1533743	Kyôto	1473135	Kitakyûshû	1334466	Kitakyûshû	1167103	Kitakyûshû	916208	Kôbe	967216	Yokohama	620313	Yokohama	422932	Yokohama	397697	Kôbe	285033
+Hiroshima	1526490	Hiroshima	1510178	Kitakyûshû	1382712	Kôbe	1288973	Kôbe	1114025	Kôbe	813680	Kitakyûshû	858845	Kitakyûshû	580615	Kôbe	308658	Kitakyûshû	391991	Hiroshima	187230
+Kôbe	1493438	Kôbe	1477442	Kôbe	1367452	Sapporo	1265868	Sapporo	759743	Sapporo	523821	Hiroshima	589501	Hiroshima	460795	Hiroshima	290945	Hiroshima	295428	Nagasaki	153352
+Kyôto	1467812	Kyôto	1461143	Fukuoka	1276547	Kawasaki	973594	Sendai	668265	Hiroshima	473554	Sapporo	370464	Sapporo	313514	Sapporo	210721	Sapporo	189857	Sapporo	134763
+Sendai	1377324	Kitakyûshû	1338395	Hiroshima	1258728	Fukuoka	853321	Fukuoka	647108	Sendai	470504	Fukuoka	306895	Fukuoka	228313	Nagasaki	176545	Nagasaki	161236	Kitakyûshû	121296
+Kitakyûshû	1311992	Sendai	1221148	Kawasaki	1040848	Hiroshima	824916	Hiroshima	641367	Shizuoka	427581	Kawasaki	300706	Nagasaki	204694	Hakodate	144770	Kanazawa	129898	Sendai	100202
+Kawasaki	1249954	Kawasaki	1173698	Sendai	966677	Shizuoka	812918	Kawasaki	633027	Fukuoka	404173	Shizuoka	280825	Shizuoka	198910	Kanazawa	129335	Sendai	104137	Kanazawa	99767
+Shizuoka	953255	Shizuoka	945701	Shizuoka	907562	Sendai	762327	Shizuoka	610875	Kawasaki	319275	Nagasaki	252693	Hakodate	197358	Sendai	119037	Hakodate	99886	Hakodate	85341
+Chiba	887224	Chiba	829524	Chiba	746419	Chiba	482155	Kumamoto	373909	Kumamoto	286953	Sendai	238310	Sendai	195437	Kagoshima	103231	Fukuoka	97336	Okayama	81067
+Kumamoto	662008	Okayama	593731	Okayama	545829	Kumamoto	440089	Nagasaki	344222	Kanazawa	261557	Sasebo	206059	Kumamoto	169175	Fukuoka	95469	Sasebo	94922	Fukuoka	71099
+Okayama	626604	Kumamoto	579387	Kumamoto	525705	Hamamatsu	432281	Wakayama	337762	Ômuta	256245	Hakodate	203922	Kanazawa	157353	Okayama	94622	Okayama	87035	Wakayama	68525
+Sagamihara	605637	Kagoshima	536855	Kagoshima	505487	Nagasaki	421112	Hamamatsu	333054	Nagasaki	241841	Wakayama	195209	Okayama	148783	Niigata	92140	Wakayama	77756	Sasebo	68330
+Hamamatsu	582192	Hamamatsu	534618	Hamamatsu	490811	Wakayama	418748	Himeji	328766	Himeji	229741	Kumamoto	194197	Toyohashi	138863	Sasebo	87191	Kagoshima	75960	Tokushima	63744
+Kagoshima	552165	Funabashi	533355	Funabashi	479438	Himeji	408405	Niigata	314539	Kagoshima	229528	Kagoshima	190331	Kagoshima	137238	Wakayama	83598	Tokushima	70353	Kumamoto	59709
+Funabashi	550185	Sagamihara	531544	Niigata	457883	Kagoshima	403331	Gifu	304530	Hakodate	229084	Kanazawa	186307	Sasebo	133259	Shizuoka	74139	Kumamoto	68261	Niigata	59686
+Hachiôji	536007	Niigata	486181	Wakayama	453391	Gifu	385709	Kanazawa	299051	Niigata	227251	Gifu	172353	Niigata	125186	Kumamoto	70492	Niigata	66685	Kagoshima	59001
+Niigata	501415	Hachiôji	466320	Nagasaki	447171	Niigata	383946	Kagoshima	296029	Wakayama	226419	Hamamatsu	166310	Wakayama	117487	Tokushima	68557	Toyama	64857	Toyama	56351
+Himeji	478332	Matsudo	456212	Himeji	446315	Okayama	375171	Ômuta	270251	Hamamatsu	215789	Okayama	163618	Hamamatsu	109518	Toyohashi	65216	Shizuoka	64123	Fukui	50222
+Matsuyama	473462	Himeji	454484	Sagamihara	439335	Kanazawa	361449	Sasebo	262524	Gifu	214031	Niigata	150953	Gifu	107527	Hamamatsu	64736	Fukui	56275	Shizuoka	48791
+Matsudo	464886	Wakayama	445231	Kanazawa	417743	Kurashiki	339854	Okayama	260804	Okayama	205085	Toyohashi	142759	Kawasaki	104460	Ômuta	64305	Naha	55577	Kôfu	44227
+Kawaguchi	460073	Nagasaki	444690	Gifu	410456	Iwaki	327228	Iwaki	260198	Sasebo	203550	Fuse	134755	Ômuta	97346	Utsunomiya	63884	Toyohashi	54742	Naha	43169
+Kanazawa	456413	Matsuyama	443386	Kurashiki	403899	Funabashi	325431	Kurashiki	252396	Kurashiki	199253	Toyama	127937	Tokushima	90698	Gifu	62750	Utsunomiya	54017	Maebashi	41772
+Ichikawa	448665	Kanazawa	442973	Matsuyama	401792	Matsuyama	322969	Hakodate	243018	Iwaki	188967	Ômuta	124301	Maebashi	84931	Maebashi	62391	Kôfu	53789	Gifu	40236
+Utsunomiya	443843	Kawaguchi	438774	Matsudo	400927	Kawaguchi	305987	Chiba	241646	Matsuyama	174564	Tokushima	119697	Kurume	83014	Toyama	61811	Gifu	51688	Yamagata	40202
+Ôita	436539	Ichikawa	436683	Hachiôji	387265	Utsunomiya	301262	Utsunomiya	239067	Akita	167550	Matsuyama	117596	Asahikawa	82577	Asahikawa	61398	Maebashi	50188	Matsuyama	37885
+Wakayama	432177	Utsunomiya	426816	Kawaguchi	379436	Asahikawa	288550	Matsuyama	238672	Kôchi	161637	Takamatsu	111224	Matsuyama	82543	Fukui	56673	Tsu	47362	Takamatsu	37404
+Kurashiki	430316	Kurashiki	414725	Utsunomiya	377756	Nagano	285431	Takamatsu	228287	Yokkaichi	158624	Muroran	107656	Aomori	82152	Kôfu	56222	Aomori	47141	Nagano	37272
+Nagasaki	423270	Gifu	410304	Ichikawa	364211	Sagamihara	278398	Naha	223004	Utsunomiya	157350	Kôchi	106651	Utsunomiya	81413	Muroran	56104	Yamagata	45414	Himeji	36582
+Gifu	402885	Ôita	408531	Ôita	360527	Naha	276429	Toyohashi	215527	Maebashi	156999	Himeji	104350	Takamatsu	79907	Naha	53917	Matsuyama	45272	Hirosaki	36415
+Fujisawa	379284	Fukuyama	365694	Asahikawa	352694	Takamatsu	274433	Fuse	212894	Numazu	156536	Kôfu	102453	Kôfu	79456	Matsuyama	51370	Takasaki	44146	Mito	36215
+Fukuyama	378838	Asahikawa	359133	Fukuyama	346002	Fuji	269547	Toyama	207332	Toyama	154572	Ube	100747	Kôchi	77007	Matsumoto	50063	Morioka	43562	Tsu	36103
+Machida	377597	Iwaki	355808	Iwaki	342197	Toyama	269362	Numazu	205672	Yamagata	150470	Aomori	99197	Toyama	75121	Kôchi	49340	Mito	43236	Utsunomiya	36030
+Toyohashi	364951	Fujisawa	350378	Nagano	324494	Numazu	267101	Akita	203715	Fuse	150167	Fukui	98073	Nagano	73926	Aomori	48926	Hamamatsu	43044	Kôchi	35594
+Iwaki	360102	Machida	349126	Hakodate	320280	Ichikawa	261139	Aomori	202210	Chiba	150053	Kawaguchi	97148	Matsumoto	72130	Yamagata	48458	Takamatsu	41825	Takasaki	35259
+Nagano	360190	Nagano	347025	Takamatsu	316752	Ôita	260656	Kôchi	196371	Ube	146964	Akita	96172	Fukui	66620	Tsu	47737	Nagano	41144	Matsue	35191
+Asahikawa	359525	Fuji	339655	Fuji	314025	Toyohashi	258530	Yokkaichi	196016	Toyohashi	145942	Chiba	92199	Yamagata	66141	Takamatsu	46618	Ise	40428	Saga	35111
+Fuji	354450	Toyohashi	338034	Toyama	305197	Fukuyama	255107	Yamagata	188602	Nagano	143580	Kurume	89585	Okazaki	65507	Himeji	45799	Himeji	40382	Aomori	34909
+Toyota	351130	Toyota	332351	Toyohashi	304345	Matsudo	253627	Asahikawa	188374	Matsumoto	140188	Utsunomiya	87965	Morioka	62290	Kurume	43669	Matsumoto	39793	Akita	34402
+Okazaki	336694	Takamatsu	329792	Kôchi	300829	Hachiôji	253508	Tokushima	182853	Tokuyama	137997	Asahikawa	87519	Himeji	62259	Ôita	43119	Nagaoka	39463	Kurume	33359
+Kôriyama	334839	Toyama	321365	Fujisawa	300267	Sasebo	247913	Maebashi	181993	Tokushima	133372	Maebashi	87075	Ube	61299	Yonezawa	43055	Kurume	39251		
+Takamatsu	332996	Kôchi	317179	Numazu	298363	Kôriyama	241743	Hachinohe	174301	Asahikawa	126124	Numazu	86292	Naha	60555	Morioka	42424	Kôchi	39210		
+Kawagoe	330845	Numazu	317156	Naha	295874	Hakodate	241710	Kawaguchi	170165	Miyazaki	125685	Kiryû	86191	Takasaki	59991	Nagaoka	41626	Ôita	39000		
+Kôchi	330764	Kôriyama	314689	Machida	295496	Kôchi	240516	Ube	166676	Takamatsu	124677	Okazaki	84155	Miyazaki	58901	Mito	39465	Matsue	38689		
+Tokorozawa	330196	Hakodate	307248	Aomori	287685	Aomori	240120	Okazaki	166133	Takaoka	123916	Hitachi	82939	Nagaoka	57959	Ise	39335	Hirosaki	38646		
+Kashiwa	327915	Okazaki	306851	Kôriyama	286593	Akita	235970	Hitachi	161250	Kôfu	121641	Morioka	79578	Ôita	57398	Kushiro	39282	Yonezawa	38317		
+Toyama	325791	Kashiwa	305137	Akita	284949	Ômuta	230686	Kôfu	161058	Kurume	121592	Nobeoka	79478	Tsu	56117	Hachiôji	39001	Takaoka	38088		
+Numazu	318181	Kawagoe	304921	Toyota	281646	Yokkaichi	229290	Nagano	160567	Kawaguchi	118972	Ôita	77080	Muroran	55999	Okazaki	38537	Tottori	37303		
+Akita	317666	Naha	304837	Maebashi	265240	Fujisawa	229069	Tokuyama	159504	Morioka	117636	Nagano	76980	Kiryû	53000	Akita	38371	Saga	36721		
+Koshigaya	308361	Tokorozawa	303091	Miyazaki	264986	Fukushima	227511	Hachiôji	158451	Saga	115788	Hachiôji	75208	Hachinohe	52979	Matsue	37504	Akita	36660		
+Miyazaki	305870	Akita	302497	Fukushima	262819	Maebashi	223634	Miyazaki	158396	Kiryû	115284	Hachinohe	73539	Yokkaichi	51832	Nagano	37356	Fukushima	34083		
+Naha	301053	Aomori	287847	Okazaki	262482	Tokushima	223502	Morioka	157470	Aomori	114559	Matsumoto	72808			Kawasaki	37014	Yokkaichi	33844		
+Aomori	297974	Miyazaki	287487	Kawagoe	259327	Okazaki	210555	Ichikawa	157356	Muroran	110421	Takasaki	71045			Takasaki	36886	Jôetsu	32472		
+Fukushima	291101	Maebashi	286370	Yokkaichi	255436	Hachinohe	208817	Kurume	155039	Fukui	108461	Tagawa	70227			Takaoka	36694	Onomichi	30049		
+Yokkaichi	291110	Koshigaya	285370	Sasebo	251238	Muroran	208624	Hirosaki	152152	Hachinohe	104395	Yamagata	69249			Fukushima	35834	Nakatsu	15534		
+Morioka	288829	Fukushima	277591	Tokushima	249334	Yamagata	204144	Kushiro	150671	Ichikawa	102587	Tsu	68641			Yokkaichi	35216	Nanao	9071		
+Hakodate	287664	Yokkaichi	274271	Fukui	241046	Miyazaki	202982	Fukui	149815	Funabashi	100395	Nagaoka	67035			Saga	33565	Nakatsugawa	3317		
+Maebashi	284211	Tokushima	263440	Kashiwa	239291	Machida	202830	Matsumoto	148751	Yûbari	99536	Miyazaki	66508			Hirosaki	32875				
+Ichihara	278293	Ichihara	257741	Hachinohe	238297	Fukui	200588	Nagaoka	148340	Takasaki	97941	Mito	66391			Ôgaki	28301				
+Tokushima	268262	Fukui	252756	Yamagata	237069	Toyota	197294	Muroran	145749	Fukushima	97616	Naha	65844								
+Yamagata	255454	Yamagata	249596	Tokorozawa	236521	Morioka	196083	Takasaki	142274	Tsu	96436	Yûbari	65004								
+Hiratsuka	254687	Hiratsuka	246060	Morioka	229134	Kurume	194208	Fukuyama	140650	Okazaki	96069	Beppu	64743								
+Fukui	252333	Sasebo	244765	Ômuta	224537	Tokuyama	193824	Mito	139489	Tottori	95850	Yokkaichi	63754								
+Mito	246704	Hachinohe	241147	Koshigaya	223285	Hitachi	193241	Fukushima	139077	Nagaoka	94856	Kushiro	63204								
+Hachinohe	241962	Takasaki	236566	Takasaki	221471	Takasaki	193127	Takaoka	135239	Ôita	94599	Chôshi	61228								
+Sasebo	240897	Morioka	235468	Kurume	217054	Kushiro	191959	Funabashi	135052	Kushiro	93444	Takaoka	59497								
+Takasaki	239902	Mito	235048	Ichihara	216364	Kôfu	182792	Saga	129966	Beppu	93008	Hôfu	58982								
+Kurume	236533	Kurume	228324	Mito	215700	Mito	173866	Niihama	125711	Maizuru	91933	Miyakonojô	58898								
+Fuchû	226876	Tokuyama	211527	Tokuyama	215337	Kawagoe	171016	Ôita	124863	Ashikaga	89855	Ichikawa	58149								
+Sôka	225071	Ômuta	210096	Kushiro	214728	Hiratsuka	163764	Odawara	124851	Tagawa	88478	Kôriyama	57485								
+Chigasaki	220839	Fuchû	209459	Hiratsuka	214372	Fuchû	163288	Fujisawa	124698	Nobeoka	88111	Fukuyama	56753								
+Atsugi	217453	Sôka	206188	Muroran	206774	Matsumoto	162980	Fuji	124023	Kamakura	85492	Ôgaki	56186								
+Ageo	212958	Kushiro	205667	Hitachi	204695	Nagaoka	162357	Kiryû	123092	Fujisawa	84686	Imabari	55604								
+Yamato	212862	Hitachi	202139	Kôfu	199381	Takaoka	159705	Nobeoka	122586	Yonago	83655	Matsue	55573								
+Matsumoto	209064	Chigasaki	201712	Fuchû	192272	Hirosaki	157626	Jôetsu	116600	Hôfu	83650	Ise	52684								
+Chôfu	204857	Matsumoto	200766	Matsumoto	192175	Chôfu	157562	Ashikaga	111022	Matsue	83283	Uwajima	52176								
+Tokuyama	204254	Kôfu	200651	Sôka	186614	Odawara	156775	Tsu	110903	Hachiôji	82541	Odawara	51859								
+Kasukabe	203419	Chôfu	197733	Chôfu	180516	Ashikaga	156042	Hiratsuka	108342	Chôshi	82437	Hirosaki	51577								
+Odawara	200206	Atsugi	197341	Nagaoka	180321	Ichihara	156041	Yûbari	108070	Imari	82326	Iwakuni	51001								
+Kôfu	196252	Yamato	194924	Odawara	177548	Mitaka	155746	Beppu	107735	Jôetsu	82198	Funabashi	50919								
+Ômuta	195590	Ageo	194918	Hirosaki	175329	Ube	152902	Kawagoe	107574	Ôgaki	82191	Saga	50450								
+Hitachi	193470	Odawara	193443	Takaoka	175158	Kashiwa	150688	Matsue	106545	Fuji	81546	Maizuru	49872								
+Nagaoka	193418	Kasukabe	188874	Kamakura	172603	Saga	143554	Tottori	104846	Odawara	79500	Tottori	49317								
+Kushiro	191738	Nagaoka	185949	Chigasaki	171001	Koshigaya	139484	Kôriyama	102693	Tsuyama	78673	Kumagaya	48961								
+Suzuka	186260	Takaoka	175590	Ube	169024	Kamakura	139278	Ôgaki	102540	Yamaguchi	77877	Yonezawa	48848								
+Kodaira	178636	Ube	175156	Yamato	167949	Kodaira	137452	Sagamihara	101791	Mito	77553	Onomichi	48842								
+Hirosaki	177138	Kamakura	174354	Ageo	166281	Tokorozawa	136679	Obihiro	100992	Suzuka	77037	Fukushima	48398								
+Ube	174452	Suzuka	174164	Ashikaga	165813	Ôgaki	134945	Yatsushiro	100647	Naha	75779	Ashikaga	48324								
+Obihiro	173095	Muroran	173534	Mitaka	164518	Kiryû	133193	Iwakuni	100322	Onomichi	75470	Aizuwakamatsu	48153								
+Takaoka	172253	Saga	170046	Saga	163852	Obihiro	131668	Imabari	100135	Miyakonojô	75133	Yonago	47200								
+Tomakomai	172133	Ashikaga	167708	Suzuka	156368	Chigasaki	129607	Maizuru	99699	Niihama	73727	Nôgata	47016								
+Mitaka	171621	Obihiro	167475	Kasukabe	155672	Nobeoka	128361	Aizuwakamatsu	99597	Kôriyama	70948	Kanoya	46804								
+Sakura	170926	Hino	165965	Kodaira	154682	Niihama	126095	Ise	99086	Kanuma	70505	Iizuka	46783								
+Yachiyo	168837	Mitaka	165644	Obihiro	153998	Tsu	125230	Kamakura	98627	Himi	70123	Seto	45887								
+Hadano	168151	Kodaira	164079	Tomakomai	152051	Beppu	123850	Matsusaka	98452	Kumagaya	69793	Kamaishi	42246								
+Saga	168029	Tomakomai	160190	Hino	145452	Sôka	123327	Kumagaya	98201	Yatsushiro	69677	Kawagoe	38432								
+Hino	167924	Sayama	157308	Atsugi	145414	Suzuka	121285	Mitaka	98021	Ise	69536	Yamaguchi	38230								
+Kamakura	167667	Tsu	157269	Tsu	145054	Kumagaya	120888	Sakata	97709	Tochigi	68807	Obihiro	36694								
