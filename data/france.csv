@@ -1,111 +1,111 @@
-city	1901	city	1911	city	1921	city	1931	city	1946	city	1954	city	1961	city	1975	city	1982	city	1990	city	1999	city	2007
-Paris	3626783	Paris	3880446	Paris	3922480	Paris	4210982	Paris	4686304	Paris	6130573	Paris	8159234	Paris	9042635	Paris	9120945	Paris	9554192	Paris	9738809	Paris	10303282
-Lille	731825	Lille	801802	Lyon	917776	Marseille	861855	Marseille	915494	Marseille	1058409	Lille	1118864	Lyon	1355318	Marseille	1413201	Lyon	1416653	Marseille	1463016	Marseille	1558379
-Marseille	638438	Lyon	689338	Marseille	816343	Lille	848315	Lille	898056	Lyon	956347	Lyon	1020448	Marseille	1299506	Lyon	1313071	Marseille	1367593	Lyon	1428149	Lyon	1508813
-Lyon	511198	Marseille	680411	Lille	739609	Lyon	729802	Lyon	850479	Lille	879675	Marseille	1014025	Lille	960264	Lille	962531	Lille	977917	Lille	999797	Lille	1014239
-Nice	361225	Nice	384835	Nice	399593	Bordeaux	492812	Nice	512161	Bordeaux	560098	Nice	640465	Bordeaux	722488	Nice	780716	Bordeaux	856263	Nice	889163	Nice	947075
-Saint-…tienne	258158	Rouen	362782	Bordeaux	367491	Toulouse	363096	Bordeaux	500677	Douai - Lens	554655	Bordeaux	562467	Toulouse	647467	Bordeaux	676765	Toulouse	731341	Bordeaux	773636	Toulouse	859338
-Toulouse	258055	Saint-…tienne	261513	Rouen	346326	Valenciennes	323086	Toulouse	375075	Toulon	500371	Douai - Lens	533163	Nice	560384	Toulouse	588509	Nice	667346	Toulouse	761963	Bordeaux	831788
-Rouen	254342	Toulouse	249632	Toulouse	275436	Nice	294698	Douai - Lens	367525	Nice	382467	Toulouse	449863	Rouen	547391	Douai - Lens	533985	Grenoble	526891	Nantes	557947	Nantes	584306
-Bordeaux	246074	Valenciennes	234894	Saint-…tienne	268076	Strasbourg	291153	Nantes	360172	Grenoble	373415	Rouen	398860	Douai - Lens	461735	Nantes	476295	Nantes	506701	Toulon	527814	Toulon	556538
-Valenciennes	230979	Nancy	219986	Valenciennes	234480	Toulon	242451	Rouen	347057	Toulouse	370454	Nantes	396834	Grenoble	453110	Toulon	469027	Toulon	501648	Douai - Lens	518146	Douai - Lens	511345
-Nancy	202675	Bordeaux	213988	Nancy	213209	Douai - Lens	235029	Saint-…tienne	293792	Strasbourg	299487	Toulon	329312	Toulon	441336	Rouen	450316	Douai - Lens	464766	Grenoble	483646	Grenoble	495342
-Douai - Lens	200586	Strasbourg	195725	Nantes	198087	Saint-…tienne	234759	Valenciennes	258785	Nancy	283427	Grenoble	325438	Nantes	431843	Grenoble	450223	Rouen	456254	Rouen	463273	Rouen	464294
-Grenoble	183409	Grenoble	177445	Le Havre	193476	OrlÈans	220691	Grenoble	233246	Nantes	252565	Saint-…tienne	324031	Valenciennes	426331	Saint-…tienne	409938	Strasbourg	410644	Strasbourg	435059	Strasbourg	449798
-Metz	169867	Tours	173467	Strasbourg	185878	Le Havre	200087	BÈthune	232172	Le Havre	252427	Valenciennes	310683	Saint-…tienne	380892	Strasbourg	391877	BÈthune	407359	Avignon	405426	Avignon	440651
-Strasbourg	165494	Nantes	170515	Douai - Lens	183339	Thionville	195116	Nancy	213537	Saint-…tienne	228973	BÈthune	274779	Nancy	363568	Avignon	352534	Avignon	379499	Saint-…tienne	381378	Montpellier	384165
-Tours	164744	Metz	168623	Grenoble	177495	Rouen	190750	Strasbourg	202790	Clermont-Ferrand	224803	Strasbourg	266467	BÈthune	340703	Valenciennes	349334	Montpellier	349101	BÈthune	346888	Saint-…tienne	372967
-Le Havre	160252	Le Havre	166229	BÈthune	176592	Grenoble	181508	Le Havre	196908	Dunkerque	219150	Le Havre	244132	Strasbourg	327296	BÈthune	341084	Tours	335977	Montpellier	344877	BÈthune	350068
-Avignon	146941	Douai - Lens	157762	Tours	175108	Avignon	178847	Metz	183252	Tours	205022	Metz	233958	Le Havre	286184	Tours	301915	Valenciennes	315525	Valenciennes	334569	Tours	344739
-Nantes	133077	BÈthune	153019	Metz	162365	Metz	178657	Toulon	165939	Rennes	188816	Nancy	233561	Tours	285567	Nancy	284441	Saint-…tienne	300505	Tours	332315	Valenciennes	333492
-Toulon	131562	Avignon	149312	Avignon	148291	BÈthune	157292	Clermont-Ferrand	162713	Rouen	183980	Avignon	215252	Montpellier	283573	Metz	279814	Nancy	287243	Rennes	293546	Rennes	304729
-Reims	128404	Reims	135234	Toulon	129568	Draguignan	156324	Avignon	160117	Metz	183612	Tours	212610	Le Mans	268766	Montpellier	263397	Metz	281674	Metz	290336	Metz	290851
-OrlÈans	126405	Toulon	126788	OrlÈans	119095	Nantes	133378	OrlÈans	138495	Valenciennes	162818	Clermont-Ferrand	210571	Rennes	253244	Le Havre	261452	Rennes	266003	Nancy	288096	Nancy	286108
-BÈthune	124005	OrlÈans	122150	Mulhouse	108037	Dijon	133175	Mulhouse	135185	OrlÈans	156698	Dijon	196612	Metz	241423	Clermont-Ferrand	256189	Angers	261606	OrlÈans	263292	OrlÈans	268468
-Brest	114468	Brest	121575	Reims	96664	MontbÈliard	132882	Dijon	133523	Mulhouse	154524	Rennes	187760	Avignon	238211	Rennes	251163	Clermont-Ferrand	254416	Clermont-Ferrand	258541	Clermont-Ferrand	261281
-Mulhouse	93861	Mulhouse	105491	Amiens	92838	Mulhouse	121622	Reims	130739	Dijon	148405	Mulhouse	176821	Mulhouse	226296	Mulhouse	227933	OrlÈans	243153	Le Havre	256558	Le Havre	244745
-Amiens	90824	Amiens	93295	Clermont-Ferrand	92629	Rennes	110986	Rennes	123855	Avignon	144169	OrlÈans	171392	OrlÈans	217735	OrlÈans	220478	Le Havre	231174	Mulhouse	237975	Mulhouse	243618
-Limoges	84162	Limoges	92204	Limoges	90298	Reims	99576	Tours	118881	Caen	141111	Reims	158675	Clermont-Ferrand	209234	Dijon	218984	Mulhouse	230451	Dijon	236953	Dijon	237924
-Angers	82443	Angers	83823	Dijon	88621	Clermont-Ferrand	98784	Thionville	109234	Maubeuge	127774	Dunkerque	158033	Caen	202051	Le Mans	203829	Le Mans	208755	Angers	220037	Angers	220313
-NÓmes	80648	NÓmes	80433	Angers	86229	Pau	92600	Limoges	107958	Pau	125378	Angers	152343	Angers	201808	Reims	201443	Reims	206229	Reims	215581	Bayonne	219618
-Montpellier	76049	Montpellier	80281	NÓmes	82811	Lorient	92485	MontbÈliard	105837	Angers	122164	Caen	152005	Brest	198999	Brest	201145	Brest	204524	Le Mans	208205	Reims	211966
-Rennes	74778	Rennes	79496	Rennes	82290	BesanÁon	90987	Le Mans	100543	Forbach	121945	Brest	144749	Reims	187858	Angers	195559	Caen	201512	Brest	206589	Le Mans	208283
-Dijon	72110	Dijon	76815	Montpellier	81515	Perpignan	90258	Dunkerque	98078	Cherbourg-Octeville	117229	Thionville	137234	ChambÈry	186241	Dunkerque	194485	Dunkerque	194506	Bayonne	204132	Brest	201666
-Le Mans	63376	Clermont-Ferrand	75466	MontbÈliard	79049	Bayonne	89221	Angers	94421	Reims	113872	Le Mans	136169	Bayonne	185638	Caen	187672	NÓmes	191782	Caen	203110	Pau	199199
-Calais	59784	Calais	72305	Brest	74054	Nancy	86978	Montpellier	93145	Le Mans	112113	Pau	134512	Amiens	169114	Bayonne	176722	Dijon	190703	Dunkerque	192253	Caen	199145
-Clermont-Ferrand	56777	Le Mans	69400	Thionville	73517	Limoges	85695	Caen	92497	Brest	111916	Bayonne	133588	Dijon	165514	Limoges	173855	Pau	176211	Pau	184111	Perpignan	187569
-BesanÁon	55496	Thionville	65752	Calais	73009	Le Mans	78947	NÓmes	91703	Limoges	106001	Montpellier	123409	Limoges	156666	Pau	167701	ChambÈry	172911	Limoges	176733	Limoges	184066
-Boulogne-sur-Mer	55004	MontbÈliard	58008	Le Mans	71883	Dunkerque	74098	Bayonne	86491	Bayonne	101359	MontbÈliard	122829	Saint-Nazaire	156405	Perpignan	159946	Bayonne	163635	Perpignan	169298	Dunkerque	182813
-Dunkerque	54467	BesanÁon	58004	BÈziers	56022	Maubeuge	71815	Pau	86277	BÈthune	97595	Limoges	121091	BesanÁon	152604	Amiens	157644	Saint-Nazaire	159084	ChambÈry	163602	NÓmes	176079
-Lorient	54385	Saint-Quentin	55617	BesanÁon	55737	Roanne	71556	Amiens	84868	Creil	93874	Amiens	109960	Perpignan	142165	NÓmes	145107	Perpignan	155458	Amiens	163601	ChambÈry	174833
-Troyes	53731	Troyes	55521	Boulogne-sur-Mer	55383	Calais	70242	Maubeuge	77185	BesanÁon	92523	Maubeuge	109223	Dunkerque	141307	ChambÈry	137366	Limoges	149378	NÓmes	162662	Amiens	163158
-BÈziers	52323	Boulogne-sur-Mer	53115	Troyes	55219	Angers	69806	Brest	76069	MontbÈliard	89152	NÓmes	105200	Forbach	132343	Thionville	137294	BesanÁon	134501	Annecy	143402	Annecy	153288
-Bayonne	50494	Dunkerque	52295	Perpignan	53784	Caen	69040	Perpignan	75028	La Rochelle	82672	BesanÁon	101747	MontbÈliard	131045	Saint-Nazaire	132812	Annemasse	132374	Saint-Nazaire	140418	Saint-Nazaire	148578
-Saint-Quentin	50344	BÈziers	51088	Caen	53754	Montpellier	67536	Poitiers	68582	Lorient	81576	Poitiers	96257	Maubeuge	130217	Troyes	130849	Annecy	131718	BesanÁon	134376	Annemasse	145507
-Thionville	48638	Lorient	49093	Bayonne	46627	BÈziers	60489	AngoulÍme	65308	BÈziers	76347	Valence	95079	Troyes	128895	MontbÈliard	128194	Thionville	129224	Troyes	131336	BesanÁon	135808
-Bourges	46697	Caen	46926	Lorient	46387	AngoulÍme	58850	BÈziers	64666	AngoulÍme	73465	AngoulÍme	93847	Pau	127062	Maubeuge	127904	Troyes	128546	Thionville	130442	Troyes	133279
-Caen	45410	Bayonne	45991	Bourges	45922	Tours	54703	BesanÁon	63584	Roanne	73401	Forbach	91396	AngoulÍme	126976	BesanÁon	125934	MontbÈliard	124609	Annemasse	127085	Thionville	130922
-Cherbourg-Octeville	42920	Bourges	45773	Pau	45753	Troyes	54386	Forbach	61365	Thionville	70132	La Rochelle	88480	Valence	113057	Annecy	119269	La Rochelle	119259	Valence	122744	Poitiers	129653
-MontbÈliard	40913	Colmar	43825	Dunkerque	44710	Bourges	52341	Troyes	60957	Boulogne-sur-Mer	69837	Lorient	87013	Thionville	111207	Valence	115905	AngoulÍme	117510	La Rochelle	122073	La Rochelle	127033
-Poitiers	39905	Cherbourg-Octeville	43784	Maubeuge	44211	Vichy	51938	Valence	60001	Perpignan	68828	Perpignan	86259	Poitiers	110326	La Rochelle	111041	Amiens	116381	Poitiers	121125	Valence	126832
-SËte	37759	Poitiers	41288	Colmar	42337	AlËs	51360	La Rochelle	58909	Annemasse	65179	Saint-Brieuc	77143	La Rochelle	109122	Lorient	110823	Lorient	115488	Maubeuge	119657	Lorient	116401
-AngoulÍme	37738	Perpignan	39563	Saint-Nazaire	41601	CompiËgne	49455	Saint-Brieuc	58194	Bourges	64900	Annemasse	77010	Annecy	105253	Poitiers	106978	Poitiers	110289	Lorient	116174	Creil	116214
-Colmar	36883	Belfort	39418	La Rochelle	39804	Forbach	47512	AlËs	54357	Colmar	63964	Creil	76866	Creil	104234	AngoulÍme	106876	Valence	110084	MontbÈliard	113059	Maubeuge	115404
-Perpignan	36266	Maubeuge	38340	Belfort	39320	ArmentiËres	46325	Bourges	51004	Valence	62303	BÈziers	75592	Chartres	98567	Creil	105519	Maubeuge	109791	Creil	110688	AngoulÍme	109009
-Saint-Nazaire	35864	Saint-Nazaire	38339	Valence	38724	Annemasse	45109	Lorient	50394	Troyes	60343	Cherbourg-Octeville	73683	Lorient	97584	Forbach	100448	Creil	105437	AngoulÍme	106419	MontbÈliard	108768
-Roanne	34964	AngoulÍme	38277	Cherbourg-Octeville	38326	Valence	45069	Calais	50008	Nevers	58903	Troyes	73514	Tarbes	95802	Annemasse	99833	Roanne	98758	Calais	99616	Calais	98391
-Pau	34349	Pau	37115	Roanne	37859	Blois	44613	Saint-Quentin	48634	Cluses	57364	AlËs	71334	Annemasse	95091	Calais	95696	Calais	96815	Forbach	92845	FrÈjus	93805
-Maubeuge	33318	Roanne	36722	Poitiers	37754	Colmar	43225	ArmentiËres	48039	Calais	57319	Calais	70723	Saint-Brieuc	91035	Boulogne-sur-Mer	94346	BÈziers	93991	Boulogne-sur-Mer	92704	Saint-Brieuc	92235
-Belfort	32630	La Rochelle	36435	Saint-Quentin	37356	Nevers	43209	Chalon-sur-SaÙne	47937	Montauban	55312	Chalon-sur-SaÙne	66896	Brive-la-Gaillarde	90779	Bourges	91119	Belfort	91854	Cherbourg-Octeville	90864	Vienne	91796
-PÈrigueux	32036	PÈrigueux	33513	SËte	36577	Saint-Brieuc	42952	Colmar	46133	Bourg-en-Bresse	53996	Colmar	64336	NÓmes	89443	Roanne	88472	FrÈjus	91249	Bourges	88456	Colmar	90842
-La Rochelle	31666	Charleville-MÈziËres	33164	AlËs	36544	Belfort	42512	Tarbes	44961	Charleville-MÈziËres	53931	Boulogne-sur-Mer	63560	Chalon-sur-SaÙne	89225	Cherbourg-Octeville	87186	Saint-Brieuc	86187	Saint-Brieuc	88419	AlËs	90660
-Montauban	30515	SËte	33041	AngoulÍme	34949	Brive-la-Gaillarde	41237	Roanne	44503	Chalon-sur-SaÙne	53028	Bourges	63540	Boulogne-sur-Mer	84529	Saint-Brieuc	85823	Bourges	86096	Colmar	88416	Boulogne-sur-Mer	89983
-Laval	30487	Chalon-sur-SaÙne	31656	PÈrigueux	33447	Poitiers	40578	Cherbourg-Octeville	43104	Saint-Nazaire	52119	ArmentiËres	63526	Belfort	83872	BÈziers	85057	AlËs	85933	Chartres	87824	Forbach	87978
-ArmentiËres	29444	Ch‚lons-en-Champagne	31488	Forbach	33246	Montauban	40531	Boulogne-sur-Mer	41657	Amiens	50236	Saint-Quentin	62656	Cherbourg-Octeville	83706	Colmar	83687	Boulogne-sur-Mer	85164	Vienne	87192	Cherbourg-Octeville	87482
-Chalon-sur-SaÙne	29130	Laval	30338	Bastia	33128	Tarbes	39275	PÈrigueux	40940	La Teste-de-Buch - Arcachon	47628	Vienne	61285	AlËs	82737	Arras	83587	SËte	84599	AlËs	85328	Chartres	87339
-…pinal	28174	…pinal	30009	ArmentiËres	32965	Creil	38948	Vienne	39847	ChambÈry	46526	Annecy	60297	PÈrigueux	81905	AlËs	83529	Arras	83261	Arras	84413	SËte	86879
-Nevers	27700	Montauban	29887	Charleville-MÈziËres	32357	Charleville-MÈziËres	37536	Vichy	39198	Haguenau	44478	Saint-Nazaire	59201	Roanne	79835	Tarbes	81695	Cherbourg-Octeville	83012	FrÈjus	83937	Bourges	86769
-Valence	26909	AlËs	29801	Chalon-sur-SaÙne	31677	Cherbourg-Octeville	37050	Nevers	39174	Belfort	43411	Roanne	53271	Vienne	79008	Chartres	78835	Colmar	81082	Roanne	81742	Arras	86693
-Ch‚lons-en-Champagne	26757	Bastia	29432	Ch‚lons-en-Champagne	31264	FrÈjus	34003	Charleville-MÈziËres	38979	Saint-Brieuc	43208	Nevers	53098	Agen	78449	Belfort	78317	CompiËgne	78915	BÈziers	80835	BÈziers	85354
-Charleville-MÈziËres	26743	Valence	28810	Nevers	29870	La Teste-de-Buch - Arcachon	33455	Annemasse	38089	NÓmes	43056	Charleville-MÈziËres	52585	Bergerac	76029	Chalon-sur-SaÙne	78196	Tarbes	78387	Belfort	80049	Belfort	81745
-Tarbes	26162	Tarbes	28695	…pinal	28457	Arras	33437	Belfort	37491	Vichy	40847	Belfort	51399	Bourges	74449	Vienne	77806	Blois	77764	Tarbes	77962	Cluses	81322
-Arras	25829	ArmentiËres	28656	Laval	27507	Saint-Nazaire	32326	SËte	37302	ArmentiËres	40593	Tarbes	50773	Arras	72943	Saint-Quentin	72925	Vannes	74936	Quimper	77256	Roanne	79159
-Bastia	25460	Nevers	27788	Tarbes	26694	Bourgoin-Jallieu	31945	Bastia	36699	SËte	40226	Quimper	50763	Vichy	71677	ArmentiËres	72397	Forbach	73967	ArmentiËres	76438	Quimper	78951
-Ch‚teauroux	25035	Ch‚teauroux	26140	Ch‚teauroux	26686	Annecy	30065	Montauban	36330	AlËs	40218	ChambÈry	47434	Haguenau	69851	Brive-la-Gaillarde	70056	Chalon-sur-SaÙne	73062	SËte	75987	Agen	78517
-AlËs	24994	Arras	26139	Montauban	26196	Vienne	29505	Ch‚teauroux	34678	Saint-Quentin	39485	Ch‚teauroux	46875	Bourgoin-Jallieu	69801	Nevers	68736	Chartres	71929	Chalon-sur-SaÙne	75447	Tarbes	78147
-Vienne	24642	Albi	25000	Albi	25107	ChambÈry	29413	Albi	34367	Poitiers	39412	FrÈjus	45985	Albi	67204	Quimper	68734	Saint-Quentin	71169	Cluses	73194	Brive-la-Gaillarde	76357
-Chartres	24109	Vienne	24732	Menton	25074	Chalon-sur-SaÙne	28623	Annecy	33640	Arras	38351	Arras	45657	…vreux	67087	Charleville-MÈziËres	68499	Saint-Omer	70197	Brive-la-Gaillarde	72099	Vannes	75832
-Niort	23954	Chartres	24109	Arras	24851	Cholet	27883	Brive-la-Gaillarde	33534	Bourgoin-Jallieu	36833	Cluses	45634	SËte	66437	Vichy	67591	Quimper	69167	Vannes	71601	ArmentiËres	75757
-Blois	23819	Blois	24075	Saint-Brieuc	24514	Romans-sur-IsËre	27309	Agen	33480	Ajaccio	36432	Ch‚lons-en-Champagne	45350	Cluses	65995	Ch‚teauroux	67158	Charleville-MÈziËres	68659	Agen	70862	Draguignan	74174
-Vannes	23444	Saint-Brieuc	23957	Blois	24071	Amiens	27092	Arras	33344	Annecy	36234	SËte	45105	Beauvais	65975	PÈrigueux	67037	Niort	68561	CompiËgne	69903	Chalon-sur-SaÙne	74059
-Albi	22662	Niort	23839	Agen	23976	Ch‚lons-en-Champagne	26766	Laval	32589	Brive-la-Gaillarde	36135	Niort	44644	CompiËgne	65244	Niort	66304	La Teste-de-Buch - Arcachon	68115	PÈrigueux	69337	Albi	72688
-Agen	22515	Vannes	23759	Vienne	23726	Quimper	26751	Ch‚lons-en-Champagne	31105	Blois	35406	Brive-la-Gaillarde	43772	Nevers	64182	SËte	65692	Bourgoin-Jallieu	67891	Saint-Quentin	68379	PÈrigueux	71496
-Saint-Brieuc	22224	Agen	23335	Niort	23684	Niort	25989	Creil	30098	Laval	34719	Montauban	43406	Saint-Just-Saint-Rambert	63407	Agen	65051	Beauvais	67382	Blois	67935	Montauban	71343
-ChambÈry	22112	ChambÈry	23063	Chartres	23300	La Rochelle	25734	ChambÈry	30032	CompiËgne	34668	Laval	43288	Montauban	62507	…pinal	64349	Vichy	66925	Albi	67873	CompiËgne	71221
-Ajaccio	21834	Brive-la-Gaillarde	21511	Ajaccio	22667	Meaux	25471	FrÈjus	29847	Albi	33229	Vichy	42608	Saint-Quentin	62492	CompiËgne	64134	Meaux	66923	Niort	67510	Niort	70289
-Vichy	20933	Ajaccio	21213	Brive-la-Gaillarde	21730	PÈrigueux	25469	Niort	29606	Beauvais	33228	Albi	41358	…pinal	61809	Albi	64087	Albi	66745	Meaux	66945	Menton	70228
-Saint-Omer	20916	Cholet	21148	Vannes	21486	NÓmes	25434	Chartres	28479	Tarbes	32644	Bergerac	41328	BÈziers	60321	Ch‚lons-en-Champagne	63061	Menton	66269	Charleville-MÈziËres	66637	Blois	67984
-Beauvais	20315	Saint-Omer	20573	ChambÈry	20639	Vannes	25350	Vannes	28280	Vienne	32168	PÈrigueux	41120	FrÈjus	60094	Blois	62622	Montauban	66175	Menton	66480	Meaux	67566
-Brive-la-Gaillarde	19572	Bourg-en-Bresse	20515	Bourg-en-Bresse	20214	SËte	24914	Cluses	27409	Montpellier	32152	Chartres	40723	Ch‚lons-en-Champagne	59318	Laval	61163	Vienne	64799	Ch‚teauroux	66448	Thonon-les-Bains	67354
-Quimper	19493	Beauvais	19944	Beauvais	19334	Ajaccio	24661	Blois	26828	Bergerac	31987	…vreux	40234	Bastia	58141	Saint-Omer	60889	Ch‚lons-en-Champagne	64386	Laval	66321	Laval	66743
-Cholet	19405	Quimper	19211	Saint-Omer	19221	Cluses	23934	Cholet	26107	Thonon-les-Bains	29486	CompiËgne	39876	Blois	57567	FrÈjus	60289	Nevers	64041	Nevers	66162	Saint-Quentin	65694
-Bourg-en-Bresse	18975	Haguenau	18933	Quimper	18404	Saint-Omer	23104	Ajaccio	26060	PÈrigueux	29115	Menton	38948	Romans-sur-IsËre	57186	Montauban	59539	Brive-la-Gaillarde	62102	Vichy	64909	Ch‚teauroux	65346
-…vreux	18368	…vreux	18648	…vreux	18261	Thonon-les-Bains	22543	Bourg-en-Bresse	25991	Saint-Just-Saint-Rambert	28785	Cholet	37614	Cholet	55428	Menton	59198	PÈrigueux	62073	Draguignan	64349	Vichy	64977
-Haguenau	18087	Menton	17126	Vichy	17576	Albi	22481	Menton	25411	…vreux	28778	Beauvais	36584	Charleville-MÈziËres	55403	Cholet	58632	Bergerac	61789	…pinal	64119	Ajaccio	64432
-Romans-sur-IsËre	17146	Romans-sur-IsËre	17032	Creil	17263	Bergerac	22283	Bergerac	25337	Vannes	28476	Blois	36407	Salon-de-Provence	55201	Cluses	57198	Cluses	61719	Montauban	64039	Bastia	63483
-CompiËgne	16539	CompiËgne	16831	Bergerac	17049	Boulogne-sur-Mer	21354	CompiËgne	24783	FrÈjus	28454	Bourg-en-Bresse	35672	Bourg-en-Bresse	54688	Bergerac	56919	Romans-sur-IsËre	61452	Saint-Omer	63754	Bergerac	62941
-Bergerac	15989	Vichy	16551	CompiËgne	16213	Brest	20333	…pinal	23485	Menton	28224	Agen	35267	Calais	53807	Bastia	56084	…pinal	60135	Bergerac	60336	…pinal	62867
-Annecy	15414	Bergerac	16135	Haguenau	15806	Saint-Quentin	20119	Beauvais	23288	Chartres	28109	…pinal	34811	Ajaccio	52464	Vannes	56073	Ch‚teauroux	58949	…vreux	60108	Nevers	62579
-Draguignan	14597	Annecy	15680	Annecy	15037	Salon-de-Provence	19595	Romans-sur-IsËre	22236	Meaux	26867	Saint-Just-Saint-Rambert	34576	Saint-Omer	51743	Beauvais	55817	Ajaccio	58614	Ch‚lons-en-Champagne	60013	Charleville-MÈziËres	62096
-Menton	13964	Draguignan	14584	Salon-de-Provence	14901	Saint-Just-Saint-Rambert	19357	…vreux	20481	Bastia	26787	Vannes	34064	Quimper	51444	Meaux	55192	Bourg-en-Bresse	57968	Thonon-les-Bains	59774	Saint-Omer	61861
-Meaux	13767	Salon-de-Provence	14128	Draguignan	14565	Haguenau	18705	Quimper	19052	Romans-sur-IsËre	23668	Ajaccio	33687	Colmar	51148	…vreux	54654	Bastia	57704	Beauvais	59003	…vreux	61551
-Salon-de-Provence	12941	Meaux	13587	FrÈjus	14235	Ch‚teauroux	18320	Saint-Omer	18113	Draguignan	22619	Bastia	31415	Niort	50567	Ajaccio	54089	ArmentiËres	56864	Cholet	57710	La Teste-de-Buch - Arcachon	59774
-Creil	9166	La Teste-de-Buch - Arcachon	10289	Annemasse	14208	Chartres	17949	Saint-Just-Saint-Rambert	17894	Salon-de-Provence	19538	Romans-sur-IsËre	27706	Laval	49065	Bourg-en-Bresse	53463	Agen	55878	Bourg-en-Bresse	57198	Beauvais	59016
-La Teste-de-Buch - Arcachon	8373	Creil	10194	Meaux	13563	…pinal	17801	Haguenau	17332	Ch‚teauroux	19491	Meaux	23357	La Teste-de-Buch - Arcachon	47296	Romans-sur-IsËre	48965	Cholet	55784	Bastia	55602	Haguenau	58937
-Forbach	8257	Forbach	10154	Cluses	12955	Menton	17544	Salon-de-Provence	15854	Agen	19306	Salon-de-Provence	22670	Ch‚teauroux	43965	Thonon-les-Bains	47383	Laval	53805	Haguenau	54537	Bourg-en-Bresse	58356
-Bourgoin-Jallieu	7309	FrÈjus	8736	Romans-sur-IsËre	12569	Beauvais	15293	La Teste-de-Buch - Arcachon	14678	…pinal	17637	Haguenau	21893	Thonon-les-Bains	43723	Haguenau	46942	Salon-de-Provence	51267	La Teste-de-Buch - Arcachon	54204	Cholet	58007
-Thonon-les-Bains	6345	Annemasse	7334	La Teste-de-Buch - Arcachon	11493	Bastia	14536	Meaux	14272	Niort	16801	Saint-Omer	20978	Vannes	42882	Draguignan	46797	Thonon-les-Bains	50621	Saint-Just-Saint-Rambert	54034	Ch‚lons-en-Champagne	57764
-Saint-Just-Saint-Rambert	5842	Bourgoin-Jallieu	7100	Saint-Just-Saint-Rambert	7829	Bourg-en-Bresse	13883	Thonon-les-Bains	13235	Cholet	15038	Thonon-les-Bains	18516	Menton	39512	Salon-de-Provence	44606	Haguenau	48894	Ajaccio	52930	Saint-Just-Saint-Rambert	57629
-FrÈjus	4204	Saint-Just-Saint-Rambert	6547	Thonon-les-Bains	6344	Laval	13880	Saint-Nazaire	11823	Ch‚lons-en-Champagne	14044	Bourgoin-Jallieu	16529	ArmentiËres	37195	Saint-Just-Saint-Rambert	43377	Draguignan	47141	Romans-sur-IsËre	52715	Salon-de-Provence	54858
-Annemasse	2844	Thonon-les-Bains	6313	Cholet	4600	…vreux	11948	Draguignan	11808	Quimper	13485	Draguignan	16147	Meaux	35389	La Teste-de-Buch - Arcachon	42877	…vreux	45331	Salon-de-Provence	50017	Romans-sur-IsËre	54758
-Cluses	2268	Cluses	5532	Bourgoin-Jallieu	1400	Agen	6333	Bourgoin-Jallieu	8600	Saint-Omer	13445	La Teste-de-Buch - Arcachon	15872	Draguignan	30578	Bourgoin-Jallieu	32994	Saint-Just-Saint-Rambert	38538	Bourgoin-Jallieu	46868	Bourgoin-Jallieu	52225
+Ôªøcity,1901,city,1911,city,1921,city,1931,city,1946,city,1954,city,1961,city,1975,city,1982,city,1990,city,1999,city,2007
+Paris,3626783,Paris,3880446,Paris,3922480,Paris,4210982,Paris,4686304,Paris,6130573,Paris,8159234,Paris,9042635,Paris,9120945,Paris,9554192,Paris,9738809,Paris,10303282
+Lille,731825,Lille,801802,Lyon,917776,Marseille,861855,Marseille,915494,Marseille,1058409,Lille,1118864,Lyon,1355318,Marseille,1413201,Lyon,1416653,Marseille,1463016,Marseille,1558379
+Marseille,638438,Lyon,689338,Marseille,816343,Lille,848315,Lille,898056,Lyon,956347,Lyon,1020448,Marseille,1299506,Lyon,1313071,Marseille,1367593,Lyon,1428149,Lyon,1508813
+Lyon,511198,Marseille,680411,Lille,739609,Lyon,729802,Lyon,850479,Lille,879675,Marseille,1014025,Lille,960264,Lille,962531,Lille,977917,Lille,999797,Lille,1014239
+Nice,361225,Nice,384835,Nice,399593,Bordeaux,492812,Nice,512161,Bordeaux,560098,Nice,640465,Bordeaux,722488,Nice,780716,Bordeaux,856263,Nice,889163,Nice,947075
+Saint-‚Ä¶tienne,258158,Rouen,362782,Bordeaux,367491,Toulouse,363096,Bordeaux,500677,Douai - Lens,554655,Bordeaux,562467,Toulouse,647467,Bordeaux,676765,Toulouse,731341,Bordeaux,773636,Toulouse,859338
+Toulouse,258055,Saint-‚Ä¶tienne,261513,Rouen,346326,Valenciennes,323086,Toulouse,375075,Toulon,500371,Douai - Lens,533163,Nice,560384,Toulouse,588509,Nice,667346,Toulouse,761963,Bordeaux,831788
+Rouen,254342,Toulouse,249632,Toulouse,275436,Nice,294698,Douai - Lens,367525,Nice,382467,Toulouse,449863,Rouen,547391,Douai - Lens,533985,Grenoble,526891,Nantes,557947,Nantes,584306
+Bordeaux,246074,Valenciennes,234894,Saint-‚Ä¶tienne,268076,Strasbourg,291153,Nantes,360172,Grenoble,373415,Rouen,398860,Douai - Lens,461735,Nantes,476295,Nantes,506701,Toulon,527814,Toulon,556538
+Valenciennes,230979,Nancy,219986,Valenciennes,234480,Toulon,242451,Rouen,347057,Toulouse,370454,Nantes,396834,Grenoble,453110,Toulon,469027,Toulon,501648,Douai - Lens,518146,Douai - Lens,511345
+Nancy,202675,Bordeaux,213988,Nancy,213209,Douai - Lens,235029,Saint-‚Ä¶tienne,293792,Strasbourg,299487,Toulon,329312,Toulon,441336,Rouen,450316,Douai - Lens,464766,Grenoble,483646,Grenoble,495342
+Douai - Lens,200586,Strasbourg,195725,Nantes,198087,Saint-‚Ä¶tienne,234759,Valenciennes,258785,Nancy,283427,Grenoble,325438,Nantes,431843,Grenoble,450223,Rouen,456254,Rouen,463273,Rouen,464294
+Grenoble,183409,Grenoble,177445,Le Havre,193476,Orl√àans,220691,Grenoble,233246,Nantes,252565,Saint-‚Ä¶tienne,324031,Valenciennes,426331,Saint-‚Ä¶tienne,409938,Strasbourg,410644,Strasbourg,435059,Strasbourg,449798
+Metz,169867,Tours,173467,Strasbourg,185878,Le Havre,200087,B√àthune,232172,Le Havre,252427,Valenciennes,310683,Saint-‚Ä¶tienne,380892,Strasbourg,391877,B√àthune,407359,Avignon,405426,Avignon,440651
+Strasbourg,165494,Nantes,170515,Douai - Lens,183339,Thionville,195116,Nancy,213537,Saint-‚Ä¶tienne,228973,B√àthune,274779,Nancy,363568,Avignon,352534,Avignon,379499,Saint-‚Ä¶tienne,381378,Montpellier,384165
+Tours,164744,Metz,168623,Grenoble,177495,Rouen,190750,Strasbourg,202790,Clermont-Ferrand,224803,Strasbourg,266467,B√àthune,340703,Valenciennes,349334,Montpellier,349101,B√àthune,346888,Saint-‚Ä¶tienne,372967
+Le Havre,160252,Le Havre,166229,B√àthune,176592,Grenoble,181508,Le Havre,196908,Dunkerque,219150,Le Havre,244132,Strasbourg,327296,B√àthune,341084,Tours,335977,Montpellier,344877,B√àthune,350068
+Avignon,146941,Douai - Lens,157762,Tours,175108,Avignon,178847,Metz,183252,Tours,205022,Metz,233958,Le Havre,286184,Tours,301915,Valenciennes,315525,Valenciennes,334569,Tours,344739
+Nantes,133077,B√àthune,153019,Metz,162365,Metz,178657,Toulon,165939,Rennes,188816,Nancy,233561,Tours,285567,Nancy,284441,Saint-‚Ä¶tienne,300505,Tours,332315,Valenciennes,333492
+Toulon,131562,Avignon,149312,Avignon,148291,B√àthune,157292,Clermont-Ferrand,162713,Rouen,183980,Avignon,215252,Montpellier,283573,Metz,279814,Nancy,287243,Rennes,293546,Rennes,304729
+Reims,128404,Reims,135234,Toulon,129568,Draguignan,156324,Avignon,160117,Metz,183612,Tours,212610,Le Mans,268766,Montpellier,263397,Metz,281674,Metz,290336,Metz,290851
+Orl√àans,126405,Toulon,126788,Orl√àans,119095,Nantes,133378,Orl√àans,138495,Valenciennes,162818,Clermont-Ferrand,210571,Rennes,253244,Le Havre,261452,Rennes,266003,Nancy,288096,Nancy,286108
+B√àthune,124005,Orl√àans,122150,Mulhouse,108037,Dijon,133175,Mulhouse,135185,Orl√àans,156698,Dijon,196612,Metz,241423,Clermont-Ferrand,256189,Angers,261606,Orl√àans,263292,Orl√àans,268468
+Brest,114468,Brest,121575,Reims,96664,Montb√àliard,132882,Dijon,133523,Mulhouse,154524,Rennes,187760,Avignon,238211,Rennes,251163,Clermont-Ferrand,254416,Clermont-Ferrand,258541,Clermont-Ferrand,261281
+Mulhouse,93861,Mulhouse,105491,Amiens,92838,Mulhouse,121622,Reims,130739,Dijon,148405,Mulhouse,176821,Mulhouse,226296,Mulhouse,227933,Orl√àans,243153,Le Havre,256558,Le Havre,244745
+Amiens,90824,Amiens,93295,Clermont-Ferrand,92629,Rennes,110986,Rennes,123855,Avignon,144169,Orl√àans,171392,Orl√àans,217735,Orl√àans,220478,Le Havre,231174,Mulhouse,237975,Mulhouse,243618
+Limoges,84162,Limoges,92204,Limoges,90298,Reims,99576,Tours,118881,Caen,141111,Reims,158675,Clermont-Ferrand,209234,Dijon,218984,Mulhouse,230451,Dijon,236953,Dijon,237924
+Angers,82443,Angers,83823,Dijon,88621,Clermont-Ferrand,98784,Thionville,109234,Maubeuge,127774,Dunkerque,158033,Caen,202051,Le Mans,203829,Le Mans,208755,Angers,220037,Angers,220313
+N√ìmes,80648,N√ìmes,80433,Angers,86229,Pau,92600,Limoges,107958,Pau,125378,Angers,152343,Angers,201808,Reims,201443,Reims,206229,Reims,215581,Bayonne,219618
+Montpellier,76049,Montpellier,80281,N√ìmes,82811,Lorient,92485,Montb√àliard,105837,Angers,122164,Caen,152005,Brest,198999,Brest,201145,Brest,204524,Le Mans,208205,Reims,211966
+Rennes,74778,Rennes,79496,Rennes,82290,Besan√Åon,90987,Le Mans,100543,Forbach,121945,Brest,144749,Reims,187858,Angers,195559,Caen,201512,Brest,206589,Le Mans,208283
+Dijon,72110,Dijon,76815,Montpellier,81515,Perpignan,90258,Dunkerque,98078,Cherbourg-Octeville,117229,Thionville,137234,Chamb√àry,186241,Dunkerque,194485,Dunkerque,194506,Bayonne,204132,Brest,201666
+Le Mans,63376,Clermont-Ferrand,75466,Montb√àliard,79049,Bayonne,89221,Angers,94421,Reims,113872,Le Mans,136169,Bayonne,185638,Caen,187672,N√ìmes,191782,Caen,203110,Pau,199199
+Calais,59784,Calais,72305,Brest,74054,Nancy,86978,Montpellier,93145,Le Mans,112113,Pau,134512,Amiens,169114,Bayonne,176722,Dijon,190703,Dunkerque,192253,Caen,199145
+Clermont-Ferrand,56777,Le Mans,69400,Thionville,73517,Limoges,85695,Caen,92497,Brest,111916,Bayonne,133588,Dijon,165514,Limoges,173855,Pau,176211,Pau,184111,Perpignan,187569
+Besan√Åon,55496,Thionville,65752,Calais,73009,Le Mans,78947,N√ìmes,91703,Limoges,106001,Montpellier,123409,Limoges,156666,Pau,167701,Chamb√àry,172911,Limoges,176733,Limoges,184066
+Boulogne-sur-Mer,55004,Montb√àliard,58008,Le Mans,71883,Dunkerque,74098,Bayonne,86491,Bayonne,101359,Montb√àliard,122829,Saint-Nazaire,156405,Perpignan,159946,Bayonne,163635,Perpignan,169298,Dunkerque,182813
+Dunkerque,54467,Besan√Åon,58004,B√àziers,56022,Maubeuge,71815,Pau,86277,B√àthune,97595,Limoges,121091,Besan√Åon,152604,Amiens,157644,Saint-Nazaire,159084,Chamb√àry,163602,N√ìmes,176079
+Lorient,54385,Saint-Quentin,55617,Besan√Åon,55737,Roanne,71556,Amiens,84868,Creil,93874,Amiens,109960,Perpignan,142165,N√ìmes,145107,Perpignan,155458,Amiens,163601,Chamb√àry,174833
+Troyes,53731,Troyes,55521,Boulogne-sur-Mer,55383,Calais,70242,Maubeuge,77185,Besan√Åon,92523,Maubeuge,109223,Dunkerque,141307,Chamb√àry,137366,Limoges,149378,N√ìmes,162662,Amiens,163158
+B√àziers,52323,Boulogne-sur-Mer,53115,Troyes,55219,Angers,69806,Brest,76069,Montb√àliard,89152,N√ìmes,105200,Forbach,132343,Thionville,137294,Besan√Åon,134501,Annecy,143402,Annecy,153288
+Bayonne,50494,Dunkerque,52295,Perpignan,53784,Caen,69040,Perpignan,75028,La Rochelle,82672,Besan√Åon,101747,Montb√àliard,131045,Saint-Nazaire,132812,Annemasse,132374,Saint-Nazaire,140418,Saint-Nazaire,148578
+Saint-Quentin,50344,B√àziers,51088,Caen,53754,Montpellier,67536,Poitiers,68582,Lorient,81576,Poitiers,96257,Maubeuge,130217,Troyes,130849,Annecy,131718,Besan√Åon,134376,Annemasse,145507
+Thionville,48638,Lorient,49093,Bayonne,46627,B√àziers,60489,Angoul√çme,65308,B√àziers,76347,Valence,95079,Troyes,128895,Montb√àliard,128194,Thionville,129224,Troyes,131336,Besan√Åon,135808
+Bourges,46697,Caen,46926,Lorient,46387,Angoul√çme,58850,B√àziers,64666,Angoul√çme,73465,Angoul√çme,93847,Pau,127062,Maubeuge,127904,Troyes,128546,Thionville,130442,Troyes,133279
+Caen,45410,Bayonne,45991,Bourges,45922,Tours,54703,Besan√Åon,63584,Roanne,73401,Forbach,91396,Angoul√çme,126976,Besan√Åon,125934,Montb√àliard,124609,Annemasse,127085,Thionville,130922
+Cherbourg-Octeville,42920,Bourges,45773,Pau,45753,Troyes,54386,Forbach,61365,Thionville,70132,La Rochelle,88480,Valence,113057,Annecy,119269,La Rochelle,119259,Valence,122744,Poitiers,129653
+Montb√àliard,40913,Colmar,43825,Dunkerque,44710,Bourges,52341,Troyes,60957,Boulogne-sur-Mer,69837,Lorient,87013,Thionville,111207,Valence,115905,Angoul√çme,117510,La Rochelle,122073,La Rochelle,127033
+Poitiers,39905,Cherbourg-Octeville,43784,Maubeuge,44211,Vichy,51938,Valence,60001,Perpignan,68828,Perpignan,86259,Poitiers,110326,La Rochelle,111041,Amiens,116381,Poitiers,121125,Valence,126832
+S√ãte,37759,Poitiers,41288,Colmar,42337,Al√ãs,51360,La Rochelle,58909,Annemasse,65179,Saint-Brieuc,77143,La Rochelle,109122,Lorient,110823,Lorient,115488,Maubeuge,119657,Lorient,116401
+Angoul√çme,37738,Perpignan,39563,Saint-Nazaire,41601,Compi√ãgne,49455,Saint-Brieuc,58194,Bourges,64900,Annemasse,77010,Annecy,105253,Poitiers,106978,Poitiers,110289,Lorient,116174,Creil,116214
+Colmar,36883,Belfort,39418,La Rochelle,39804,Forbach,47512,Al√ãs,54357,Colmar,63964,Creil,76866,Creil,104234,Angoul√çme,106876,Valence,110084,Montb√àliard,113059,Maubeuge,115404
+Perpignan,36266,Maubeuge,38340,Belfort,39320,Armenti√ãres,46325,Bourges,51004,Valence,62303,B√àziers,75592,Chartres,98567,Creil,105519,Maubeuge,109791,Creil,110688,Angoul√çme,109009
+Saint-Nazaire,35864,Saint-Nazaire,38339,Valence,38724,Annemasse,45109,Lorient,50394,Troyes,60343,Cherbourg-Octeville,73683,Lorient,97584,Forbach,100448,Creil,105437,Angoul√çme,106419,Montb√àliard,108768
+Roanne,34964,Angoul√çme,38277,Cherbourg-Octeville,38326,Valence,45069,Calais,50008,Nevers,58903,Troyes,73514,Tarbes,95802,Annemasse,99833,Roanne,98758,Calais,99616,Calais,98391
+Pau,34349,Pau,37115,Roanne,37859,Blois,44613,Saint-Quentin,48634,Cluses,57364,Al√ãs,71334,Annemasse,95091,Calais,95696,Calais,96815,Forbach,92845,Fr√àjus,93805
+Maubeuge,33318,Roanne,36722,Poitiers,37754,Colmar,43225,Armenti√ãres,48039,Calais,57319,Calais,70723,Saint-Brieuc,91035,Boulogne-sur-Mer,94346,B√àziers,93991,Boulogne-sur-Mer,92704,Saint-Brieuc,92235
+Belfort,32630,La Rochelle,36435,Saint-Quentin,37356,Nevers,43209,Chalon-sur-Sa√ône,47937,Montauban,55312,Chalon-sur-Sa√ône,66896,Brive-la-Gaillarde,90779,Bourges,91119,Belfort,91854,Cherbourg-Octeville,90864,Vienne,91796
+P√àrigueux,32036,P√àrigueux,33513,S√ãte,36577,Saint-Brieuc,42952,Colmar,46133,Bourg-en-Bresse,53996,Colmar,64336,N√ìmes,89443,Roanne,88472,Fr√àjus,91249,Bourges,88456,Colmar,90842
+La Rochelle,31666,Charleville-M√àzi√ãres,33164,Al√ãs,36544,Belfort,42512,Tarbes,44961,Charleville-M√àzi√ãres,53931,Boulogne-sur-Mer,63560,Chalon-sur-Sa√ône,89225,Cherbourg-Octeville,87186,Saint-Brieuc,86187,Saint-Brieuc,88419,Al√ãs,90660
+Montauban,30515,S√ãte,33041,Angoul√çme,34949,Brive-la-Gaillarde,41237,Roanne,44503,Chalon-sur-Sa√ône,53028,Bourges,63540,Boulogne-sur-Mer,84529,Saint-Brieuc,85823,Bourges,86096,Colmar,88416,Boulogne-sur-Mer,89983
+Laval,30487,Chalon-sur-Sa√ône,31656,P√àrigueux,33447,Poitiers,40578,Cherbourg-Octeville,43104,Saint-Nazaire,52119,Armenti√ãres,63526,Belfort,83872,B√àziers,85057,Al√ãs,85933,Chartres,87824,Forbach,87978
+Armenti√ãres,29444,Ch‚Äölons-en-Champagne,31488,Forbach,33246,Montauban,40531,Boulogne-sur-Mer,41657,Amiens,50236,Saint-Quentin,62656,Cherbourg-Octeville,83706,Colmar,83687,Boulogne-sur-Mer,85164,Vienne,87192,Cherbourg-Octeville,87482
+Chalon-sur-Sa√ône,29130,Laval,30338,Bastia,33128,Tarbes,39275,P√àrigueux,40940,La Teste-de-Buch - Arcachon,47628,Vienne,61285,Al√ãs,82737,Arras,83587,S√ãte,84599,Al√ãs,85328,Chartres,87339
+‚Ä¶pinal,28174,‚Ä¶pinal,30009,Armenti√ãres,32965,Creil,38948,Vienne,39847,Chamb√àry,46526,Annecy,60297,P√àrigueux,81905,Al√ãs,83529,Arras,83261,Arras,84413,S√ãte,86879
+Nevers,27700,Montauban,29887,Charleville-M√àzi√ãres,32357,Charleville-M√àzi√ãres,37536,Vichy,39198,Haguenau,44478,Saint-Nazaire,59201,Roanne,79835,Tarbes,81695,Cherbourg-Octeville,83012,Fr√àjus,83937,Bourges,86769
+Valence,26909,Al√ãs,29801,Chalon-sur-Sa√ône,31677,Cherbourg-Octeville,37050,Nevers,39174,Belfort,43411,Roanne,53271,Vienne,79008,Chartres,78835,Colmar,81082,Roanne,81742,Arras,86693
+Ch‚Äölons-en-Champagne,26757,Bastia,29432,Ch‚Äölons-en-Champagne,31264,Fr√àjus,34003,Charleville-M√àzi√ãres,38979,Saint-Brieuc,43208,Nevers,53098,Agen,78449,Belfort,78317,Compi√ãgne,78915,B√àziers,80835,B√àziers,85354
+Charleville-M√àzi√ãres,26743,Valence,28810,Nevers,29870,La Teste-de-Buch - Arcachon,33455,Annemasse,38089,N√ìmes,43056,Charleville-M√àzi√ãres,52585,Bergerac,76029,Chalon-sur-Sa√ône,78196,Tarbes,78387,Belfort,80049,Belfort,81745
+Tarbes,26162,Tarbes,28695,‚Ä¶pinal,28457,Arras,33437,Belfort,37491,Vichy,40847,Belfort,51399,Bourges,74449,Vienne,77806,Blois,77764,Tarbes,77962,Cluses,81322
+Arras,25829,Armenti√ãres,28656,Laval,27507,Saint-Nazaire,32326,S√ãte,37302,Armenti√ãres,40593,Tarbes,50773,Arras,72943,Saint-Quentin,72925,Vannes,74936,Quimper,77256,Roanne,79159
+Bastia,25460,Nevers,27788,Tarbes,26694,Bourgoin-Jallieu,31945,Bastia,36699,S√ãte,40226,Quimper,50763,Vichy,71677,Armenti√ãres,72397,Forbach,73967,Armenti√ãres,76438,Quimper,78951
+Ch‚Äöteauroux,25035,Ch‚Äöteauroux,26140,Ch‚Äöteauroux,26686,Annecy,30065,Montauban,36330,Al√ãs,40218,Chamb√àry,47434,Haguenau,69851,Brive-la-Gaillarde,70056,Chalon-sur-Sa√ône,73062,S√ãte,75987,Agen,78517
+Al√ãs,24994,Arras,26139,Montauban,26196,Vienne,29505,Ch‚Äöteauroux,34678,Saint-Quentin,39485,Ch‚Äöteauroux,46875,Bourgoin-Jallieu,69801,Nevers,68736,Chartres,71929,Chalon-sur-Sa√ône,75447,Tarbes,78147
+Vienne,24642,Albi,25000,Albi,25107,Chamb√àry,29413,Albi,34367,Poitiers,39412,Fr√àjus,45985,Albi,67204,Quimper,68734,Saint-Quentin,71169,Cluses,73194,Brive-la-Gaillarde,76357
+Chartres,24109,Vienne,24732,Menton,25074,Chalon-sur-Sa√ône,28623,Annecy,33640,Arras,38351,Arras,45657,‚Ä¶vreux,67087,Charleville-M√àzi√ãres,68499,Saint-Omer,70197,Brive-la-Gaillarde,72099,Vannes,75832
+Niort,23954,Chartres,24109,Arras,24851,Cholet,27883,Brive-la-Gaillarde,33534,Bourgoin-Jallieu,36833,Cluses,45634,S√ãte,66437,Vichy,67591,Quimper,69167,Vannes,71601,Armenti√ãres,75757
+Blois,23819,Blois,24075,Saint-Brieuc,24514,Romans-sur-Is√ãre,27309,Agen,33480,Ajaccio,36432,Ch‚Äölons-en-Champagne,45350,Cluses,65995,Ch‚Äöteauroux,67158,Charleville-M√àzi√ãres,68659,Agen,70862,Draguignan,74174
+Vannes,23444,Saint-Brieuc,23957,Blois,24071,Amiens,27092,Arras,33344,Annecy,36234,S√ãte,45105,Beauvais,65975,P√àrigueux,67037,Niort,68561,Compi√ãgne,69903,Chalon-sur-Sa√ône,74059
+Albi,22662,Niort,23839,Agen,23976,Ch‚Äölons-en-Champagne,26766,Laval,32589,Brive-la-Gaillarde,36135,Niort,44644,Compi√ãgne,65244,Niort,66304,La Teste-de-Buch - Arcachon,68115,P√àrigueux,69337,Albi,72688
+Agen,22515,Vannes,23759,Vienne,23726,Quimper,26751,Ch‚Äölons-en-Champagne,31105,Blois,35406,Brive-la-Gaillarde,43772,Nevers,64182,S√ãte,65692,Bourgoin-Jallieu,67891,Saint-Quentin,68379,P√àrigueux,71496
+Saint-Brieuc,22224,Agen,23335,Niort,23684,Niort,25989,Creil,30098,Laval,34719,Montauban,43406,Saint-Just-Saint-Rambert,63407,Agen,65051,Beauvais,67382,Blois,67935,Montauban,71343
+Chamb√àry,22112,Chamb√àry,23063,Chartres,23300,La Rochelle,25734,Chamb√àry,30032,Compi√ãgne,34668,Laval,43288,Montauban,62507,‚Ä¶pinal,64349,Vichy,66925,Albi,67873,Compi√ãgne,71221
+Ajaccio,21834,Brive-la-Gaillarde,21511,Ajaccio,22667,Meaux,25471,Fr√àjus,29847,Albi,33229,Vichy,42608,Saint-Quentin,62492,Compi√ãgne,64134,Meaux,66923,Niort,67510,Niort,70289
+Vichy,20933,Ajaccio,21213,Brive-la-Gaillarde,21730,P√àrigueux,25469,Niort,29606,Beauvais,33228,Albi,41358,‚Ä¶pinal,61809,Albi,64087,Albi,66745,Meaux,66945,Menton,70228
+Saint-Omer,20916,Cholet,21148,Vannes,21486,N√ìmes,25434,Chartres,28479,Tarbes,32644,Bergerac,41328,B√àziers,60321,Ch‚Äölons-en-Champagne,63061,Menton,66269,Charleville-M√àzi√ãres,66637,Blois,67984
+Beauvais,20315,Saint-Omer,20573,Chamb√àry,20639,Vannes,25350,Vannes,28280,Vienne,32168,P√àrigueux,41120,Fr√àjus,60094,Blois,62622,Montauban,66175,Menton,66480,Meaux,67566
+Brive-la-Gaillarde,19572,Bourg-en-Bresse,20515,Bourg-en-Bresse,20214,S√ãte,24914,Cluses,27409,Montpellier,32152,Chartres,40723,Ch‚Äölons-en-Champagne,59318,Laval,61163,Vienne,64799,Ch‚Äöteauroux,66448,Thonon-les-Bains,67354
+Quimper,19493,Beauvais,19944,Beauvais,19334,Ajaccio,24661,Blois,26828,Bergerac,31987,‚Ä¶vreux,40234,Bastia,58141,Saint-Omer,60889,Ch‚Äölons-en-Champagne,64386,Laval,66321,Laval,66743
+Cholet,19405,Quimper,19211,Saint-Omer,19221,Cluses,23934,Cholet,26107,Thonon-les-Bains,29486,Compi√ãgne,39876,Blois,57567,Fr√àjus,60289,Nevers,64041,Nevers,66162,Saint-Quentin,65694
+Bourg-en-Bresse,18975,Haguenau,18933,Quimper,18404,Saint-Omer,23104,Ajaccio,26060,P√àrigueux,29115,Menton,38948,Romans-sur-Is√ãre,57186,Montauban,59539,Brive-la-Gaillarde,62102,Vichy,64909,Ch‚Äöteauroux,65346
+‚Ä¶vreux,18368,‚Ä¶vreux,18648,‚Ä¶vreux,18261,Thonon-les-Bains,22543,Bourg-en-Bresse,25991,Saint-Just-Saint-Rambert,28785,Cholet,37614,Cholet,55428,Menton,59198,P√àrigueux,62073,Draguignan,64349,Vichy,64977
+Haguenau,18087,Menton,17126,Vichy,17576,Albi,22481,Menton,25411,‚Ä¶vreux,28778,Beauvais,36584,Charleville-M√àzi√ãres,55403,Cholet,58632,Bergerac,61789,‚Ä¶pinal,64119,Ajaccio,64432
+Romans-sur-Is√ãre,17146,Romans-sur-Is√ãre,17032,Creil,17263,Bergerac,22283,Bergerac,25337,Vannes,28476,Blois,36407,Salon-de-Provence,55201,Cluses,57198,Cluses,61719,Montauban,64039,Bastia,63483
+Compi√ãgne,16539,Compi√ãgne,16831,Bergerac,17049,Boulogne-sur-Mer,21354,Compi√ãgne,24783,Fr√àjus,28454,Bourg-en-Bresse,35672,Bourg-en-Bresse,54688,Bergerac,56919,Romans-sur-Is√ãre,61452,Saint-Omer,63754,Bergerac,62941
+Bergerac,15989,Vichy,16551,Compi√ãgne,16213,Brest,20333,‚Ä¶pinal,23485,Menton,28224,Agen,35267,Calais,53807,Bastia,56084,‚Ä¶pinal,60135,Bergerac,60336,‚Ä¶pinal,62867
+Annecy,15414,Bergerac,16135,Haguenau,15806,Saint-Quentin,20119,Beauvais,23288,Chartres,28109,‚Ä¶pinal,34811,Ajaccio,52464,Vannes,56073,Ch‚Äöteauroux,58949,‚Ä¶vreux,60108,Nevers,62579
+Draguignan,14597,Annecy,15680,Annecy,15037,Salon-de-Provence,19595,Romans-sur-Is√ãre,22236,Meaux,26867,Saint-Just-Saint-Rambert,34576,Saint-Omer,51743,Beauvais,55817,Ajaccio,58614,Ch‚Äölons-en-Champagne,60013,Charleville-M√àzi√ãres,62096
+Menton,13964,Draguignan,14584,Salon-de-Provence,14901,Saint-Just-Saint-Rambert,19357,‚Ä¶vreux,20481,Bastia,26787,Vannes,34064,Quimper,51444,Meaux,55192,Bourg-en-Bresse,57968,Thonon-les-Bains,59774,Saint-Omer,61861
+Meaux,13767,Salon-de-Provence,14128,Draguignan,14565,Haguenau,18705,Quimper,19052,Romans-sur-Is√ãre,23668,Ajaccio,33687,Colmar,51148,‚Ä¶vreux,54654,Bastia,57704,Beauvais,59003,‚Ä¶vreux,61551
+Salon-de-Provence,12941,Meaux,13587,Fr√àjus,14235,Ch‚Äöteauroux,18320,Saint-Omer,18113,Draguignan,22619,Bastia,31415,Niort,50567,Ajaccio,54089,Armenti√ãres,56864,Cholet,57710,La Teste-de-Buch - Arcachon,59774
+Creil,9166,La Teste-de-Buch - Arcachon,10289,Annemasse,14208,Chartres,17949,Saint-Just-Saint-Rambert,17894,Salon-de-Provence,19538,Romans-sur-Is√ãre,27706,Laval,49065,Bourg-en-Bresse,53463,Agen,55878,Bourg-en-Bresse,57198,Beauvais,59016
+La Teste-de-Buch - Arcachon,8373,Creil,10194,Meaux,13563,‚Ä¶pinal,17801,Haguenau,17332,Ch‚Äöteauroux,19491,Meaux,23357,La Teste-de-Buch - Arcachon,47296,Romans-sur-Is√ãre,48965,Cholet,55784,Bastia,55602,Haguenau,58937
+Forbach,8257,Forbach,10154,Cluses,12955,Menton,17544,Salon-de-Provence,15854,Agen,19306,Salon-de-Provence,22670,Ch‚Äöteauroux,43965,Thonon-les-Bains,47383,Laval,53805,Haguenau,54537,Bourg-en-Bresse,58356
+Bourgoin-Jallieu,7309,Fr√àjus,8736,Romans-sur-Is√ãre,12569,Beauvais,15293,La Teste-de-Buch - Arcachon,14678,‚Ä¶pinal,17637,Haguenau,21893,Thonon-les-Bains,43723,Haguenau,46942,Salon-de-Provence,51267,La Teste-de-Buch - Arcachon,54204,Cholet,58007
+Thonon-les-Bains,6345,Annemasse,7334,La Teste-de-Buch - Arcachon,11493,Bastia,14536,Meaux,14272,Niort,16801,Saint-Omer,20978,Vannes,42882,Draguignan,46797,Thonon-les-Bains,50621,Saint-Just-Saint-Rambert,54034,Ch‚Äölons-en-Champagne,57764
+Saint-Just-Saint-Rambert,5842,Bourgoin-Jallieu,7100,Saint-Just-Saint-Rambert,7829,Bourg-en-Bresse,13883,Thonon-les-Bains,13235,Cholet,15038,Thonon-les-Bains,18516,Menton,39512,Salon-de-Provence,44606,Haguenau,48894,Ajaccio,52930,Saint-Just-Saint-Rambert,57629
+Fr√àjus,4204,Saint-Just-Saint-Rambert,6547,Thonon-les-Bains,6344,Laval,13880,Saint-Nazaire,11823,Ch‚Äölons-en-Champagne,14044,Bourgoin-Jallieu,16529,Armenti√ãres,37195,Saint-Just-Saint-Rambert,43377,Draguignan,47141,Romans-sur-Is√ãre,52715,Salon-de-Provence,54858
+Annemasse,2844,Thonon-les-Bains,6313,Cholet,4600,‚Ä¶vreux,11948,Draguignan,11808,Quimper,13485,Draguignan,16147,Meaux,35389,La Teste-de-Buch - Arcachon,42877,‚Ä¶vreux,45331,Salon-de-Provence,50017,Romans-sur-Is√ãre,54758
+Cluses,2268,Cluses,5532,Bourgoin-Jallieu,1400,Agen,6333,Bourgoin-Jallieu,8600,Saint-Omer,13445,La Teste-de-Buch - Arcachon,15872,Draguignan,30578,Bourgoin-Jallieu,32994,Saint-Just-Saint-Rambert,38538,Bourgoin-Jallieu,46868,Bourgoin-Jallieu,52225
