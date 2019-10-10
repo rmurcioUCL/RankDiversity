@@ -1,0 +1,198 @@
+,2010,2001,1991,1981,1970,1960,1950,1940,1930,1920,1910,1900,,,
+Madrid,0,0,0,0,0,0,0,0,-1,1,-1,1,1,12,0.083333333
+Barcelona,1,0,0,0,0,0,0,0,1,-1,1,-1,1,12,0.083333333
+Valencia,2,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Sevilla,3,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Zaragoza,4,0,0,0,0,0,-1,0,0,0,-1,-1,-1,12,-0.083333333
+Malaga,5,0,0,-1,0,0,2,0,0,0,0,0,2,12,0.166666667
+Murcia,6,-1,-2,-1,2,0,1,-20,20,1,1,0,20,12,1.666666667
+Bilbao,7,1,0,1,0,0,-1,0,0,-1,-1,0,1,12,0.083333333
+Palma de Mallorca,8,-1,-2,2,-2,0,-1,1,-1,2,-1,-2,2,12,0.166666667
+Palmas de Gran Canaria,9,1,1,0,0,0,-3,0,-5,-2,0,-4,-5,12,-0.416666667
+Alicante,10,-2,-1,-2,-1,0,-4,4,-4,1,-2,4,4,12,0.333333333
+Cordoba,11,0,1,-1,1,0,2,0,-1,-5,-1,0,-5,12,-0.416666667
+Valladolid,12,2,2,0,-1,0,-5,5,-2,0,-1,2,5,12,0.416666667
+Vigo,13,0,1,0,0,0,1,-35,24,-2,-1,-31,-35,12,-2.916666667
+Gijon,14,0,0,1,-2,0,-2,-1,2,-7,3,0,-7,12,-0.583333333
+Coruna,15,-1,0,0,3,0,0,1,-7,-2,-2,1,-7,12,-0.583333333
+Granada,16,1,0,1,0,0,5,2,-1,0,-1,0,5,12,0.416666667
+Vitoria-Gasteiz,17,0,0,0,-10,0,-23,14,-1,3,2,6,-23,12,-1.916666667
+Elche,18,-1,-3,-4,-2,0,-12,-1,NA,2,4,-3,-12,11,-1.090909091
+Oviedo,19,1,-1,-1,1,0,0,-16,17,2,-3,1,17,12,1.416666667
+Cartagena,20,-1,-5,1,2,0,7,-33,39,1,2,1,39,12,3.25
+Terrassa,21,-6,-2,1,3,0,-13,-6,5,-7,-24,-23,-24,12,-2
+Jerez de la Frontera,22,-2,1,0,3,0,2,-3,0,3,2,2,3,12,0.25
+Sabadell,23,0,2,3,0,0,-18,-2,10,-3,-11,-9,-18,12,-1.5
+Santa Cruz de Tenerife,24,4,2,-1,-5,0,3,-12,10,-2,7,-7,-12,12,-1
+Pamplona,25,3,-2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,4,0.75
+Almeria,26,-2,-2,-1,0,0,3,8,-5,-1,2,5,8,12,0.666666667
+Donostia-San Sebastian,27,1,1,1,7,0,2,2,-1,-8,0,-1,-8,12,-0.666666667
+Burgos,28,-1,1,-2,0,0,1,3,-12,-5,9,5,-12,12,-1
+Santander,29,4,5,-1,0,0,-1,7,2,-2,1,-2,7,12,0.583333333
+Castello de la Plana,30,-2,-2,0,-3,0,-9,6,-5,10,5,-2,10,12,0.833333333
+Albacete,31,0,-4,-1,0,0,5,8,-13,-8,-7,-9,-13,12,-1.083333333
+Logrono,32,-4,0,-1,-2,0,-12,9,-7,-11,1,-15,-15,12,-1.25
+San Cristobal de la Laguna,33,-5,-1,-2,-2,NA,-17,-7,-10,NA,NA,NA,-17,8,-2.125
+Salamanca,34,4,3,-2,0,0,4,6,-8,-15,5,-8,-15,12,-1.25
+Badajoz,35,1,-3,-2,5,0,8,-5,1,0,-1,1,8,12,0.666666667
+Huelva,36,3,0,1,-3,0,2,3,1,-7,-5,-23,-23,12,-1.916666667
+Lleida,37,-4,3,-2,2,0,-9,-4,9,13,-24,-8,-24,12,-2
+Marbella,38,-7,-7,-10,NA,NA,NA,NA,NA,NA,NA,NA,-10,4,-2.5
+Tarragona,39,0,-1,2,-7,-27,7,4,4,4,-10,22,-27,12,-2.25
+Leon,40,3,5,-1,0,0,-4,-8,-14,-21,-2,-2,-21,12,-1.75
+Cadiz,41,6,4,4,1,0,3,9,-3,5,-1,1,9,12,0.75
+Mataro,42,-1,-1,2,-4,-34,6,-6,13,-4,-5,7,-34,12,-2.833333333
+Algeciras,43,-1,-1,-2,5,0,-7,-49,23,-17,NA,NA,-49,10,-4.9
+Jaen,44,4,-2,-1,-1,4,6,2,-8,2,-2,-4,-8,12,-0.666666667
+Ourense,45,3,-1,-1,-3,3,3,-13,-18,-24,8,NA,-24,11,-2.181818182
+Reus,46,-2,1,-2,-6,-23,11,1,12,5,-1,7,-23,12,-1.916666667
+Telde,47,-4,-3,-6,NA,NA,NA,NA,NA,NA,NA,NA,-6,4,-1.5
+Barakaldo,48,2,5,6,3,0,-26,-2,7,-5,NA,NA,-26,10,-2.6
+Lugo,49,0,-1,0,0,3,2,-5,-5,3,25,-9,25,12,2.083333333
+San Fernando,50,0,2,-3,-7,5,-9,9,-7,3,9,15,15,12,1.25
+Girona,51,-9,2,-1,-7,3,-24,10,6,-23,9,-14,-24,12,-2
+Caceres,52,-1,-2,0,-5,5,2,1,-14,-8,-12,NA,-14,11,-1.272727273
+Santiago de Compostela,53,6,1,-2,-1,6,1,5,-7,-18,10,5,-18,12,-1.5
+Lorca,54,-2,-5,0,7,9,13,-50,58,11,3,-1,58,12,4.833333333
+Torrevieja,55,-35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-35,2,-17.5
+El Puerto de Santa Maria,56,-1,-5,-4,NA,NA,NA,NA,NA,NA,NA,NA,-5,4,-1.25
+Talavera de la Reina,57,-1,1,0,-16,2,NA,NA,NA,NA,NA,NA,-16,6,-2.666666667
+Roquetas de Mar,58,-35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-35,2,-17.5
+Guadalajara,59,-4,-2,-9,-9,NA,NA,-9,14,NA,NA,NA,14,7,2
+Toledo,60,-2,-6,-1,0,3,2,0,2,-2,-9,21,21,12,1.75
+Ceuta,61,0,2,3,5,3,13,6,3,-44,10,NA,-44,11,-4
+Aviles,62,10,3,4,5,NA,NA,NA,NA,NA,NA,NA,10,5,2
+Pontevedra,63,4,3,-2,-5,6,0,-1,2,-3,3,-2,6,12,0.5
+Melilla,64,0,-8,1,18,3,26,7,-14,-30,-37,NA,-37,11,-3.363636364
+Palencia,65,11,1,1,-7,5,-5,-6,-3,-23,7,NA,-23,11,-2.090909091
+El Ejido,66,-9,-20,NA,NA,NA,NA,NA,NA,NA,NA,NA,-20,3,-6.666666667
+Chiclana de la Frontera,67,-3,-17,-6,NA,NA,NA,NA,NA,NA,NA,NA,-17,4,-4.25
+Getxo,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Orihuela,69,-13,-1,3,12,8,6,6,5,11,4,-7,-13,12,-1.083333333
+Gandia,70,-2,-8,3,-8,NA,NA,NA,NA,NA,NA,NA,-8,5,-1.6
+Velez-Malaga,71,-6,-4,-3,10,1,-2,-1,15,-7,13,5,15,12,1.25
+Manresa,72,6,6,7,-4,5,-11,4,7,-2,-20,21,21,12,1.75
+Ciudad Real,73,6,-4,-5,5,2,-3,4,-1,-21,NA,NA,-21,10,-2.1
+Rubi,74,5,-13,1,NA,NA,NA,NA,NA,NA,NA,NA,-13,4,-3.25
+Mijas,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Rivas-Vaciamadrid,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Ferrol,77,22,4,5,5,0,14,-1,-19,0,1,4,22,12,1.833333333
+Majadahonda,78,-13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-13,2,-6.5
+Valdemoro,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Ponferrada,80,12,1,-3,NA,2,NA,NA,NA,NA,NA,NA,12,5,2.4
+Benidorm,81,-6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-6,2,-3
+Sanlucar de Barrameda,82,11,-3,-4,-12,1,20,0,6,7,-16,24,24,12,2
+Paterna,83,NA,-13,-1,NA,NA,NA,NA,NA,NA,NA,NA,-13,3,-4.333333333
+Molina de Segura,84,NA,-15,1,NA,NA,NA,NA,NA,NA,NA,NA,-15,3,-5
+Santa Lucia de Tirajana,85,-12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-12,2,-6
+Torremolinos,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Vilanova i la Geltrœ,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Sagunt,88,8,5,8,NA,2,-29,NA,NA,NA,NA,NA,-29,6,-4.833333333
+Zamora,89,24,1,1,-2,4,-5,-5,-2,-24,10,-2,24,12,2
+Linea de la Concepcion,90,NA,NA,NA,28,4,15,-19,14,28,-16,-1,28,9,3.111111111
+Viladecans,91,13,-8,3,NA,NA,NA,NA,NA,NA,NA,NA,13,4,3.25
+Estepona,92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Castelldefels,93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Benalmadena,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Collado Villalba,95,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-4,2,-2
+Irun,96,17,1,6,-3,1,NA,NA,NA,NA,NA,NA,17,6,2.833333333
+Alcoy,97,23,11,9,NA,NA,NA,NA,NA,NA,NA,NA,23,4,5.75
+Motril,98,9,1,1,NA,NA,NA,NA,NA,NA,NA,9,9,5,1.8
+Granollers,99,13,7,0,-9,NA,NA,NA,NA,NA,NA,NA,13,5,2.6
+La Linea de la Concepcion,NA,15,3,6,NA,NA,NA,NA,NA,NA,NA,NA,15,3,5
+Linares,NA,-12,7,1,4,5,11,9,4,7,2,2,-12,11,-1.090909091
+Torrelavega,NA,-57,15,1,NA,NA,NA,NA,NA,NA,NA,NA,-57,3,-19
+Segovia,NA,-18,7,1,3,2,-15,2,7,-23,9,NA,-23,10,-2.3
+Vilanova i la Geltru,NA,6,-6,8,1,-12,NA,NA,NA,NA,NA,NA,-12,5,-2.4
+Cerdanyola del Valles,NA,8,12,-17,NA,NA,NA,NA,NA,NA,NA,NA,-17,3,-5.666666667
+Elda,NA,2,11,4,3,3,NA,NA,NA,NA,NA,NA,11,5,2.2
+Merida,NA,-25,8,-2,9,2,NA,-13,3,NA,-11,NA,-25,8,-3.125
+Avila,NA,2,5,0,2,0,NA,NA,3,NA,NA,NA,5,6,0.833333333
+Fuengirola,NA,-11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-11,1,-11
+Siero,NA,-1,4,4,8,NA,7,0,NA,18,6,-10,18,9,2
+Mollet del Valles,NA,-39,1,2,NA,NA,NA,NA,NA,NA,NA,NA,-39,3,-13
+Pozuelo de Alarc—n,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,10
+Huesca,NA,NA,-6,6,1,0,NA,NA,-2,NA,NA,NA,6,5,1.2
+Utrera,NA,NA,-7,1,-1,29,-7,-3,NA,-8,-7,NA,29,8,3.625
+Cuenca,NA,NA,-5,3,9,3,NA,-7,3,NA,NA,NA,9,6,1.5
+Villarreal,NA,NA,-15,2,7,NA,NA,NA,NA,NA,NA,1,-15,4,-3.75
+Aranjuez,NA,NA,NA,-6,2,0,NA,1,NA,NA,-2,NA,-6,5,-1.2
+Pozuelo de Alarcon,NA,NA,NA,-6,NA,NA,NA,NA,NA,NA,NA,NA,-6,1,-6
+Iruna,NA,NA,NA,NA,77,0,-8,6,-10,-7,2,8,77,8,9.625
+Mieres,NA,NA,NA,NA,-17,2,7,5,2,5,-16,-37,-37,8,-4.625
+Alcoi,NA,NA,NA,NA,28,3,-6,12,10,0,4,1,28,8,3.5
+Langreo,NA,NA,NA,NA,-28,5,7,-3,6,4,-10,-28,-28,8,-3.5
+Puertollano,NA,NA,NA,NA,14,5,-14,-20,NA,1,NA,NA,-20,5,-4
+Portugalete,NA,NA,NA,NA,22,NA,NA,NA,NA,NA,NA,NA,22,1,22
+Sestao,NA,NA,NA,NA,-9,-18,NA,NA,NA,NA,NA,NA,-18,2,-9
+Eibar,NA,NA,NA,NA,16,2,NA,NA,-15,NA,NA,NA,16,3,5.333333333
+Puerto de Santa Maria,NA,NA,NA,NA,12,2,-12,10,NA,-14,12,11,-14,7,-2
+Alzira,NA,NA,NA,NA,-16,NA,-13,4,16,-5,16,0,16,7,2.285714286
+Miranda de Ebro,NA,NA,NA,NA,-23,1,NA,NA,NA,NA,NA,NA,-23,2,-11.5
+Ubeda,NA,NA,NA,NA,-4,11,3,8,NA,-6,3,4,11,7,1.571428571
+Antequera,NA,NA,NA,NA,-24,10,29,-1,6,6,12,6,29,8,3.625
+Igualada,NA,NA,NA,NA,-69,NA,NA,NA,6,NA,NA,NA,-69,2,-34.5
+San MartIn del Rey Aurelio,NA,NA,NA,NA,-7,NA,NA,NA,NA,NA,NA,NA,-7,1,-7
+Ecija,NA,NA,NA,NA,-1,17,20,-2,5,8,-4,-3,20,8,2.5
+Plasencia,NA,NA,NA,NA,-42,NA,NA,18,-15,NA,NA,NA,-42,3,-14
+Tortosa,NA,NA,NA,NA,NA,34,10,-4,10,6,-4,-2,34,7,4.857142857
+Moron de la Frontera,NA,NA,NA,NA,NA,-36,0,NA,NA,NA,NA,NA,-36,2,-18
+Tomelloso,NA,NA,NA,NA,NA,-4,5,3,NA,-3,NA,NA,5,4,1.25
+Alcazar de San Juan,NA,NA,NA,NA,NA,-7,-9,12,NA,NA,NA,NA,12,3,4
+Carmona,NA,NA,NA,NA,NA,-6,-1,-4,NA,17,NA,-12,17,5,3.4
+Puente Genil,NA,NA,NA,NA,NA,-4,18,-12,NA,NA,NA,NA,18,3,6
+Valdepenas,NA,NA,NA,NA,NA,-7,1,20,10,-1,5,-5,20,7,2.857142857
+Andujar,NA,NA,NA,NA,NA,-31,9,1,NA,NA,NA,-3,-31,4,-7.75
+Lucena,NA,NA,NA,NA,NA,NA,22,-2,NA,-7,-2,17,22,5,4.4
+Ronda,NA,NA,NA,NA,NA,NA,-14,NA,26,2,-21,4,26,5,5.2
+Martos,NA,NA,NA,NA,NA,NA,-13,NA,NA,NA,NA,-8,-13,2,-6.5
+Loja,NA,NA,NA,NA,NA,NA,7,NA,NA,-7,NA,14,14,3,4.666666667
+Guadix,NA,NA,NA,NA,NA,NA,-11,NA,13,NA,NA,NA,13,2,6.5
+Hellin,NA,NA,NA,NA,NA,NA,-14,NA,NA,NA,NA,NA,-14,1,-14
+Alcala la Real,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,-8,-8,2,-4
+Estrada,NA,NA,NA,NA,NA,NA,4,NA,NA,27,6,18,27,4,6.75
+Penarroya-Pueblonuevo,NA,NA,NA,NA,NA,NA,-52,NA,NA,NA,NA,NA,-52,1,-52
+Priego de Cordoba,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,6,6,2,3
+Aller,NA,NA,NA,NA,NA,NA,-9,12,NA,NA,NA,NA,12,2,6
+Arucas,NA,NA,NA,NA,NA,NA,-14,NA,NA,NA,NA,NA,-14,1,-14
+Chamartin de la Rosa,NA,NA,NA,NA,NA,NA,NA,76,NA,-54,NA,NA,76,2,38
+Vallecas,NA,NA,NA,NA,NA,NA,NA,51,NA,-26,NA,NA,51,2,25.5
+Lavadores,NA,NA,NA,NA,NA,NA,NA,-4,NA,-12,-11,NA,-12,3,-4
+Tineo,NA,NA,NA,NA,NA,NA,NA,-15,NA,NA,35,3,35,3,11.66666667
+Almendralejo,NA,NA,NA,NA,NA,NA,NA,-39,NA,NA,NA,NA,-39,1,-39
+Don Benito,NA,NA,NA,NA,NA,NA,NA,-3,NA,14,NA,-2,14,3,4.666666667
+Villaviciosa,NA,NA,NA,NA,NA,NA,NA,-14,NA,14,23,-1,23,4,5.75
+Yecla,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,-1,-11,-11,4,-2.75
+Cangas del Narcea,NA,NA,NA,NA,NA,NA,NA,NA,3,1,8,16,16,4,4
+Mahon,NA,NA,NA,NA,NA,NA,NA,NA,-31,-18,15,4,-31,4,-7.75
+Baza,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,-2,1,-2
+Manzanares,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Teruel,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA,-10,NA,-10,2,-5
+Figueres,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,NA,9,1,9
+Xativa,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Calatayud,NA,NA,NA,NA,NA,NA,NA,NA,-3,NA,NA,NA,-3,1,-3
+La Union,NA,NA,NA,NA,NA,NA,NA,NA,-1,24,31,4,31,4,7.75
+Bermeo,NA,NA,NA,NA,NA,NA,NA,NA,-60,NA,NA,NA,-60,1,-60
+Soria,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Tudela,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,-2,1,-2
+Ripoll,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Orotava,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Luarca,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,8,NA,27,2,13.5
+Llanes,NA,NA,NA,NA,NA,NA,NA,NA,NA,-11,-2,1,-11,3,-3.666666667
+Cuevas de Vera,NA,NA,NA,NA,NA,NA,NA,NA,NA,-11,42,-22,42,3,14
+Jumilla,NA,NA,NA,NA,NA,NA,NA,NA,NA,-21,NA,-7,-21,2,-10.5
+Ortigueira,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,15,7,15,3,5
+Mazarron,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,13,13,2,6.5
+San Roque,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-17,NA,-17,1,-17
+Baena,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-20,NA,-20,1,-20
+Baeza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,-1,1,-1
+Pozoblanco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,-2,1,-2
+Trujillo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,-1,1,-1
+Valdes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,55,1,55
+Lalin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-41,-41,1,-41
+Osuna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,1,-1
+Grado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,1,-1
+Requena,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,-9,1,-9
+Aguilas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-4,-4,1,-4
+Caravaca de la Cruz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,1,-1
+Huercal-Overa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,1,-1

@@ -1,0 +1,215 @@
+,1900,1910,1920,1930,1940,1950,1960,1970,1980,1990,2000,2010,,,
+Valle de Mexico,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Guadalajara,1,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+Puebla - Tlaxcala,2,0,0,-1,0,-1,1,-1,1,0,0,0,1,12,0.083333333
+Leon,3,-4,-1,-1,0,2,1,1,1,-1,-1,0,-4,12,-0.333333333
+Monterrey,4,1,0,1,0,0,0,0,0,0,0,0,1,12,0.083333333
+San Luis Potosi,5,1,-2,0,-1,1,-3,-1,-5,5,-1,0,5,12,0.416666667
+Acayucan,6,-34,NA,NA,NA,NA,NA,NA,NA,-41,2,-3,-41,5,-8.2
+Merida,7,2,1,0,0,-1,-3,-4,0,3,-1,0,-4,12,-0.333333333
+Guanajuato,8,-6,-12,-12,5,-55,19,-11,-12,22,-1,2,-55,12,-4.583333333
+Pachuca,9,-3,1,-2,1,-6,-13,-8,-4,5,1,4,-13,12,-1.083333333
+Morelia,10,0,-7,1,0,1,-1,-3,-1,0,0,0,-7,12,-0.583333333
+Aguascalientes,11,2,0,-1,5,-6,-2,-1,-5,0,2,3,-6,12,-0.5
+Oaxaca,12,-1,-7,-1,-3,-5,3,-8,-1,5,2,-1,-8,12,-0.666666667
+Queretaro,13,-4,-1,-4,3,-7,-3,-3,15,4,4,0,15,12,1.25
+Zacatecas - Guadalupe,14,-6,-16,1,-4,-41,18,25,-51,45,1,-4,-51,12,-4.25
+Orizaba,15,-1,3,-1,-1,-6,-6,-8,-3,6,-3,-4,-8,12,-0.666666667
+Durango,16,-2,4,-6,0,3,0,-4,12,-18,-2,-1,-18,12,-1.5
+Chihuahua,17,6,-4,4,0,-1,1,2,-5,-4,-1,1,6,12,0.5
+Torreon - Gomez Palacio,18,12,1,0,-3,5,-2,-1,-16,16,-2,0,16,12,1.333333333
+Veracruz,19,11,1,-1,-2,1,-3,1,-15,9,-1,-1,-15,12,-1.25
+Puruandiro,20,NA,NA,NA,NA,-8,NA,-19,NA,NA,NA,NA,-19,3,-6.333333333
+Rioverde,21,NA,NA,NA,NA,2,NA,NA,NA,-49,-5,-3,-49,5,-9.8
+Toluca,22,3,3,1,-2,-5,-1,-8,26,1,0,0,26,12,2.166666667
+Celaya,23,0,0,-3,-1,-14,9,-12,23,-1,-3,-2,23,12,1.916666667
+Saltillo,24,9,3,0,-1,0,-2,-5,-4,3,0,0,9,12,0.75
+Tuxtla Gutierrez,25,-36,3,7,-2,-13,19,-4,17,6,2,2,-36,12,-3
+San Juan del Rio,26,NA,NA,NA,NA,-26,NA,NA,NA,-42,11,NA,-42,4,-10.5
+Colima - Villa de Alvarez,27,6,2,-10,-6,-29,24,-16,-19,31,4,-7,31,12,2.583333333
+Xalapa,28,6,1,2,1,-5,-7,4,3,0,-1,-2,-7,12,-0.583333333
+Irapuato,29,4,1,0,3,-4,3,-7,-4,2,0,0,-7,12,-0.583333333
+Zapotlanejo,30,NA,NA,NA,NA,-53,NA,-18,NA,NA,NA,NA,-53,3,-17.66666667
+Mazatlan,31,5,4,-1,1,-12,10,-4,-4,-1,-3,-1,-12,12,-1
+Ciudad Guzman,32,2,0,-3,-3,-50,23,-5,NA,-21,1,-3,-50,11,-4.545454545
+Ocotlan,33,-2,-5,-14,-8,-37,25,-9,-16,30,0,-3,-37,12,-3.083333333
+Campeche,34,3,2,-1,-4,-17,9,12,-20,-6,-1,2,-20,12,-1.666666667
+Tampico,35,2,23,3,1,-4,-4,-1,-3,6,-3,-1,23,12,1.916666667
+El Oro de Hidalgo,36,12,-18,-43,NA,NA,NA,NA,NA,NA,NA,NA,-43,4,-10.75
+San Juan de los Lagos,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Lagos de Moreno,38,-15,NA,NA,-21,NA,-8,NA,NA,-10,1,1,-21,7,-3
+Tepic,39,7,-16,-1,1,-29,44,-5,-7,5,-1,1,44,12,3.666666667
+Silao,40,-2,-13,-2,-8,NA,-13,18,-41,NA,NA,NA,-41,8,-5.125
+Jiquilpan de Jimenez,41,NA,NA,NA,NA,-50,NA,NA,NA,NA,NA,NA,-50,2,-25
+Fresnillo,42,-44,55,-12,13,-29,6,-21,13,-11,-13,2,55,12,4.583333333
+Huamantla,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Hidalgo del Parral,44,3,2,7,1,-17,0,-10,-39,19,0,-6,-39,12,-3.25
+Matehuala,45,11,-11,-14,8,-50,9,NA,NA,NA,NA,NA,-50,7,-7.142857143
+San Andres Tuxtla,46,-16,-6,-8,-11,NA,-4,NA,NA,NA,NA,NA,-16,6,-2.666666667
+San Cristobal de las Casas,47,2,-8,12,NA,NA,-40,NA,NA,-7,NA,NA,-40,6,-6.666666667
+Salamanca,48,1,-9,-11,-10,-19,37,7,-1,-14,-5,-1,37,12,3.083333333
+Izucar de Matamoros,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Heroica Zamora,50,13,-10,-5,-6,-29,26,4,-8,11,-4,0,-29,12,-2.416666667
+Valle de Santiago,51,0,NA,NA,-25,NA,-10,NA,12,NA,NA,NA,-25,5,-5
+Sahuayo,52,NA,NA,NA,-32,NA,11,NA,NA,NA,NA,NA,-32,3,-10.66666667
+Sombrerete,53,NA,NA,NA,NA,-10,NA,NA,NA,NA,NA,NA,-10,2,-5
+Sayula,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Teziutlan,55,17,-14,-17,-29,NA,NA,NA,NA,13,5,2,-29,8,-3.625
+Juchitan de Zaragoza,56,12,-10,1,-7,-40,NA,NA,NA,NA,NA,NA,-40,6,-6.666666667
+Zacatlan,57,NA,NA,NA,NA,-3,NA,NA,NA,NA,NA,NA,-3,2,-1.5
+San Francisco del Rincon,58,1,-3,-8,-10,NA,-10,NA,NA,15,3,4,15,9,1.666666667
+Montemorelos,59,NA,NA,NA,NA,-11,-30,NA,NA,NA,NA,NA,-30,3,-10
+Hermosillo,60,21,-4,12,-13,12,14,2,5,-13,2,0,21,12,1.75
+Rio Grande,61,NA,NA,NA,NA,-20,NA,NA,NA,-15,NA,NA,-20,3,-6.666666667
+San Miguel de Allende,62,NA,NA,NA,NA,27,NA,NA,NA,NA,NA,NA,27,2,13.5
+Villahermosa,63,11,17,-13,19,-11,5,2,6,1,3,0,19,12,1.583333333
+Metepec,64,NA,NA,NA,NA,NA,NA,NA,-31,NA,NA,NA,-31,2,-15.5
+Salvatierra,65,5,NA,NA,NA,33,-69,NA,14,NA,NA,NA,-69,5,-13.8
+Tehuantepec - Salina Cruz,66,38,-21,15,8,-31,-3,17,-28,5,-1,-4,38,12,3.166666667
+Culiacan,67,21,14,-5,0,13,3,4,10,-8,-1,-1,21,12,1.75
+Ciudad Victoria,68,14,26,-11,-2,-8,13,-4,-12,1,1,2,26,12,2.166666667
+Papantla de Olarte,69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+La Barca,70,NA,NA,9,-6,NA,NA,NA,NA,NA,NA,NA,9,3,3
+La Piedad Cavadas,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Tenancingo de Degollado,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Uruapan del Progreso,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Cuernavaca,74,24,-24,-3,16,5,2,29,9,0,4,0,29,12,2.416666667
+Sinaloa de Leyva,75,NA,NA,NA,NA,42,NA,-34,NA,NA,NA,NA,42,3,14
+Ciudad Jimenez,76,NA,NA,58,NA,NA,NA,NA,NA,NA,NA,NA,58,2,29
+Comitan de Dominguez,77,14,-4,-11,-18,NA,NA,NA,NA,NA,0,4,-18,7,-2.571428571
+Atlixco,78,51,-6,-33,17,-36,20,-11,-11,1,-4,-6,51,12,4.25
+Tulancingo de Bravo,79,13,2,-1,-7,NA,2,-12,NA,36,-1,-13,36,10,3.6
+Teocaltiche,80,NA,NA,NA,NA,-13,NA,NA,NA,NA,NA,NA,-13,2,-6.5
+Huauchinango,81,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,5,2,2.5
+Tapachula,82,12,7,5,-1,1,12,-8,-4,11,-2,0,12,12,1
+Acambaro,83,24,21,-8,-1,-45,21,16,-23,4,-3,-8,-45,12,-3.75
+Amecameca,84,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,2,20.5
+Heroica Matamoros,85,12,0,-18,37,24,10,-3,-13,0,3,-2,37,12,3.083333333
+Juarez,86,28,33,8,3,6,4,1,-3,-2,1,0,33,12,2.75
+Cordoba,87,18,25,2,-4,-1,9,-7,-3,3,-3,-2,25,12,2.083333333
+Parras,88,3,26,12,-10,NA,-41,NA,NA,NA,NA,NA,-41,6,-6.833333333
+Ameca,89,NA,NA,26,-6,NA,NA,5,NA,-33,NA,NA,-33,5,-6.6
+La Piedad - Penjamo,90,23,33,-22,-19,21,-23,-8,15,20,-5,-4,33,12,2.75
+Piedras Negras,91,35,10,2,-11,-13,23,-32,-19,25,3,0,35,12,2.916666667
+Ciudad Lerdo,92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+Autlan de Navarro,93,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,10,2,5
+Patzcuaro,94,30,NA,NA,NA,-8,NA,-26,NA,NA,NA,NA,30,4,7.5
+Iguala de la Independencia,95,18,NA,NA,6,NA,4,-5,-22,NA,NA,NA,-22,6,-3.666666667
+Dolores Hidalgo,96,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,2,8.5
+Linares,97,22,9,-8,36,-7,NA,NA,NA,NA,-53,NA,-53,7,-7.571428571
+San Pedro Cholula,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0
+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,#DIV/0!
+Cananea,NA,69,NA,NA,-52,NA,-9,41,NA,NA,NA,NA,69,4,17.25
+Ciudad Madero,NA,13,-1,10,4,-13,2,-2,-24,-1,0,-4,-24,11,-2.181818182
+Uruapan,NA,17,-2,10,0,-10,11,-2,-14,3,-4,2,17,11,1.545454545
+San Pedro,NA,5,22,-35,6,NA,-16,NA,-13,NA,NA,NA,-35,6,-5.833333333
+Valle Hermoso,NA,30,NA,NA,NA,NA,-40,NA,NA,NA,NA,NA,-40,2,-20
+Santa Rosalia,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,1,30
+Tehuacan,NA,-3,3,5,8,-37,34,-15,4,8,5,1,-37,11,-3.363636364
+Coatzacoalcos,NA,-19,2,-14,17,-9,23,4,2,7,-6,1,23,11,2.090909091
+Guaymas,NA,-28,-3,-5,-14,-4,41,-2,-20,24,-7,-2,41,11,3.727272727
+Heroica Zitacuaro,NA,-10,NA,38,-44,NA,0,1,NA,NA,NA,NA,-44,5,-8.8
+Chilpancingo,NA,3,-2,-4,-13,1,28,-15,4,20,3,1,28,11,2.545454545
+Tuxpam,NA,-25,17,-10,3,NA,-15,-7,9,NA,NA,NA,-25,7,-3.571428571
+Monclova,NA,1,23,12,2,1,-1,1,-5,6,-5,1,23,11,2.090909091
+Ciudad del Carmen,NA,-36,9,-16,-11,NA,12,1,NA,4,6,6,-36,9,-4
+Mexicali,NA,-12,6,26,8,28,7,-1,0,-6,0,1,28,11,2.545454545
+Santa Barbara,NA,-70,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,-70,2,-35
+Nuevo Laredo,NA,-20,43,13,3,5,1,-3,-19,-8,5,3,43,11,3.909090909
+Acapulco,NA,-46,10,-13,1,24,28,24,0,2,-2,-2,-46,11,-4.181818182
+La Paz,NA,-73,17,-13,-1,NA,9,5,9,2,0,3,-73,10,-7.3
+Frontera,NA,-32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-32,1,-32
+Progreso,NA,-1,28,-8,NA,NA,NA,NA,NA,NA,NA,NA,28,3,9.333333333
+Tonala,NA,-21,11,-15,NA,NA,NA,NA,NA,NA,NA,NA,-21,3,-7
+Cocula,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,3
+Alvarado,NA,-1,14,-13,NA,NA,NA,NA,NA,NA,NA,NA,14,3,4.666666667
+San Juan Bautista Tuxtepec,NA,-2,NA,NA,NA,NA,NA,NA,NA,1,4,1,4,4,1
+Taxco de Alarcon,NA,-7,NA,NA,NA,40,NA,NA,NA,NA,NA,NA,40,2,20
+Heroica Nogales,NA,-41,45,-4,-8,-16,29,-12,NA,-15,12,4,45,10,4.5
+Tlaxcala - Apizaco,NA,-36,14,-17,12,NA,13,NA,24,16,1,0,-36,9,-4
+Ensenada,NA,-64,16,-14,64,-14,2,-2,7,-3,3,3,64,11,5.818181818
+Ciudad Obregon,NA,NA,-34,-11,8,20,25,10,-11,-19,-3,0,-34,10,-3.4
+Manzanillo,NA,NA,-30,-17,NA,NA,NA,NA,NA,NA,NA,NA,-30,2,-15
+Villa Frontera,NA,NA,14,-5,NA,NA,NA,NA,NA,NA,NA,NA,14,2,7
+Nueva Rosita,NA,NA,NA,64,-3,-33,3,-29,NA,NA,NA,NA,64,5,12.8
+Los Mochis,NA,NA,NA,23,-6,-4,23,-2,-10,4,0,3,23,9,2.555555556
+Navojoa,NA,NA,NA,-16,-10,-15,33,-11,7,-15,-1,3,33,9,3.666666667
+Moroleon,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,8,1,8
+Reynosa,NA,NA,NA,-2,-15,47,18,1,-4,-1,2,2,47,9,5.222222222
+Ciudad Mante,NA,NA,NA,-54,-18,NA,13,21,NA,NA,NA,NA,-54,4,-13.5
+Ciudad Camargo,NA,NA,NA,-23,NA,13,NA,NA,NA,NA,NA,NA,-23,2,-11.5
+Ciudad Valles,NA,NA,NA,-14,NA,NA,8,10,0,NA,NA,NA,-14,4,-3.5
+Ciudad Delicias,NA,NA,NA,-24,NA,NA,44,-12,NA,NA,NA,-18,44,4,11
+Ciudad Acuna,NA,NA,NA,-15,NA,NA,5,-7,NA,-4,NA,23,23,5,4.6
+Agua Prieta,NA,NA,NA,-20,NA,NA,NA,NA,NA,NA,NA,NA,-20,1,-20
+Puerto Vallarta,NA,NA,NA,-2,NA,NA,NA,15,NA,22,10,10,22,5,4.4
+Minatitlan,NA,NA,NA,NA,-3,-26,15,6,8,8,-9,0,-26,8,-3.25
+Tijuana,NA,NA,NA,NA,-7,34,6,3,-3,3,2,0,34,8,4.25
+Coatepec,NA,NA,NA,NA,-74,NA,NA,-9,NA,NA,NA,NA,-74,2,-37
+Moroleon - Uriangato,NA,NA,NA,NA,2,NA,NA,NA,NA,7,-3,-4,7,4,1.75
+Cortazar,NA,NA,NA,NA,-5,NA,NA,NA,NA,NA,NA,NA,-5,1,-5
+Tepatitlan de Morelos,NA,NA,NA,NA,-1,NA,NA,NA,NA,-6,4,0,-6,4,-1.5
+Jerez,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,1,1
+Delicias,NA,NA,NA,NA,NA,62,NA,NA,NA,-34,-1,-1,62,4,15.5
+Tamazunchale,NA,NA,NA,NA,NA,30,NA,NA,NA,NA,NA,NA,30,1,30
+Santiago Ixcuintla,NA,NA,NA,NA,NA,-1,NA,NA,-38,NA,NA,NA,-38,2,-19
+Yuriria,NA,NA,NA,NA,NA,37,NA,NA,NA,NA,NA,NA,37,1,37
+Comalcalco,NA,NA,NA,NA,NA,-5,NA,NA,-29,NA,NA,NA,-29,2,-14.5
+San Martin Texmelucan,NA,NA,NA,NA,NA,11,NA,NA,NA,NA,NA,NA,11,1,11
+Atotonilco el Alto,NA,NA,NA,NA,NA,-5,NA,NA,NA,NA,NA,NA,-5,1,-5
+Rosario,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,NA,NA,-2,1,-2
+Martinez de la Torre,NA,NA,NA,NA,NA,-9,NA,NA,NA,NA,NA,NA,-9,1,-9
+Cardenas,NA,NA,NA,NA,NA,-4,NA,NA,18,-31,2,-2,-31,5,-6.2
+Cadereyta Jimenez,NA,NA,NA,NA,NA,11,NA,NA,NA,-15,NA,0,-15,3,-5
+Melchor Muzquiz,NA,NA,NA,NA,NA,9,NA,NA,NA,NA,NA,NA,9,1,9
+Cuautla,NA,NA,NA,NA,NA,-5,NA,NA,11,47,-1,0,47,5,9.4
+Apatzingan,NA,NA,NA,NA,NA,NA,-3,-32,NA,-11,-2,-3,-32,5,-6.4
+San Luis Rio Colorado,NA,NA,NA,NA,NA,NA,21,2,-20,NA,NA,NA,21,3,7
+Zacapu,NA,NA,NA,NA,NA,NA,1,20,NA,NA,NA,NA,20,2,10
+Poza Rica,NA,NA,NA,NA,NA,NA,-28,66,2,0,-5,-2,66,6,11
+Los Reyes de Salgado,NA,NA,NA,NA,NA,NA,-62,NA,NA,NA,NA,NA,-62,1,-62
+Arandas,NA,NA,NA,NA,NA,NA,-3,NA,NA,NA,NA,NA,-3,1,-3
+Huatabampo,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,NA,-2,1,-2
+Rio Bravo,NA,NA,NA,NA,NA,NA,NA,21,-15,2,-1,-1,21,5,4.2
+San Marcos,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,4,1,4
+Namiquipa,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,-2,1,-2
+Acatlan,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA,-1,1,-1
+Jiquilpan,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA,-1,1,-1
+Tlapacoyan,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA,-1,1,-1
+Pueblo Viejo,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA,-1,1,-1
+Abasolo,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,-2,1,-2
+Jojutla,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,NA,-2,1,-2
+Cintalapa,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA,-1,1,-1
+Ahome,NA,NA,NA,NA,NA,NA,NA,NA,70,NA,NA,NA,70,1,70
+Centro,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Guasave,NA,NA,NA,NA,NA,NA,NA,NA,-6,NA,NA,NA,-6,1,-6
+Jalapa,NA,NA,NA,NA,NA,NA,NA,NA,-3,NA,NA,NA,-3,1,-3
+Atizapan de Zaragoza,NA,NA,NA,NA,NA,NA,NA,NA,-4,NA,NA,NA,-4,1,-4
+Tuxtla,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA,NA,NA,-5,1,-5
+Victoria,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA,NA,NA,-5,1,-5
+Papantla,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,-2,1,-2
+Carmen,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Tultitlan,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,-2,1,-2
+El Mante,NA,NA,NA,NA,NA,NA,NA,NA,-8,NA,NA,NA,-8,1,-8
+Cosamaloapan,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA,NA,NA,-5,1,-5
+Coacalco,NA,NA,NA,NA,NA,NA,NA,NA,-8,NA,NA,NA,-8,1,-8
+Huimanguillo,NA,NA,NA,NA,NA,NA,NA,NA,-3,NA,NA,NA,-3,1,-3
+Compostela,NA,NA,NA,NA,NA,NA,NA,NA,-6,NA,NA,NA,-6,1,-6
+Tecamac,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Zitacuaro,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,-1,1,-1
+Tihuatlan,NA,NA,NA,NA,NA,NA,NA,NA,-7,NA,NA,NA,-7,1,-7
+Allende,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,NA,NA,-2,1,-2
+Cancun,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,21,4,47,3,15.66666667
+Tula,NA,NA,NA,NA,NA,NA,NA,NA,NA,-35,-1,1,-35,3,-11.66666667
+Chetumal,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,1,1,1,3,0.333333333
+Tecoman,NA,NA,NA,NA,NA,NA,NA,NA,NA,-13,1,-1,-13,3,-4.333333333
+Tianguistenco,NA,NA,NA,NA,NA,NA,NA,NA,NA,-5,5,1,5,3,1.666666667
+Texcoco de Mora,NA,NA,NA,NA,NA,NA,NA,NA,NA,-13,6,NA,-13,2,-6.5
+Cuauhtemoc,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,3,NA,-9,2,-4.5
+Ojo de Agua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-8,NA,-8,1,-8
+Miramar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,-2,1,-2
+Playa del Carmen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA,-2,1,-2
+Tepexpan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,13,13,2,6.5
+Ciudad Cuauhtemoc,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,1,7
+San Jose del Cabo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-17,-17,1,-17
+Cabo San Lucas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,-1,1,-1
