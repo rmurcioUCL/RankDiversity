@@ -94,9 +94,9 @@ Afragola,63981,Caltanissetta,61438,Moncalieri,58438,Grosseto,55616,San Severo,52
 Vigevano,63797,Viareggio,61103,Manfredonia,58209,Potenza,55243,Caltanissetta,52100,Benevento,41552,Viterbo,44192,Cuneo,35389,Civitavecchia,34467,Campobasso,16371,Canicatti,30248,Adrano,25986
 Viterbo,63597,Portici,60218,Siena,57798,Siena,55060,San Remo,51040,Pistoia,41183,Vigevano,43894,Rieti,34860,Chieti,34121,Rovigo,14710,Adrano,30140,Cascina,25965
 Vittoria,63332,Crotone,60010,Guidonia Montecelio,57586,Scandicci,54078,Aversa,50554,Viareggio,41088,Gela,43746,Teramo,33818,Rieti,32221,Sondrio,9617,Trento,30066,Enna,25851
-Savona,62553,Savona,59907,Chieti,57581,San Severo,53923,Benevento,49006,Bisceglie,40566,Caltagirone,43615,Agrigento,33058,San Remo,31650,,,Cortona,29337,Gorizia,25450
-Crotone,61798,Viterbo,59308,Altamura,57541,Biella,52620,Vittoria,47221,Faenza,40403,Vittoria,43271,Civitavecchia,31957,Teramo,30720,,,Cuneo,29220,Pesaro,25105
-Pomezia,61106,Matera,57785,Grosseto,57096,Mantova,52573,Grosseto,47002,Aversa,40207,Biella,42848,San Remo,31801,Merano,30323,,,Paterno,28936,Torre Annunziata,25111
-Caltanissetta,60267,Manfredonia,57704,Vittoria,57086,Cologno Monzese,52359,Laquila,47095,San Remo,40103,Lecco,42597,Chieti,30303,Agrigento,30099,,,Monte San Giuliano,28795,Agrigento,25064
-Matera,59796,Vigevano,57450,Agrigento,55283,Agrigento,51325,Chieti,47064,Paterno,39946,Vercelli,42257,Pozzuoli,29769,Imperia,28770,,,Foligno,28449,Trento,24918
+Savona,62553,Savona,59907,Chieti,57581,San Severo,53923,Benevento,49006,Bisceglie,40566,Caltagirone,43615,Agrigento,33058,San Remo,31650,a1,1,Cortona,29337,Gorizia,25450
+Crotone,61798,Viterbo,59308,Altamura,57541,Biella,52620,Vittoria,47221,Faenza,40403,Vittoria,43271,Civitavecchia,31957,Teramo,30720,a2,1,Cuneo,29220,Pesaro,25105
+Pomezia,61106,Matera,57785,Grosseto,57096,Mantova,52573,Grosseto,47002,Aversa,40207,Biella,42848,San Remo,31801,Merano,30323,a3,2,Paterno,28936,Torre Annunziata,25111
+Caltanissetta,60267,Manfredonia,57704,Vittoria,57086,Cologno Monzese,52359,Laquila,47095,San Remo,40103,Lecco,42597,Chieti,30303,Agrigento,30099,a4,3,Monte San Giuliano,28795,Agrigento,25064
+Matera,59796,Vigevano,57450,Agrigento,55283,Agrigento,51325,Chieti,47064,Paterno,39946,Vercelli,42257,Pozzuoli,29769,Imperia,28770,a5,4,Foligno,28449,Trento,24918
 ,,,,,,,,,,,,,,,,,,,,Enna,28396,,
