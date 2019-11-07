@@ -143,7 +143,7 @@ livny,6840,smolensk,9190,ostrogozhsk,20980,kolom0,30600,pskov,60000,Lisitchansk,
 chistopolj,6810,Borodouzhiv,9170,arhangeljsk,20880,anzherosud,30200,blagovschsk,58800,Oral,103910,berezniki,145600,zlatoust,197800,bijsk,239180,Brest,229710,Kirovograd,236100
 staryjoskol,6750,ostashkov,9160,Istaravshan,20620,troickch,30000,chapajevsk,58100,Asta0,102280,armavir,145400,severdvinsk,197200,Khmelnitskii,236940,Bukhara,227880,syktyvkar,235010
 Vinnitsya,6720,borovsk,9120,lipeck,20520,egorjevsk,29900,shuja,57900,miass,99000,rubcovsk,145000,novcherkask,196720,Krementchouk,236500,Ternopil,227040,Osh,234550
-petrzavodsk,6650,Vinnitsya,8990,zlatoust,20500,kuzneck,29600,Nikopol',57690,Kertch,98770,severdvinsk,144700,Grod0,194780,vnovgorod,236080,jakutsk,226430,nizhnekamsk,234110
+petrzavodsk,6650,Vinnitsya,8990,zlatoust,20500,kuzneck,29600,Nikopol,57690,Kertch,98770,severdvinsk,144700,Grod0,194780,vnovgorod,236080,jakutsk,226430,nizhnekamsk,234110
 Artemivsk,6600,Moguilev-Podolskii,8930,kuzneck,20470,ulanude,29400,Tartu,57000,kovrov,98600,volzhskij,142100,Koustaisi,194300,Koustaisi,234870,nizhnekamsk,225400,angarsk,233770
 Reni,6300,Artemivsk,8930,livny,20450,Loutsk,29280,voljsk,56100,mytischi,98600,Klaipda,140010,vnovgorod,192920,0ljchik,234500,prokopjevsk,224600,Karshi,230770
 Raseiniai,6210,krasnodar,8920,tobolsk,20430,E0kieve,29040,egorjevsk,56000,Soumi,98020,ljubercy,139400,Babrouisk,192210,syktyvkar,232100,vnovgorod,223260,Bukhara,230340
@@ -164,7 +164,7 @@ Barysau,5680,Slonim,8310,Zaporizhzha,18850,Berdyansk,26410,Daugavpils,51700,cher
 P_rnu,5680,Raseiniai,8300,Konotop,18770,petrzavodsk,26300,Berdyansk,51680,Torez,91550,pskov,126700,syktyvkar,171000,pskov,203800,balakovo,200470,Mary,208680
 Lokhvintsa,5660,Reni,8260,Prolouki,18530,Balti,26120,kislovodsk,51300,saransk,91000,kisiljovsk,126600,Osh,169000,berezniki,201200,Kokand,199350,himki,207130
 Pavlograd,5630,Tchougouiv,8130,Balti,18480,kovrov,25900,lysjva,51000,engeljs,90700,syktyvkar,125100,Oral,167350,novcherkask,201170,Karshi,199330,pskov,203280
-mozdok,5590,Izyaslav,8110,pjatigorsk,18440,0rva,25730,elec,50900,pervouralsk,90400,Nikopol',124950,Kosta0i,164500,Ferga0,200370,petrkamchat,198030,engeljs,202400
+mozdok,5590,Izyaslav,8110,pjatigorsk,18440,0rva,25730,elec,50900,pervouralsk,90400,Nikopol,124950,Kosta0i,164500,Ferga0,200370,petrkamchat,198030,engeljs,202400
 Skvira,5590,Doubno,8090,Khotin,18400,roslavlj,25500,kamenskural,50900,Pavlodar,90100,Sumqayit,124490,koroljov (Kaliningrad),161620,Oral,199840,Petropavlovsk,196730,Oral,202160
 Volodimir-Volynskii,5560,Bobrinets,8060,jarcevo,18300,Kostryantinivka,25400,berezniki,50600,Klaipda,89920,serpuhov,124300,armavir,161500,jakutsk,198710,Stakhanov/Brianka,195890,Petropavlovsk,201450
 vjazma,5530,borisglebsk,8050,armavir,18110,Melitopol,25250,Ternopil,50000,michurinsk,89920,Slovyansk,124180,engeljs,161300,Kramatorsk,198090,Oral,195670,rybinsk,200770
@@ -179,7 +179,7 @@ Tchavousy,5150,beljov,7750,Zvenigorodka,16920,buzuluk,24600,balashov,48000,petrk
 Radomishl,5150,Viljandi,7740,novrossijsk,16900,Barysau,23950,0ljchik,48000,korkino,85000,balashiha,118470,Kokand,152780,Kokand,182070,novcherkask,184470,juzhsahalin,181730
 cheboksary,5130,starodub,7730,Novograd-Volynskii,16900,slav0kuban,23620,Bila Tserkva,47370,Tcherkasi,84820,himki,118110,balakovo,151600,Tiraspol,181860,podoljsk,180960,petrkamchat,179530
 balashov,5090,alatyr,7710,vyshvoloch,16610,Evpatoria,23340,Evpatoria,47030,chapajevsk,83300,Lisitchansk,117750,Bila Tserkva,151320,engeljs,181200,Kramatorsk,179850,syzranj,178770
-Zolotonosha,5050,Izyoum,7690,0rva,16600,siauliai,23300,troickch,47000,Nikopol',82990,novoshahtsk,117240,0hodka,150700,volgodonsk,175600,Ferga0,179250,noriljsk,175300
+Zolotonosha,5050,Izyoum,7690,0rva,16600,siauliai,23300,troickch,47000,Nikopol,82990,novoshahtsk,117240,0hodka,150700,volgodonsk,175600,Ferga0,179250,noriljsk,175300
 sarapul,5030,sarapul,7670,dubovka,16500,essentuki,23200,ejsk,46900,solikamsk,82900,pervouralsk,116600,miass,150200,Kertch,174370,0hodka,177130,zlatoust,174990
 Tarascha,4920,Radomishl,7640,shahty,16480,Gorlivka,23150,vichuga,46900,kansk,82700,Rivne,115540,Ivano-Frankivsk,149750,staryjoskol,173900,juzhsahalin,175090,kamenskural,174710
 Bilogirsk,4880,staryjoskol,7540,Starokostuantiniv,16380,Ismail,23120,Borislav,46100,Batoumi,82330,E0kieve,115340,himki,148620,Melitopol,173390,himki,173320,Stakhanov/Brianka,173420
@@ -188,7 +188,7 @@ tihvin,4870,Sloutsk,7490,siauliai,16130,shaki,22970,Feodosiya,45030,koroljov (Ka
 Bobrinets,4870,insar,7430,miass,16100,Smila,22950,sergiposad,44600,pskov,81300,Khmelnitskii,112960,ussurijsk,146800,miass,167800,koroljov (Kaliningrad),170320,ljubercy,171980
 Berislav,4830,ostrogozhsk,7360,Zharkent,16090,kamenj0obi,22900,kopejsk,44600,severdvinsk,78700,juzhsahalin,111910,Va0dzor,146040,himki,166340,Bara0bitchi,168120,volgodonsk,170620
 Romni,4800,Petropavlovsk,7320,balakovo,16000,batajsk,22900,Ouman,44380,Atyrau/guriev,78140,0hodka,111580,kopejsk,145900,leninskkuzn,165500,volgodonsk,165990,Temirtau,169590
-elabuga,4640,Sevastopol,7270,nevjansk,16000,Slonim,22730,Akwa (Sokhoumi),44290,kislovodsk,78000,jakutsk,111350,Nikopol',145650,ljubercy,165500,abakan,165200,novcherkask,169040
+elabuga,4640,Sevastopol,7270,nevjansk,16000,Slonim,22730,Akwa (Sokhoumi),44290,kislovodsk,78000,jakutsk,111350,Nikopol,145650,ljubercy,165500,abakan,165200,novcherkask,169040
 alatyr,4620,Kobelyaki,7260,Slonim,15860,murom,22600,svobodnyj,44000,elec,77900,majkop,110200,Ternopil,143630,kolom0,161900,Temirtau,164000,Bara0bitchi,168670
 volgograd,4610,Tarascha,7230,Loutsk,15800,Balta,22590,kisiljovsk,44000,kamenskshah,76800,michurinsk,109240,kovrov,142900,armavir,161000,rubcovsk,163060,Kramatorsk,167850
 Otchakiv,4570,ryljsk,7210,Slovyansk,15790,Lida,22500,pervouralsk,44000,Temirtau,76730,Bila Tserkva,108550,Loutsk,141070,Turkme0bat,160800,Khoutchand,161410,Ferga0,167370
@@ -201,7 +201,7 @@ Kovel',4180,Maryoupol',6860,groznyj,15560,Bilgorod-Dnistrovsk,21950,buzuluk,4240
 Telsiai,4150,Semei,6850,sterlitamak,15550,Pinsk,21900,kansk,42200,Tartu,74260,Ivano-Frankivsk,104970,salavat,137200,Balti,158520,majkop,156930,ussurijsk,157950
 troickch,4150,dmitrov,6840,kalach,15500,kemerovo,21700,sarapul,42200,Brest,73610,novokujbysh,103700,Tiraspol,136360,novmoskovsk,158520,ljubercy,156690,Melitopol,157630
 Mazyr,4110,temnikov,6840,karachev,15490,klincy,21500,kropotkin,41600,lysjva,73000,noginsk,103700,nizhnekamsk,134200,ussurijsk,158000,Kertch,156150,berezniki,156510
-vjazniki,4110,Borz0,6750,Melitopol,15490,starajarusa,21500,Brest,41400,Grod0,72940,balakovo,103500,orehovozuev,132300,Nikopol',157610,kovrov,155500,salavat,156090
+vjazniki,4110,Borz0,6750,Melitopol,15490,starajarusa,21500,Brest,41400,Grod0,72940,balakovo,103500,orehovozuev,132300,Nikopol,157610,kovrov,155500,salavat,156090
 Orhei,4090,suhinichi,6740,Quba,15360,Polatsk,21460,saransk,41100,belgorod,72300,Krasnii Loutch,102640,leninskkuzn,132100,Karshi,157120,Mary,152930,elektrostal,155320
 Prouzhany,3910,nevelj,6700,Akhaltsikhe,15360,sergiposad,21400,borovichi,41000,Liepja,71460,Akwa (Sokhoumi),101800,Tchirtchik,131870,Tchirtchik,156650,Marguilan,152360,miass,151810
 Koustaisi,3910,knjaginino,6660,novozybkov,15360,Orsha,21310,roslavlj,41000,Snizhne,70940,Bara0bitchi,101470,Atyrau/guriev,130920,mytischi,154100,Barysau,150520,Djizzak,150380
@@ -217,7 +217,7 @@ Tiraspol,3600,tihvin,6360,rjazhsk,14840,Borisovka,20660,sterlitamak,38800,Ridder
 buguruslan,3600,chaplygin,6350,Gloukhiv,14830,kungur,20500,balah0,38740,Ivano-Frankivsk,66460,kamyshin,97200,Berdyansk,122110,siauliai,145060,almetjevsk,140440,Tourkistan,142900
 Semei,3580,zarajsk,6330,gatchi0,14820,Panevzys,20450,votkinsk,38600,vyshvoloch,66400,sarapul,97000,kisiljovsk,121900,Barysau,143790,Tchirtchik,139680,pjatigorsk,142400
 cheljabinsk,3570,kaljazin,6320,Ostrog,14750,minusinsk,20400,Loutsk,38600,Kyzylorda,65900,achinsk,97000,magadan,121300,serpuhov,143600,0voi,139220,Ourgentch,140170
-Petropavlovsk,3560,Berislav,6300,temrjuk,14730,Akwa (Sokhoumi),20030,karabash,38300,Shakhtarsk,65830,Loutsk,96490,Altchevsk,119760,murom,142790,Nikopol',135400,odincovo,139020
+Petropavlovsk,3560,Berislav,6300,temrjuk,14730,Akwa (Sokhoumi),20030,karabash,38300,Shakhtarsk,65830,Loutsk,96490,Altchevsk,119760,murom,142790,Nikopol,135400,odincovo,139020
 Jkabpils,3520,roslavlj,6290,derbent,14650,staryjoskol,20000,Kolomiya,38300,Daugavpils,65460,Roudnyi,96040,Lisitchansk,119490,pervouralsk,142200,odincovo,134840,kopejsk,137600
 Koupyansk,3510,Zolotonosha,6290,Pereyaslav-Khmel'snitskii,14610,rostov,20000,rubcovsk,38000,Berdyansk,65250,kineshma,95600,novoshahtsk,119120,orehovozuev,137200,Ourgentch,134750,Tiraspol,136200
 sterlitamak,3500,Bykhau,6250,saransk,14580,achinsk,19930,gatchi0,38000,Artemivsk,65220,kansk,94700,noginsk,118800,Kokshetau,136760,siauliai,132910,Kokshetau,135110
@@ -235,7 +235,7 @@ Letitchiv,3080,kirsanov,6050,Telavi,13930,podoljsk,19300,balashiha,36750,voljsk,
 Orsha,3020,Starobilsk,6020,shack,13840,atkarsk,19300,jarcevo,36700,vnovgorod,62910,solikamsk,88600,elec,111700,Daugavpils,126680,murom,126900,Ekibastouz,125010
 klin,3010,Gadyatch,6010,Chust,13790,Lebedin,19300,abakan,36700,novokujbysh,62800,artjom,88120,Barysau,111670,Lisitchansk,126500,novocheboks,125860,pervouralsk,124560
 Vaukavysk,2990,korocha,6000,rostov,13720,tihoreck,19200,furmanov,36000,Tiraspol,62680,kamenskshah,87760,kamyshin,111600,Panevzys,126420,0zranj,125070,novocheboks,124110
-solikamsk,2980,toropec,6000,aleksejevka,13600,nikolajevsk,19200,kungur,36000,krasnotursk,62600,almetjevsk,87100,Aktau,110580,Ourgentch,126380,Orsha,124740,Nikopol',123750
+solikamsk,2980,toropec,6000,aleksejevka,13600,nikolajevsk,19200,kungur,36000,krasnotursk,62600,almetjevsk,87100,Aktau,110580,Ourgentch,126380,Orsha,124740,Nikopol,123750
 Izyoum,2970,Khmelnitskii,5950,kasimov,13550,shadrinsk,19200,petrkamchat,35400,Khmelnitskii,62470,usoljesibir,86700,Marguilan,110020,Altchevsk,125500,Slovyansk,124260,Batoumi,123500
 Primorsk,2930,porhov,5930,Ukmerg,13530,livny,19200,kimry,35200,Roustavi,62400,chapajevsk,86100,pjatigorsk,109900,odincovo,125100,Kokshetau,123540,neftjugansk,123280
 Zmiiv,2890,slobodskoj,5910,petrovsk,13300,petrovsk,19200,morshansk,35200,magadan,62200,troickch,85500,Roudnyi,109710,Marguilan,124850,Ekibastouz,122510,Taldykorgai,123040
@@ -278,7 +278,7 @@ bugulma,1870,kashin,5160,rasskazovo,12000,Retchytsa,16490,shadrinsk,31100,novotr
 Klimavitchy,1850,Telsiai,5120,klincy,11900,Novooukrainka,16390,ishim,31000,borisglebsk,54400,Oleksandriya,69420,balashov,93100,Zhezkazgan,108820,obninsk,105710,Lisitchansk,106560
 podoljsk,1770,enisejsk,5120,obojanj,11830,mariinsk,16370,cheboksary,31000,gushrustaln,54200,krasnogorsk,69290,kamenskshah,92380,anzherosud,108000,velluki,104980,arzamas,106370
 Ashmyany,1690,tutajev,5120,Salyan,11790,rossosh,16300,himki,30940,Zyryanovsk,54120,voljsk,69200,klin,91500,Evpatoria,107790,elista,104250,Va0dzor,104800
-orsk,1670,alapajevsk,5080,soljileck,11770,pavlovo,16300,Korosten',30810,Konotop,54100,shuja,68800,volgodonsk,91300,Kostryantinivka,107560,kyzyl,104110,obninsk,104800
+orsk,1670,alapajevsk,5080,soljileck,11770,pavlovo,16300,Korosten,30810,Konotop,54100,shuja,68800,volgodonsk,91300,Kostryantinivka,107560,kyzyl,104110,obninsk,104800
 kurgan,1640,Novgorod-Siverskii,5070,Borodouzhiv,11750,rjazhsk,16200,rasskazovo,30800,kropotkin,54000,Konotop,68400,mezhdurechk,91200,0voi,107120,uhta,103340,novyurengoj,104140
 pjatigorsk,1590,ustjuzh0,5060,Taraz,11720,Polonne,16190,Bender,30700,uzlovaja,53900,Kohtla-J_rve,68320,Ouzhgorod,91000,mezhdurechk,107000,Bekabad,103210,Daugavpils,103920
 noginsk,1570,holm,5060,shadrinsk,11680,Toul'tchin,16120,Balti,30500,klin,53300,Sverdlovsk,68300,cherkessk,90800,usoljesibir,106500,sarapul,103140,kaspijsk,103910
