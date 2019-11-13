@@ -22,30 +22,30 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-3892454.25426383782178164</xmin>
-      <ymin>-97901.44779761740937829</ymin>
-      <xmax>1953477.71846124622970819</xmax>
-      <ymax>3846463.35174596821889281</ymax>
+      <xmin>-3859525.08735400578007102</xmin>
+      <ymin>519485.07637671288102865</ymin>
+      <xmax>2207140.22313956310972571</xmax>
+      <ymax>7459204.16803616564720869</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
     <destinationsrs>
       <spatialrefsys>
-        <proj4>+proj=eqdc +lat_0=30 +lon_0=10 +lat_1=43 +lat_2=62 +x_0=0 +y_0=0 +ellps=intl +units=m +no_defs</proj4>
-        <srsid>27154</srsid>
-        <srid>102031</srid>
-        <authid>EPSG:102031</authid>
-        <description>Europe_Equidistant_Conic</description>
+        <proj4>+proj=eqdc +lat_0=30 +lon_0=95 +lat_1=15 +lat_2=65 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>27149</srsid>
+        <srid>102026</srid>
+        <authid>EPSG:102026</authid>
+        <description>Asia_North_Equidistant_Conic</description>
         <projectionacronym>eqdc</projectionacronym>
-        <ellipsoidacronym>intl</ellipsoidacronym>
+        <ellipsoidacronym></ellipsoidacronym>
         <geographicflag>false</geographicflag>
       </spatialrefsys>
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:102031" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type20191113105705239"/>
-      <layer_coordinate_transform destAuthId="EPSG:102031" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type_copier20191113112030963"/>
-      <layer_coordinate_transform destAuthId="EPSG:102031" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Countries_WGS8420190902111055058"/>
+      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type20191113105705239"/>
+      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type_copier20191113112030963"/>
+      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Countries_WGS8420190902111055058"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
@@ -467,8 +467,6 @@ def my_form_open(dialog, layer, feature):
         <default field="lon" expression=""/>
         <default field="country" expression=""/>
         <default field="type" expression=""/>
-        <default field="pop2010" expression=""/>
-        <default field="db" expression=""/>
       </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
@@ -489,17 +487,11 @@ def my_form_open(dialog, layer, feature):
         <edittype widgetv2type="TextEdit" name="type">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
-        <edittype widgetv2type="TextEdit" name="pop2010">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="db">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="1">
         <rules key="{fa16efa7-9f47-43ad-a72f-52ef269cc961}">
           <rule checkstate="0" filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'US'" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
-          <rule filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'IT' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'GB' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'FR' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'ES'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
+          <rule filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
           <rule filter="ELSE" key="{7bfecbdb-9516-4b9d-9f4f-e4eba4391b21}" symbol="2"/>
         </rules>
         <symbols>
@@ -599,7 +591,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="true"/>
         <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'seed' and &quot;country&quot; = 'IT' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'GB' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'FR' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'ES', name, &quot;&quot;)"/>
+        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS' , name, &quot;&quot;)"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value="Futura"/>
@@ -776,8 +768,6 @@ def my_form_open(dialog, layer, feature):
         <alias field="lon" index="2" name=""/>
         <alias field="country" index="3" name=""/>
         <alias field="type" index="4" name=""/>
-        <alias field="pop2010" index="5" name=""/>
-        <alias field="db" index="6" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -789,8 +779,6 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="0" type="field" name="lon"/>
           <column width="-1" hidden="0" type="field" name="country"/>
           <column width="-1" hidden="0" type="field" name="type"/>
-          <column width="-1" hidden="0" type="field" name="pop2010"/>
-          <column width="-1" hidden="0" type="field" name="db"/>
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
@@ -858,8 +846,6 @@ def my_form_open(dialog, layer, feature):
         <default field="lon" expression=""/>
         <default field="country" expression=""/>
         <default field="type" expression=""/>
-        <default field="pop2010" expression=""/>
-        <default field="db" expression=""/>
       </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
@@ -880,16 +866,10 @@ def my_form_open(dialog, layer, feature):
         <edittype widgetv2type="TextEdit" name="type">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
-        <edittype widgetv2type="TextEdit" name="pop2010">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="db">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="1">
         <rules key="{fa16efa7-9f47-43ad-a72f-52ef269cc961}">
-          <rule filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'IT' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'GB' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'FR' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'ES'" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
+          <rule filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS'" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
           <rule checkstate="0" filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'US'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
           <rule filter="ELSE" key="{7bfecbdb-9516-4b9d-9f4f-e4eba4391b21}" symbol="2"/>
         </rules>
@@ -990,7 +970,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="true"/>
         <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'epoch' and &quot;country&quot; = 'IT' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'GB' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'FR' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'ES', name, &quot;&quot;)"/>
+        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS', name, &quot;&quot;)"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value="Futura"/>
@@ -1167,8 +1147,6 @@ def my_form_open(dialog, layer, feature):
         <alias field="lon" index="2" name=""/>
         <alias field="country" index="3" name=""/>
         <alias field="type" index="4" name=""/>
-        <alias field="pop2010" index="5" name=""/>
-        <alias field="db" index="6" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -1180,8 +1158,6 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="0" type="field" name="lon"/>
           <column width="-1" hidden="0" type="field" name="country"/>
           <column width="-1" hidden="0" type="field" name="type"/>
-          <column width="-1" hidden="0" type="field" name="pop2010"/>
-          <column width="-1" hidden="0" type="field" name="db"/>
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
@@ -1565,7 +1541,7 @@ def my_form_open(dialog, layer, feature):
     <WMSContactPosition type="QString"></WMSContactPosition>
     <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
     <Measure>
-      <Ellipsoid type="QString">intl</Ellipsoid>
+      <Ellipsoid type="QString">NONE</Ellipsoid>
     </Measure>
     <WMSPrecision type="QString">8</WMSPrecision>
     <WMSSegmentizeFeatureInfoGeometry type="bool">false</WMSSegmentizeFeatureInfoGeometry>
@@ -1622,9 +1598,9 @@ def my_form_open(dialog, layer, feature):
       <filterByMap type="bool">false</filterByMap>
     </Legend>
     <SpatialRefSys>
-      <ProjectCRSProj4String type="QString">+proj=eqdc +lat_0=30 +lon_0=10 +lat_1=43 +lat_2=62 +x_0=0 +y_0=0 +ellps=intl +units=m +no_defs</ProjectCRSProj4String>
-      <ProjectCrs type="QString">EPSG:102031</ProjectCrs>
-      <ProjectCRSID type="int">27154</ProjectCRSID>
+      <ProjectCRSProj4String type="QString">+proj=eqdc +lat_0=30 +lon_0=95 +lat_1=15 +lat_2=65 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:102026</ProjectCrs>
+      <ProjectCRSID type="int">27149</ProjectCRSID>
       <ProjectionsEnabled type="int">1</ProjectionsEnabled>
     </SpatialRefSys>
     <DefaultStyles>

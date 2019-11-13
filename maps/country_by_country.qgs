@@ -22,30 +22,30 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-3859525.08735400578007102</xmin>
-      <ymin>519485.07637671288102865</ymin>
-      <xmax>2207140.22313956310972571</xmax>
-      <ymax>7459204.16803616564720869</ymax>
+      <xmin>-1741890.12918030377477407</xmin>
+      <ymin>-6177385.47500054445117712</ymin>
+      <xmax>6414878.58652320597320795</xmax>
+      <ymax>6520077.01357955578714609</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
     <destinationsrs>
       <spatialrefsys>
-        <proj4>+proj=eqdc +lat_0=30 +lon_0=95 +lat_1=15 +lat_2=65 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
-        <srsid>27149</srsid>
-        <srid>102026</srid>
-        <authid>EPSG:102026</authid>
-        <description>Asia_North_Equidistant_Conic</description>
-        <projectionacronym>eqdc</projectionacronym>
+        <proj4>+proj=aeqd +lat_0=90 +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>27139</srsid>
+        <srid>102016</srid>
+        <authid>EPSG:102016</authid>
+        <description>North_Pole_Azimuthal_Equidistant</description>
+        <projectionacronym>aeqd</projectionacronym>
         <ellipsoidacronym></ellipsoidacronym>
         <geographicflag>false</geographicflag>
       </spatialrefsys>
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type20191113105705239"/>
-      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type_copier20191113112030963"/>
-      <layer_coordinate_transform destAuthId="EPSG:102026" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Countries_WGS8420190902111055058"/>
+      <layer_coordinate_transform destAuthId="EPSG:102016" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type20191113105705239"/>
+      <layer_coordinate_transform destAuthId="EPSG:102016" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cities_coord_type_copier20191113112030963"/>
+      <layer_coordinate_transform destAuthId="EPSG:102016" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Countries_WGS8420190902111055058"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
@@ -491,7 +491,7 @@ def my_form_open(dialog, layer, feature):
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="1">
         <rules key="{fa16efa7-9f47-43ad-a72f-52ef269cc961}">
           <rule checkstate="0" filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'US'" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
-          <rule filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
+          <rule filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'JP'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
           <rule filter="ELSE" key="{7bfecbdb-9516-4b9d-9f4f-e4eba4391b21}" symbol="2"/>
         </rules>
         <symbols>
@@ -591,7 +591,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="true"/>
         <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS' , name, &quot;&quot;)"/>
+        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'seed' and &quot;country&quot; = 'URSS' or &quot;type&quot; = 'seed' and &quot;country&quot; = 'JP', name, &quot;&quot;)"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value="Futura"/>
@@ -869,7 +869,7 @@ def my_form_open(dialog, layer, feature):
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="1">
         <rules key="{fa16efa7-9f47-43ad-a72f-52ef269cc961}">
-          <rule filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS'" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
+          <rule filter="&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'JP'&#xa;" key="{a8dce429-bce0-48e8-b65d-f6bba50e2ad6}" symbol="0" label="epoch"/>
           <rule checkstate="0" filter="&quot;type&quot; = 'seed' and &quot;country&quot; = 'US'" key="{4acbcaa1-8032-45e9-8555-ace3963cafbe}" symbol="1" label="seed"/>
           <rule filter="ELSE" key="{7bfecbdb-9516-4b9d-9f4f-e4eba4391b21}" symbol="2"/>
         </rules>
@@ -970,7 +970,7 @@ def my_form_open(dialog, layer, feature):
         <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
         <property key="labeling/drawLabels" value="true"/>
         <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS', name, &quot;&quot;)"/>
+        <property key="labeling/fieldName" value="if(&quot;type&quot; = 'epoch' and &quot;country&quot; = 'URSS' or &quot;type&quot; = 'epoch' and &quot;country&quot; = 'JP', name, &quot;&quot;)"/>
         <property key="labeling/fitInPolygonOnly" value="false"/>
         <property key="labeling/fontCapitals" value="0"/>
         <property key="labeling/fontFamily" value="Futura"/>
@@ -1598,9 +1598,9 @@ def my_form_open(dialog, layer, feature):
       <filterByMap type="bool">false</filterByMap>
     </Legend>
     <SpatialRefSys>
-      <ProjectCRSProj4String type="QString">+proj=eqdc +lat_0=30 +lon_0=95 +lat_1=15 +lat_2=65 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</ProjectCRSProj4String>
-      <ProjectCrs type="QString">EPSG:102026</ProjectCrs>
-      <ProjectCRSID type="int">27149</ProjectCRSID>
+      <ProjectCRSProj4String type="QString">+proj=aeqd +lat_0=90 +lon_0=0 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:102016</ProjectCrs>
+      <ProjectCRSID type="int">27139</ProjectCRSID>
       <ProjectionsEnabled type="int">1</ProjectionsEnabled>
     </SpatialRefSys>
     <DefaultStyles>
