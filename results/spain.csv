@@ -84,9 +84,9 @@ Benidorm,68045,Torrelavega,55477,Velez-Malaga,50999,Rubi,43839,Vilanova i la Gel
 Sanlucar de Barrameda,67232,Orihuela,54390,Rubi,50405,Vilanova i la Geltru,43833,Cuenca,33631,Moron de la Frontera,29166,Moron de la Frontera,30107,Segovia,24360,Manzanares,16080,Don Benito,21052,Leon,19260,Osuna,17822
 Paterna,66853,Segovia,54368,Orihuela,49475,Viladecans,43358,Guadalajara,31687,Ubeda,29047,Guadix,30142,Aller,23681,Cuenca,15687,Alzira,20874,Mahon,18021,Grado,17435
 Molina de Segura,66771,Vilanova i la Geltru,54230,Merida,49284,Velez-Malaga,41937,Huesca,31671,Huesca,28440,Hellin,30068,Alcazar de San Juan,23178,Avila,15215,Villaviciosa,20799,Palencia,17685,Leon,17056
-Santa Lucia de Tirajana,66725,Cerdanyola del Valles,53343,Pozuelo de Alarc—n,48328,Huesca,41455,Gandia,30752,Antequera,28486,Segovia,29683,Cuenca,23010,Merida,15002,Loja,20543,Girona,17364,Don Benito,16701
+Santa Lucia de Tirajana,66725,Cerdanyola del Valles,53343,Pozuelo de Alarcon,48328,Huesca,41455,Gandia,30752,Antequera,28486,Segovia,29683,Cuenca,23010,Merida,15002,Loja,20543,Girona,17364,Don Benito,16701
 Torremolinos,66270,Granollers,53105,Viladecans,48294,Merida,41027,Alzira,30517,Tomelloso,27785,Alcala la Real,29269,Andujar,22916,Huesca,14670,Cuevas de Vera,20453,Caceres,16966,Martos,16736
-Vilanova i la Geltrœ,66074,Benidorm,51873,Chiclana de la Frontera,46862,Motril,40506,Avila,30185,Avila,27090,Girona,28957,Merida,22479,Teruel,13640,Jumilla,20336,Zamora,16089,Priego de Cordoba,16784
+Vilanova i la Geltru,66074,Benidorm,51873,Chiclana de la Frontera,46862,Motril,40506,Avila,30185,Avila,27090,Girona,28957,Merida,22479,Teruel,13640,Jumilla,20336,Zamora,16089,Priego de Cordoba,16784
 Sagunt,65813,Elda,51593,Motril,46500,Siero,40350,Granollers,30172,Alcazar de San Juan,27090,Andujar,28530,Puente Genil,22315,Figueres,13023,Puertollano,20186,Ourense,16024,Villarreal,16521
 Zamora,65417,Motril,51298,Avila,45977,Avila,40173,Villarreal,29552,Sanlucar de Barrameda,26550,Puerto de Santa Maria,28368,Puertollano,22167,Xativa,13010,Ciudad Real,20031,Utrera,15111,Zamora,16438
 Linea de la Concepcion,65412,Torrevieja,50953,Vilanova i la Geltru,45864,Cerdanyola del Valles,40078,Sanlucar de Barrameda,29522,Miranda de Ebro,26460,Estrada,28231,Aranjuez,21809,Igualada,12526,Palencia,19770,Segovia,15092,Andujar,16448
@@ -98,4 +98,4 @@ Collado Villalba,60964,Fuengirola,49675,El Ejido,41374,Mollet del Valles,35480,A
 Irun,60747,Siero,47890,Paterna,41081,Villarreal,34923,Igualada,27900,Valdepenas,24661,Aller,25553,Don Benito,20626,Plasencia,10049,Zamora,18007,Merida,11271,Aguilas,15849
 Alcoy,60716,Santa Lucia de Tirajana,47652,Mollet del Valles,40877,Paterna,32613,San MartIn del Rey Aurelio,27342,Andujar,23913,Alcazar de San Juan,25100,Algeciras,20227,Tudela,10002,Mahon,17096,Teruel,10900,Caravaca de la Cruz,15861
 Motril,60460,Mollet del Valles,47270,Villarreal,37927,Molina de Segura,31515,Ecija,27300,Irun,29800,Arucas,25000,Villaviciosa,20280,Ripoll,10011,Segovia,16010,Melilla,9027,Huercal-Overa,15847
-Granollers,59571,Collado Villalba,47001,Molina de Segura,37806,Pozuelo de Alarcon,29756,Plasencia,26900,Toledo,29400,Alzira,24900,,,Orotava,9244,,,,,Girona,15700
+Granollers,59571,Collado Villalba,47001,Molina de Segura,37806,Pozuelo de Alarcon,29756,Plasencia,26900,Toledo,29400,Alzira,24900,a1,1,Orotava,9244,b1,1,c1,1,Girona,15700
