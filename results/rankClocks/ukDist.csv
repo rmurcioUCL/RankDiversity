@@ -1,0 +1,163 @@
+,2010,2001,1991,1981,1971,1961,1950,1940,1931,1921,1911,1900
+London,0,0,0,0,0,0,0,0,0,0,0,0
+Manchester,1,-7,1,1,2,0,0,0,0,0,1,0
+Glasgow,2,-1,1,0,0,0,0,1,0,0,0,0
+Birmingham,3,2,0,0,0,0,0,-1,0,0,-2,0
+Leeds,4,2,-1,-2,-1,1,-1,0,0,0,0,1
+Sheffield,5,1,0,0,-1,-1,1,0,0,0,0,-1
+Bradford,6,1,0,-11,0,1,4,-1,1,1,0,0
+Liverpool,7,1,0,3,0,0,0,0,0,0,1,0
+Edinburgh,8,1,-1,0,1,0,0,0,0,0,-2,0
+Bristol,9,0,0,2,-1,0,0,-1,0,0,1,0
+Wirral,10,0,0,1,-2,0,NA,NA,NA,NA,NA,NA
+Wakefield,11,-1,1,NA,NA,-84,2,2,12,-5,4,-14
+Cardiff,12,1,-9,0,1,-1,4,-1,0,-1,1,0
+Dudley,13,0,1,-18,-1,-63,4,6,6,0,-3,4
+Coventry,14,0,-3,5,0,2,-5,-3,-5,-6,-6,-15
+Belfast,15,0,-3,3,5,1,NA,1,0,0,1,0
+Leicester,16,0,-5,11,-8,1,4,-2,-1,0,0,1
+Sunderland,17,0,2,-11,1,-1,6,0,1,-3,1,2
+Sandwell,18,-1,6,0,0,1,NA,NA,NA,NA,NA,NA
+Sefton,19,-1,6,0,0,-2,NA,NA,NA,NA,NA,NA
+Nottingham,20,-1,2,2,2,2,4,-4,-1,1,0,1
+Newcastle-upon-Tyne,21,-1,-1,-1,1,5,6,1,-1,0,0,-1
+Hull,22,-2,2,11,-6,3,4,0,0,-1,0,0
+Walsall,23,0,-1,-7,-1,-12,7,-4,1,-2,2,1
+Plymouth,24,-2,1,4,-1,-2,6,-1,1,1,-14,2
+Rotherham,25,0,-2,-27,-26,13,8,-3,0,-2,-3,3
+Stoke-on-Trent,26,-1,1,8,-3,2,5,0,1,-2,1,0
+Wolverhampton,27,-1,0,9,-1,-17,14,-3,-4,-2,-7,3
+Derby,28,-1,0,7,-2,-15,8,2,2,-1,3,2
+Swansea,29,-1,-11,7,-2,6,6,0,0,0,-6,-5
+Barnsley,30,-1,1,-65,NA,15,14,-2,8,-23,-2,-11
+Aberdeen,31,-2,2,2,-5,7,8,-2,-1,-1,4,-3
+Southampton,32,0,0,9,-3,3,2,-1,2,-1,-6,-4
+Solihull,33,-3,1,-31,11,-6,-20,NA,NA,NA,NA,NA
+Gateshead,34,-9,7,-35,4,12,19,2,1,2,2,1
+Milton Keynes,35,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+North Tyneside,36,-4,3,12,-2,5,NA,NA,NA,NA,NA,NA
+Calderdale,37,-2,1,10,-1,4,NA,NA,NA,NA,NA,NA
+Northampton,38,0,-5,1,-6,-5,6,1,-1,1,5,3
+Portsmouth,39,-5,5,7,4,7,4,1,1,1,-1,-1
+Warrington,40,-2,2,-47,NA,9,15,3,5,0,-2,0
+Norwich,41,-7,-24,36,-15,9,8,-1,4,-2,7,0
+Swindon,42,-3,-1,-4,-20,5,-12,-9,10,-1,-5,-2
+Luton,43,-6,7,4,-3,1,-2,-11,-11,-12,-11,NA
+Saint Helens,44,-2,1,-11,-2,9,8,-1,3,0,1,-3
+Stockton-on-Tees,45,4,-3,-37,NA,10,2,-6,9,-3,-1,2
+York,46,-24,-7,25,-5,3,9,2,-8,2,4,1
+Southend-on-Sea,47,-8,8,6,1,9,5,-4,-4,-3,-29,NA
+New Forest,48,-3,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bath,49,-1,2,-38,8,6,8,-10,11,1,-22,11
+Wycombe,50,-4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Basildon,51,-2,3,-15,18,NA,NA,NA,NA,NA,NA,NA
+Huddersfield,52,-11,-8,26,-1,5,8,1,-6,2,3,-1
+Bournemouth,53,1,-2,7,4,9,5,-7,0,-9,-5,-10
+Oxford,54,-13,2,8,4,2,2,-1,-4,-11,-12,2
+Peterborough,55,-1,3,-5,NA,NA,NA,NA,NA,NA,NA,NA
+Chelmsford,56,-1,1,-16,NA,NA,NA,NA,NA,NA,NA,NA
+Brighton,57,-1,-9,19,10,6,7,0,-1,0,3,2
+South Tyneside,58,-1,4,16,4,7,NA,NA,NA,NA,NA,NA
+Poole,59,-6,1,11,-3,-8,6,-13,-11,-17,NA,NA
+Colchester,60,-21,-3,7,-10,-3,-7,NA,NA,NA,-2,NA
+Knowsley,61,1,3,24,3,-6,NA,NA,NA,NA,NA,NA
+Macclesfield,62,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Blackpool,63,1,3,13,4,7,7,-3,-10,1,-31,-9
+Dundee,64,0,13,16,2,4,7,-1,2,2,1,0
+Middlesbrough,65,18,-14,21,31,-24,6,-1,-1,2,-9,-1
+Cambridge,66,-6,-15,8,18,-2,1,3,-8,-8,NA,NA
+Ipswich,67,-4,3,19,-1,5,-1,-2,-1,-5,-2,2
+Birkenhead,68,0,8,-4,20,6,8,3,2,0,1,-3
+Reading,69,34,-27,35,-18,2,5,-6,-1,1,-8,4
+West Bromwich,70,1,6,20,6,-23,6,-2,3,-5,-4,6
+Gloucester,71,-2,-3,15,-10,-18,5,-9,6,1,0,7
+Newport,72,-2,5,14,3,2,6,-3,-1,5,-1,-9
+Preston,73,-15,18,33,-27,17,12,-3,3,0,7,3
+Havant,74,-1,2,NA,19,NA,NA,NA,NA,NA,NA,NA
+Blackburn,75,-2,NA,18,0,7,12,1,7,2,8,2
+Winchester,76,-4,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheltenham,77,1,1,-3,-12,5,-4,-10,8,2,1,14
+Maidstone,78,-8,1,2,NA,NA,NA,NA,NA,NA,NA,NA
+Exeter,79,0,-2,6,7,-7,8,-3,0,-4,-15,8
+Doncaster,80,62,2,NA,-66,16,6,-7,-8,-5,-10,NA
+Derry,81,-1,NA,6,NA,NA,NA,NA,-23,4,NA,-4
+Basingstoke,82,-3,-14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Darlington,83,-6,11,-6,7,9,12,-8,5,-9,-6,-11
+Worthing,84,1,0,10,-2,NA,-1,-14,-4,NA,NA,NA
+Woking and Byfleet,85,1,NA,17,-21,NA,NA,NA,NA,NA,NA,NA
+Great Yarmouth,86,-1,-3,NA,NA,NA,NA,-5,12,10,0,3
+Worcester,87,NA,-2,NA,-5,2,-2,-2,7,1,-4,10
+Chesterfield,88,-4,13,NA,NA,NA,1,-1,5,2,-4,NA
+Hartlepool,89,-1,4,17,6,-14,6,16,-10,2,-1,24
+Grimsby,90,NA,NA,20,5,7,6,0,6,-4,-5,-3
+Halifax,91,-3,NA,-2,27,10,9,5,2,2,4,7
+Bedford,92,-4,NA,-3,4,NA,NA,NA,NA,NA,NA,NA
+Nuneaton,93,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chester,94,-3,1,8,NA,-9,NA,NA,NA,NA,NA,NA
+Weston-super-Mare,95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+St Albans,97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Harlow,98,NA,NA,5,8,NA,NA,NA,NA,NA,NA,NA
+Redditch,99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Renfrew,NA,62,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thurrock,NA,-32,0,15,2,3,-15,NA,NA,NA,NA,NA
+Fareham and Portchester,NA,-17,-2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hastings,NA,-11,NA,NA,-5,5,3,8,9,5,-2,13
+Burnley,NA,-38,5,-10,9,15,19,1,12,4,4,1
+Stevenage,NA,-65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Slough,NA,NA,24,12,-14,3,-14,NA,NA,NA,NA,NA
+Hemel Hempstead,NA,NA,-4,2,NA,NA,NA,NA,NA,NA,NA,NA
+Oldbury and Smethwick,NA,NA,NA,45,5,NA,7,-1,-19,1,-7,16
+Watford,NA,NA,NA,-18,-24,5,9,-8,NA,NA,NA,NA
+Sutton Coldfield,NA,NA,NA,15,-18,-5,NA,NA,NA,NA,NA,NA
+Gillingham,NA,NA,NA,18,-5,-10,11,3,-8,-5,3,-11
+Southport,NA,NA,NA,16,-5,9,13,-1,1,1,-4,-18
+Eastbourne,NA,NA,NA,-2,NA,-16,0,2,14,9,-7,-10
+South Shields,NA,NA,NA,6,22,12,5,3,3,3,2,0
+Paisley,NA,NA,NA,-53,19,4,9,2,1,2,5,0
+Crawley,NA,NA,NA,-47,NA,NA,NA,NA,NA,NA,NA,NA
+Lincoln,NA,NA,NA,-2,-1,17,1,-7,13,2,-5,-4
+Scunthorpe,NA,NA,NA,-18,NA,NA,NA,NA,NA,NA,NA,NA
+Saint Albans,NA,NA,NA,-3,NA,NA,NA,NA,NA,NA,NA,NA
+Wallasey,NA,NA,NA,NA,35,6,8,-1,5,-3,-4,-15
+Rhondda,NA,NA,NA,NA,-6,15,18,2,9,8,0,-4
+Aldridge-Brownhills,NA,NA,NA,NA,-50,NA,NA,NA,NA,NA,NA,NA
+Gosport,NA,NA,NA,NA,-9,NA,-12,NA,NA,NA,NA,NA
+Newcastle-under-Lyme,NA,NA,NA,NA,9,NA,13,-8,NA,NA,NA,NA
+Bootle,NA,NA,NA,NA,-10,22,1,3,7,1,-2,-2
+Motherwell,NA,NA,NA,NA,-31,8,5,7,-1,12,NA,NA
+Epsom and Ewell,NA,NA,NA,NA,-36,NA,-2,11,NA,NA,NA,NA
+Hove,NA,NA,NA,NA,-10,16,8,-18,7,-6,NA,NA
+Carlisle,NA,NA,NA,NA,-8,12,5,-5,6,-4,-8,10
+Greenock,NA,NA,NA,NA,NA,2,16,8,1,4,-1,1
+Tynemouth,NA,NA,NA,NA,NA,-36,3,8,5,2,1,0
+Barrow-in-Furness,NA,NA,NA,NA,NA,-24,10,7,8,9,-6,3
+Merthyr Tydfil,NA,NA,NA,NA,NA,-36,6,9,22,8,5,-3
+Coatbridge,NA,NA,NA,NA,NA,-48,NA,NA,NA,1,NA,NA
+Beeston and Stapleford,NA,NA,NA,NA,NA,NA,47,NA,NA,NA,NA,NA
+Wishaw,NA,NA,NA,NA,NA,NA,-29,7,NA,NA,NA,NA
+North Shields,NA,NA,NA,NA,NA,NA,-13,NA,NA,NA,NA,NA
+Stretford,NA,NA,NA,NA,NA,NA,-5,2,5,NA,NA,NA
+Keighley,NA,NA,NA,NA,NA,NA,-14,NA,NA,NA,NA,5
+Hanley,NA,NA,NA,NA,NA,NA,NA,32,NA,NA,NA,2
+Leith,NA,NA,NA,NA,NA,NA,NA,-4,NA,NA,14,4
+Handsworth,NA,NA,NA,NA,NA,NA,NA,-21,NA,NA,5,-6
+Chiswick,NA,NA,NA,NA,NA,NA,NA,-18,NA,NA,NA,NA
+Wood Green,NA,NA,NA,NA,NA,NA,NA,-12,NA,NA,NA,NA
+Dewsbury,NA,NA,NA,NA,NA,NA,NA,-1,12,5,6,NA
+Ashton-under-Lyne,NA,NA,NA,NA,NA,NA,NA,NA,-13,NA,-6,8
+Burton upon Trent,NA,NA,NA,NA,NA,NA,NA,NA,-4,3,-4,19
+Aberdare,NA,NA,NA,NA,NA,NA,NA,NA,-20,13,-4,-4
+Clydebank,NA,NA,NA,NA,NA,NA,NA,NA,-6,1,NA,NA
+Torquay,NA,NA,NA,NA,NA,NA,NA,NA,-3,NA,NA,NA
+Mansfield,NA,NA,NA,NA,NA,NA,NA,NA,-1,0,NA,NA
+Crewe,NA,NA,NA,NA,NA,NA,NA,NA,-1,7,-5,4
+Leigh,NA,NA,NA,NA,NA,NA,NA,NA,-7,4,-3,-1
+Partick,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,-3,-2
+Scarborough,NA,NA,NA,NA,NA,NA,NA,NA,NA,-28,NA,NA
+Eccles,NA,NA,NA,NA,NA,NA,NA,NA,NA,-4,NA,NA
+Govan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,-5
+Devonport,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,-3
+King's Norton and Northfield,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,-16
+Aston Manor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,8
+Accrington,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-50,7
+Dover,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,6

@@ -1,0 +1,241 @@
+,1901,1911,1921,1931,1941,1951,c1961,c1971,c1981,c1991,2002,2011
+Montreal,0,0,0,0,0,0,0,0,-1,0,0,0
+Toronto,1,0,0,0,0,0,0,0,1,0,0,0
+Quebec,2,-4,0,2,-3,-2,2,-1,2,1,-4,3
+Ottawa,3,-1,-1,0,-1,0,1,1,1,0,0,0
+Hamilton,4,-1,1,-3,2,0,-1,-1,-2,1,2,-2
+Winnipeg,5,3,0,-1,0,-1,0,-1,-2,0,0,0
+Halifax,6,-2,-2,-2,1,-3,4,-7,1,0,3,1
+St. Johns,7,-4,0,-3,-1,-7,3,-4,0,-4,1,8
+London,8,-1,0,0,-1,-3,2,-1,-3,3,2,0
+Edmonton,9,2,0,1,2,1,0,0,-1,-2,1,0
+Vancouver,10,7,0,1,0,0,0,0,0,0,0,0
+Victoria,11,-1,-1,-4,1,-7,10,-5,0,-1,3,2
+Kingston,12,-9,-2,-3,-1,-2,0,-13,9,1,-1,9
+Brantford,13,-3,-1,-3,-3,-2,-8,-17,6,-1,6,10
+Windsor,14,-8,8,4,2,-3,2,-5,-5,-1,0,5
+Charlottetown,15,-22,-6,-8,-4,-33,-2,-7,14,-4,3,32
+Hull,16,-4,1,-2,0,-7,-4,-23,-19,-11,5,29
+Guelph,17,-11,0,-3,-3,-5,0,-6,2,-1,6,11
+Saint-Thomas,18,-13,-2,-11,-2,-32,-2,-21,-2,2,1,26
+Sherbrooke,19,1,-2,-2,3,-1,-2,-6,-1,3,3,6
+Trois-Rivieres,20,-5,3,4,0,-8,3,-10,-3,3,-3,10
+Belleville,21,-17,-7,-3,-3,-17,14,-34,-12,0,40,26
+Sydney,22,-1,2,-8,-1,-12,24,-18,-9,3,NA,NA
+Peterborough,23,4,-6,-5,6,-7,4,-12,0,-7,1,13
+Saskatoon,24,-10,16,2,-1,-1,2,-9,0,1,5,3
+Stratford,25,-7,0,-7,-9,-25,-14,-15,0,-1,1,18
+Moncton,26,-10,6,-2,-4,-2,4,-13,6,0,-3,16
+Woodstock,27,-14,-14,0,-12,-14,-7,-12,-1,-1,1,24
+Brockville,28,NA,-26,-4,-15,NA,-25,NA,NA,NA,NA,NA
+Sarnia,29,-6,-1,-2,-4,10,2,-11,-6,-10,-6,25
+Cambridge,30,NA,-10,-6,-8,-6,-5,13,1,-3,7,NA
+Owen Sound,31,NA,-13,-6,-9,-27,NA,NA,NA,NA,NA,NA
+Galt,32,NA,NA,NA,-21,-6,-5,-13,NA,NA,NA,NA
+Waterloo,33,NA,NA,NA,-53,-4,5,6,0,8,12,NA
+Levis,34,NA,-18,-1,-16,NA,NA,NA,NA,NA,NA,NA
+Thunder Bay,35,21,-1,0,1,-3,-4,-8,-3,-8,-2,11
+Saint-Hyacinthe,36,-7,-6,0,6,-27,18,-23,-15,-3,-5,34
+New Westminster,37,20,-21,-2,3,-6,-6,-24,-15,NA,-4,NA
+Sorel,38,NA,NA,NA,-30,-21,28,-28,NA,NA,NA,NA
+Cornwall,39,NA,NA,NA,-19,-25,43,-26,-10,-13,-10,44
+Fredericton,40,-7,-15,1,-18,-3,8,-6,16,-6,NA,12
+Nanaimo,41,-3,-13,-8,-1,-28,-3,19,6,5,5,25
+Yarmouth,42,-8,-16,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dartmouth,43,NA,-20,3,-15,3,35,-16,-14,-12,NA,NA
+Chatham,44,5,0,-8,2,-19,7,-30,1,NA,38,-19
+Lindsay,45,NA,NA,NA,-48,NA,NA,NA,NA,NA,NA,NA
+Truro,46,-8,-11,NA,-13,NA,NA,NA,NA,NA,NA,NA
+Barrie,47,-5,-15,5,-19,16,19,-13,21,1,9,9
+Salaberry-de-Valleyfield,48,NA,NA,NA,1,-14,5,-25,NA,NA,NA,5
+Dawson,50,-12,-23,-7,NA,NA,NA,NA,NA,NA,NA,NA
+Esquimalt,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Collingwood,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cobourg,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Niagara Falls,54,14,3,3,-5,4,9,2,4,5,3,1
+Pembroke,55,NA,NA,NA,-19,-21,4,NA,NA,NA,NA,NA
+Brandon,56,10,11,-6,-3,-11,-7,NA,-37,NA,NA,34
+Calgary,57,47,2,0,-1,2,-1,-1,4,1,0,0
+Port Hope,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ingersoll,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trenton,60,NA,NA,NA,-34,NA,NA,NA,NA,NA,NA,NA
+Aylmer,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oshawa,62,17,-1,19,-1,1,3,-3,3,3,3,5
+Portage la Prairie,63,8,-13,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lachine,64,NA,30,-2,-5,1,-5,-23,-26,NA,NA,NA
+New Glasgow,65,14,-7,NA,-27,NA,2,NA,NA,NA,NA,NA
+Orillia,66,NA,NA,NA,-14,NA,-15,NA,NA,NA,NA,12
+Lauzon,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dundas,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Joliette,69,NA,NA,NA,6,-21,2,NA,NA,NA,NA,11
+Newcastle,70,NA,NA,NA,NA,NA,NA,NA,NA,-26,NA,NA
+Cote-Saint-Luc,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saint-Jerome,72,11,-18,10,-3,6,6,-26,2,-8,4,38
+Richmond Hill,73,NA,NA,NA,NA,NA,NA,-23,4,32,23,NA
+Summerside,74,11,-17,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Whitby,75,NA,1,3,NA,NA,NA,NA,-27,14,28,NA
+Wallaceburg,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Simcoe,77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Regina,78,65,-3,3,0,-2,0,-6,-1,-3,0,5
+Renfrew,79,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Glace Bay,80,56,-7,-2,0,-25,-18,4,NA,NA,NA,NA
+Sydney Mines,81,16,4,NA,-34,NA,NA,5,NA,NA,NA,NA
+Saguenay,82,26,-3,7,2,-13,49,-8,1,-7,-1,4
+Newmarket,83,16,NA,-12,NA,NA,NA,NA,NA,NA,-2,NA
+Magog,84,16,NA,-12,-7,NA,NA,NA,NA,NA,NA,NA
+Riviere du Loup,85,15,NA,-11,-9,NA,NA,NA,NA,NA,NA,NA
+Brampton,86,15,NA,-11,NA,NA,-11,49,17,4,6,NA
+Lethbridge,87,54,-15,-8,7,5,3,-20,-2,4,7,19
+Saint-Jean-sur-Richelieu,88,39,2,-7,-6,3,9,-17,-4,-7,9,21
+Sudbury,89,29,0,23,15,-8,13,-2,-7,-4,-2,9
+Welland,90,18,NA,-11,18,-27,45,-22,-13,-17,NA,43
+Drummondville,91,18,NA,-11,8,26,6,-27,-4,-3,13,25
+Saint-Vital,92,18,NA,-11,NA,NA,26,-36,NA,NA,NA,NA
+Oakville,93,18,NA,-11,NA,NA,NA,28,4,11,8,NA
+Lachute,94,18,NA,-11,NA,NA,NA,NA,NA,NA,NA,NA
+Preston,95,18,NA,-11,NA,NA,NA,NA,NA,NA,NA,NA
+Sainte-Therese,96,18,NA,-11,NA,NA,NA,NA,NA,NA,NA,NA
+Saint-Laurent,97,18,NA,-11,NA,53,NA,-17,-7,-8,5,NA
+Grand Falls,98,18,4,2,NA,NA,NA,NA,NA,NA,NA,NA
+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Verdun,NA,59,3,1,-1,-4,-9,-18,-25,-15,-4,NA
+Medicine Hat,NA,61,-30,-3,-2,-6,-4,NA,-7,-13,6,38
+Westmount,NA,20,-2,4,-6,-25,-17,NA,NA,NA,NA,NA
+Saint Boniface,NA,44,-13,0,4,-8,8,-29,NA,NA,NA,NA
+Moose Jaw,NA,37,NA,-5,0,-10,-6,NA,NA,NA,NA,-31
+Amherst,NA,40,-11,-11,-27,NA,NA,NA,NA,NA,NA,NA
+Nelson,NA,43,-23,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Prince Albert,NA,18,-11,7,1,-15,3,NA,NA,NA,NA,2
+Wetaskiwin,NA,9,-27,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kamloops,NA,26,-12,3,-30,NA,5,22,13,-4,7,18
+Prince Rupert,NA,-23,-10,3,NA,NA,NA,NA,NA,NA,NA,NA
+Red Deer,NA,0,-17,NA,NA,NA,11,NA,-8,-6,7,38
+Kalowna,NA,-40,NA,-10,NA,NA,NA,NA,NA,NA,NA,NA
+Whitehorse,NA,9,-4,-7,NA,NA,NA,NA,NA,NA,NA,NA
+d18,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d17,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d16,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d15,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d14,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d13,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d12,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d11,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d10,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d9,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d8,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d7,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d6,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d5,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d4,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d3,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitchener,NA,NA,74,5,-1,-1,9,-4,2,1,2,2
+Sault Sainte Marie,NA,NA,-17,-2,-4,-4,5,-4,-11,-5,-17,23
+Saint Catharines,NA,NA,18,3,-2,-7,13,9,-1,-2,NA,NA
+Outremont,NA,NA,-27,18,-2,-23,NA,NA,NA,NA,NA,NA
+North Bay,NA,NA,-2,7,-9,-17,19,-13,-10,-8,-8,40
+Shawinigan,NA,NA,-2,6,5,-7,19,-29,-9,-16,-13,35
+North Battleford,NA,NA,-12,4,NA,NA,NA,NA,NA,NA,NA,NA
+Swift Current,NA,NA,-5,3,NA,NA,NA,NA,NA,NA,NA,NA
+Bonavista,NA,NA,-5,0,NA,NA,NA,NA,NA,NA,NA,NA
+Harbour Grace,NA,NA,-2,-1,NA,NA,NA,NA,NA,NA,NA,NA
+Carbonear,NA,NA,0,2,NA,NA,NA,NA,NA,NA,NA,NA
+Burin,NA,NA,-5,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kelowna,NA,NA,-1,9,NA,NA,NA,33,0,2,8,9
+c13,NA,NA,-66,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c12,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c11,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c10,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c9,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c8,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c7,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c6,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c5,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c4,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c3,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+c2,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trail,NA,NA,NA,35,-20,NA,NA,NA,NA,NA,NA,NA
+Yorkton,NA,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA
+Prince George,NA,NA,NA,-5,NA,NA,NA,13,4,-14,1,31
+Abbotsford,NA,NA,NA,-52,NA,NA,NA,NA,9,33,21,9
+b5,NA,NA,NA,-73,NA,NA,NA,NA,NA,NA,NA,NA
+b4,NA,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA
+b3,NA,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA
+b2,NA,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA
+Timmins,NA,NA,NA,NA,69,-20,6,-31,-7,-17,NA,30
+Granby,NA,NA,NA,NA,11,5,-1,-23,-15,1,0,46
+Thetford Mines,NA,NA,NA,NA,-18,-13,6,NA,NA,NA,NA,NA
+Corner Brook,NA,NA,NA,NA,5,2,-8,NA,NA,NA,NA,NA
+Cap-de-la-Madeleine,NA,NA,NA,NA,0,NA,3,NA,NA,NA,NA,NA
+Forest Hill,NA,NA,NA,NA,-4,-5,NA,NA,NA,NA,NA,NA
+Victoriaville,NA,NA,NA,NA,-1,-14,7,NA,NA,NA,NA,11
+New Toronto,NA,NA,NA,NA,-9,NA,NA,NA,NA,NA,NA,NA
+New Waterford,NA,NA,NA,NA,-2,NA,NA,NA,NA,NA,NA,NA
+North Vancouver,NA,NA,NA,NA,-4,14,-4,-20,36,NA,1,NA
+Rouyn-Noranda,NA,NA,NA,NA,-28,4,30,NA,NA,NA,NA,NA
+Grand'Mere,NA,NA,NA,NA,-37,NA,NA,NA,NA,NA,NA,NA
+Mimico,NA,NA,NA,NA,-4,NA,0,NA,NA,NA,NA,NA
+Eastview,NA,NA,NA,NA,-2,21,2,NA,NA,NA,NA,NA
+La Tuque,NA,NA,NA,NA,-24,NA,NA,NA,NA,NA,NA,NA
+North York,NA,NA,NA,NA,NA,91,NA,2,-2,-1,NA,NA
+Scarborough,NA,NA,NA,NA,NA,-1,NA,0,0,0,NA,NA
+Etobicoke,NA,NA,NA,NA,NA,-2,NA,-1,0,-5,NA,NA
+East York,NA,NA,NA,NA,NA,-1,NA,-12,-6,-13,NA,NA
+Saint John,NA,NA,NA,NA,NA,26,NA,-6,-5,-4,-4,13
+Saanich,NA,NA,NA,NA,NA,-4,NA,-17,1,-3,3,NA
+Jacques-Cartier,NA,NA,NA,NA,NA,9,-1,NA,NA,NA,NA,NA
+Saint James-Assiniboia,NA,NA,NA,NA,NA,-9,NA,3,NA,NA,NA,NA
+Richmond,NA,NA,NA,NA,NA,-5,NA,-3,14,6,9,NA
+Montreal-Nord,NA,NA,NA,NA,NA,-27,NA,NA,NA,NA,NA,NA
+La Salle,NA,NA,NA,NA,NA,-25,NA,33,-7,-13,NA,NA
+East Kildonan,NA,NA,NA,NA,NA,-14,17,NA,NA,NA,NA,NA
+Leaside,NA,NA,NA,NA,NA,-24,NA,NA,NA,NA,NA,NA
+Mont-Royal,NA,NA,NA,NA,NA,-6,NA,NA,NA,NA,NA,NA
+West Kildonan,NA,NA,NA,NA,NA,-3,10,NA,NA,NA,NA,NA
+Pointe-Claire,NA,NA,NA,NA,NA,-11,18,NA,NA,NA,NA,NA
+Oak Bay,NA,NA,NA,NA,NA,-19,NA,NA,NA,NA,NA,NA
+Rimouski,NA,NA,NA,NA,NA,-1,18,NA,NA,NA,NA,20
+Burlington,NA,NA,NA,NA,NA,NA,25,-2,4,-1,1,NA
+Sainte-Foy,NA,NA,NA,NA,NA,NA,-24,9,-9,-14,0,NA
+Longueuil,NA,NA,NA,NA,NA,NA,-5,43,3,-3,-7,NA
+Alma,NA,NA,NA,NA,NA,NA,-48,NA,NA,NA,NA,NA
+Transcona,NA,NA,NA,NA,NA,NA,-5,NA,NA,NA,NA,NA
+Laval,NA,NA,NA,NA,NA,NA,NA,79,-2,0,2,NA
+Mississauga,NA,NA,NA,NA,NA,NA,NA,-5,9,0,3,NA
+Burnaby,NA,NA,NA,NA,NA,NA,NA,-18,-4,1,7,NA
+Surrey,NA,NA,NA,NA,NA,NA,NA,-10,4,6,8,NA
+Saint-Leonard,NA,NA,NA,NA,NA,NA,NA,-46,11,-19,-9,NA
+Chilliwack,NA,NA,NA,NA,NA,NA,NA,15,-3,3,7,16
+Saint-Hubert,NA,NA,NA,NA,NA,NA,NA,-43,12,5,-1,NA
+Markham,NA,NA,NA,NA,NA,NA,NA,-17,31,21,10,NA
+West Vancouver,NA,NA,NA,NA,NA,NA,NA,-63,NA,NA,NA,NA
+Pointe-aux-Trembles,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA,NA,NA
+Anjou,NA,NA,NA,NA,NA,NA,NA,-6,-4,NA,NA,NA
+Chateauguay,NA,NA,NA,NA,NA,NA,NA,3,-4,NA,NA,43
+Charlesbourg,NA,NA,NA,NA,NA,NA,NA,-40,34,-14,-2,NA
+Pierrefonds,NA,NA,NA,NA,NA,NA,NA,-19,5,-8,6,NA
+Pickering,NA,NA,NA,NA,NA,NA,NA,-8,6,16,20,NA
+Gatineau,NA,NA,NA,NA,NA,NA,NA,NA,2,0,4,NA
+Delta,NA,NA,NA,NA,NA,NA,NA,NA,-5,0,3,NA
+Beauport,NA,NA,NA,NA,NA,NA,NA,NA,-18,-4,4,NA
+Brossard,NA,NA,NA,NA,NA,NA,NA,NA,-6,-3,-2,NA
+Dollard-des-Ormeaux,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA,NA,NA
+Stoney Creek,NA,NA,NA,NA,NA,NA,NA,NA,-10,3,NA,NA
+Vaughan,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,23,NA
+Gloucester,NA,NA,NA,NA,NA,NA,NA,NA,NA,-24,NA,NA
+Nepean,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA,NA
+Coquitlam,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,12,NA
+Chatmam,NA,NA,NA,NA,NA,NA,NA,NA,NA,-18,NA,NA
+Ajax,NA,NA,NA,NA,NA,NA,NA,NA,NA,-24,18,NA
+Repentigny,NA,NA,NA,NA,NA,NA,NA,NA,NA,-25,2,NA
+St. Catharines,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,NA
+Cape Breton,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,14
+Langley,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-23,NA
+LaSalle,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-11,NA
+Strathcona County,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA
+Clarington,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA
+Kawartha Lakes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA
+Maple Ridge,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-5,NA
+Norfolk,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-3,NA
+St. Albert,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-8,NA
+Port Coquitlam,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-2,NA
+Caledon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,NA

@@ -1,0 +1,101 @@
+city,2010,city,2001,city,1991,city,1981,city,1970,city,1960,city,1950,city,1940,city,1930,city,1920,city,1910,city,1900
+Madrid,5019827,Madrid,4709703,Madrid,4507490,Madrid,4245095,Madrid,3304139,Madrid,2808810,Madrid,1618490,Madrid,1153197,Barcelona,1060275,Madrid,774096,Barcelona,616344,Madrid,539805
+Barcelona,2460258,Barcelona,2342531,Barcelona,2580750,Barcelona,2643002,Barcelona,2328442,Barcelona,1921584,Barcelona,1413744,Barcelona,1180835,Madrid,952817,Barcelona,739828,Madrid,596063,Barcelona,539145
+Valencia,1559084,Valencia,1423124,Valencia,1395112,Valencia,1324945,Valencia,1132964,Valencia,1095214,Valencia,709142,Valencia,450884,Valencia,520276,Valencia,451390,Valencia,333304,Valencia,215791
+Sevilla,899792,Sevilla,786621,Sevilla,813310,Sevilla,748942,Sevilla,611664,Sevilla,542790,Sevilla,402015,Sevilla,312200,Sevilla,228706,Sevilla,205508,Sevilla,155423,Sevilla,147313
+Zaragoza,678115,Zaragoza,614905,Zaragoza,594394,Zaragoza,571855,Zaragoza,469478,Zaragoza,422460,Malaga,276253,Malaga,208307,Malaga,188049,Malaga,150608,Malaga,133084,Malaga,131144
+Malaga,561435,Malaga,524414,Malaga,522108,Bilbao,484792,Bilbao,406000,Bilbao,365310,Zaragoza,264316,Zaragoza,205844,Zaragoza,174097,Zaragoza,141431,Murcia,125096,Murcia,111777
+Murcia,437667,Bilbao,432227,Bilbao,449793,Malaga,483847,Malaga,361237,Malaga,325080,Bilbao,229339,Bilbao,183205,Bilbao,162096,Murcia,141224,Zaragoza,105810,Cartagena,99988
+Bilbao,431608,Murcia,370745,Palmas de Gran Canaria,354877,Palmas de Gran Canaria,360098,Palmas de Gran Canaria,263474,Palmas de Gran Canaria,237060,Murcia,218444,Granada,140926,Murcia,158750,Bilbao,112839,Cartagena,97050,Zaragoza,98141
+Palma de Mallorca,402044,Palmas de Gran Canaria,354863,Valladolid,330717,Valladolid,320293,Murcia,243782,Murcia,219330,Cordoba,165455,Cordoba,116089,Granada,118754,Granada,103255,Bilbao,92580,Bilbao,82033
+Palmas de Gran Canaria,381271,Palma de Mallorca,333801,Murcia,328184,Palma de Mallorca,290372,Valladolid,234054,Valladolid,210616,Granada,154465,Valladolid,111386,Cordoba,103130,Cartagena,96995,Granada,77478,Granada,75681
+Alicante,329325,Valladolid,316580,Cordoba,302154,Murcia,284585,Cordoba,232326,Cordoba,209070,Palmas de Gran Canaria,153367,Palmas de Gran Canaria,97990,Cartagena,102538,Palma de Mallorca,77442,Lorca,73069,Valladolid,71069
+Cordoba,328326,Cordoba,308072,Palma de Mallorca,296754,Cordoba,279386,Palma de Mallorca,217578,Palma de Mallorca,195750,Vigo,137983,Palma de Mallorca,97028,Valladolid,91135,Valladolid,76825,Palma de Mallorca,68468,Lorca,69978
+Valladolid,311682,Alicante,284580,Vigo,276109,Vigo,261331,Vigo,198859,Vigo,178920,Palma de Mallorca,136822,Coruna,92226,Palma de Mallorca,88400,Cadiz,76716,Valladolid,67749,Cadiz,69234
+Vigo,295623,Vigo,280186,Alicante,265473,Gijon,256433,Coruna,189542,Coruna,170550,Coruna,133823,Donostia-San Sebastian,89302,Santander,85181,Lorca,74739,Cadiz,67293,Palma de Mallorca,63959
+Gijon,276969,Gijon,266419,Gijon,259067,Granada,246642,Granada,186245,Granada,167580,Valladolid,124215,Cadiz,87616,Donostia-San Sebastian,78413,Cordoba,73729,Santander,65234,Jerez de la Frontera,60813
+Coruna,245053,Granada,240661,Granada,255212,Alicante,245963,Gijon,184795,Gijon,166230,Donostia-San Sebastian,113880,Santander,85074,Palmas de Gran Canaria,78316,Santander,72543,Cordoba,65201,Cordoba,56104
+Granada,241003,Coruna,236379,Coruna,246953,Coruna,231721,Alicante,181689,Alicante,163440,Cartagena,113251,Alicante,83117,Gijon,78275,Oviedo,69413,Jerez de la Frontera,62671,Santander,54384
+Vitoria-Gasteiz,240753,Vitoria-Gasteiz,216852,Vitoria-Gasteiz,206116,Vitoria-Gasteiz,189533,Donostia-San Sebastian,161320,Donostia-San Sebastian,145170,Gijon,111043,Melilla,77281,Cadiz,75857,Palmas de Gran Canaria,66545,Palmas de Gran Canaria,53878,Alicante,50564
+Elche,227417,Oviedo,201154,Santa Cruz de Tenerife,200172,Sabadell,186123,Sabadell,158345,Sabadell,142470,Jerez de la Frontera,107878,Gijon,72114,Oviedo,75503,Jerez de la Frontera,64900,Santa Cruz de Tenerife,53406,Oviedo,48417
+Oviedo,225005,Elche,194767,Oviedo,196051,Santa Cruz de Tenerife,185899,Oviedo,152522,Oviedo,137250,Oviedo,106048,Salamanca,71789,Coruna,74308,Alicante,63919,Oviedo,52968,Almeria,47253
+Cartagena,215757,Santa Cruz de Tenerife,188477,Santander,191079,Oviedo,184473,Jerez de la Frontera,149325,Jerez de la Frontera,134370,Alicante,104256,Almeria,69833,Alicante,73111,Linea de la Concepcion,63232,Gijon,52248,Gijon,46869
+Terrassa,214406,Cartagena,184686,Sabadell,189404,Santander,179694,Santander,148813,Santander,133920,Santa Cruz de Tenerife,103493,Jerez de la Frontera,65235,Jerez de la Frontera,72132,Coruna,62078,Alicante,51216,Palmas de Gran Canaria,44516
+Jerez de la Frontera,211784,Pamplona,183964,Elche,188062,Pamplona,177906,Iruna,145036,Iruna,130578,Santander,102586,Albacete,64277,Vigo,65004,Donostia-San Sebastian,61842,Donostia-San Sebastian,47985,Coruna,40551
+Sabadell,206949,Sabadell,183788,Jerez de la Frontera,183316,Jerez de la Frontera,171283,Cartagena,143511,Cartagena,129150,Cadiz,100271,Iruna,61291,Santa Cruz de Tenerife,62187,Gijon,57647,Coruna,45737,Donostia-San Sebastian,37729
+Santa Cruz de Tenerife,204476,Jerez de la Frontera,183273,Pamplona,180372,Donostia-San Sebastian,169233,Santa Cruz de Tenerife,142354,Santa Cruz de Tenerife,128070,Melilla,81280,Vallecas,60631,Lorca,60317,Vigo,53161,Almeria,45230,Linares,37715
+Pamplona,195943,Santander,180717,Donostia-San Sebastian,171439,Cartagena,167936,Terrassa,137061,Terrassa,123356,Salamanca,80250,Burgos,60461,Almeria,54091,Santa Cruz de Tenerife,52491,Vigo,41587,Santa Cruz de Tenerife,35176
+Almeria,189680,Donostia-San Sebastian,178377,Cartagena,168023,Elche,164779,Cadiz,134387,Cadiz,120870,Badajoz,79304,Murcia,60109,Ceuta,50616,Almeria,50293,Linares,36417,Vitoria-Gasteiz,32645
+Donostia-San Sebastian,185512,Terrassa,173775,Salamanca,162888,Cadiz,156711,Vitoria-Gasteiz,133068,Vitoria-Gasteiz,119789,Ferrol,77083,Ferrol,59830,Salamanca,46961,Mieres,40618,Lugo,35796,Antequera,31783
+Burgos,178864,Almeria,166328,Burgos,160278,Terrassa,155614,Elche,123765,Elche,111330,Almeria,76521,Ceuta,59144,Sabadell,45693,Linares,40044,Orihuela,35222,Alcoi,31676
+Santander,178095,Burgos,166187,Terrassa,158063,Salamanca,153981,Salamanca,122278,Salamanca,109980,Burgos,74153,Huelva,56488,Huelva,44937,Lleida,38218,Alcoi,33788,Burgos,31488
+Castello de la Plana,176298,Salamanca,156368,Almeria,155120,Burgos,152545,Burgos,116873,Burgos,105120,Iruna,72409,Badajoz,55911,Badajoz,43759,Badajoz,38078,Castello de la Plana,33358,Badajoz,31215
+Albacete,171999,Albacete,148934,Cadiz,154347,Almeria,140745,Almeria,114310,Almeria,102870,Albacete,71824,Jaen,54666,Melilla,43154,Sabadell,37520,Badajoz,33232,Iruna,30637
+Logrono,152698,Castello de la Plana,147667,Leon,144021,Huelva,127822,Barakaldo,109299,Barakaldo,98280,Lorca,71052,Santa Cruz de Tenerife,53765,Mieres,42814,Orihuela,37598,Vitoria-Gasteiz,32431,Castello de la Plana,30057
+San Cristobal de la Laguna,152025,Huelva,142284,Huelva,142547,Leon,127095,Leon,105289,Leon,94680,Huelva,63604,Mieres,52041,Alcoi,42585,Alcoi,36508,Antequera,32200,San Fernando,29859
+Salamanca,151658,Badajoz,133519,Castello de la Plana,134213,Castello de la Plana,124487,Badajoz,100652,Badajoz,90540,Jaen,61625,Oviedo,51439,Iruna,42304,Vitoria-Gasteiz,34840,Burgos,31565,La Union,28579
+Badajoz,151214,Cadiz,133363,Albacete,130023,Barakaldo,114462,Huelva,96383,Huelva,86670,Ceuta,59995,Vitoria-Gasteiz,49814,Linares,42279,Castello de la Plana,34518,Elche,30710,Orihuela,28390
+Huelva,147808,Logrono,133058,Logrono,122254,Albacete,113897,Albacete,93198,Albacete,83790,Sabadell,59564,Santiago de Compostela,49220,Albacete,41976,Huelva,34466,Linea de la Concepcion,30073,Lugo,28002
+Lleida,137283,Leon,130916,Badajoz,122225,Logrono,109536,Castello de la Plana,92858,Castello de la Plana,83520,Leon,59548,Sabadell,47816,Vitoria-Gasteiz,40658,Langreo,34097,Salamanca,29859,Linea de la Concepcion,27758
+Marbella,135124,San Cristobal de la Laguna,128822,Lleida,112093,Tarragona,109112,Lleida,88929,Lleida,80010,Terrassa,58906,Linares,47640,Burgos,40150,Jaen,33483,La Union,29693,Elche,27475
+Tarragona,133223,Tarragona,113129,San Cristobal de la Laguna,110895,Badajoz,107136,Logrono,82841,Logrono,74520,Mieres,58357,Castello de la Plana,46989,Terrassa,40026,Elche,33245,Iruna,29538,Estrada,26810
+Leon,131411,Jaen,112590,Tarragona,110153,Lleida,106814,Aviles,82483,Jaen,74160,Elche,55992,Elche,46605,Jaen,39849,Tortosa,33016,Jaen,29293,Valdes,26777
+Cadiz,124014,Lleida,112199,Barakaldo,105088,San Cristobal de la Laguna,106146,Ferrol,80242,Ferrol,72180,Ourense,55616,Logrono,46291,Langreo,39898,Iruna,32662,Huelva,29108,Tarragona,26345
+Mataro,123367,Ourense,107510,Jaen,103260,Mataro,97008,Algeciras,80083,Algeciras,72018,Santiago de Compostela,55639,Alcoi,45801,Lleida,38925,Salamanca,32463,Sabadell,28398,Ferrol,26351
+Algeciras,117695,Mataro,106358,Ourense,102758,Jaen,95783,San Cristobal de la Laguna,77785,Santiago de Compostela,69930,Linea de la Concepcion,55110,Terrassa,45150,Orihuela,38700,Burgos,32300,Mieres,28320,Reus,26236
+Jaen,116469,Algeciras,101468,Mataro,101510,Ourense,94346,Jaen,77396,Ourense,65790,Langreo,54344,Leon,44890,Santiago de Compostela,38380,Albacete,32098,Tortosa,27594,Jaen,25665
+Ourense,107314,Marbella,100036,Algeciras,101256,Aviles,87996,Tarragona,77331,Lorca,65720,Lugo,53708,Vigo,44300,Castello de la Plana,36881,Antequera,31550,Cuevas de Vera,26543,Salamanca,25040
+Reus,106849,Barakaldo,94478,Santiago de Compostela,87807,Ferrol,87691,Mataro,73191,Mieres,59310,Castello de la Plana,53310,Langreo,43823,Tortosa,35938,Terrassa,30600,Ferrol,26370,Tortosa,24390
+Telde,101080,Santiago de Compostela,90188,Reus,87670,Algeciras,85390,Ourense,73168,Lugo,57240,Lleida,52890,Orihuela,43669,Ferrol,35613,Ferrol,30429,Langreo,25696,Santiago de Compostela,24223
+Barakaldo,100064,Reus,89006,San Fernando,85410,Santiago de Compostela,82404,Mieres,65918,Ceuta,56340,Linares,52833,Cartagena,43190,Linea de la Concepcion,35481,Ronda,30491,San Fernando,25643,Sanlucar de Barrameda,23764
+Lugo,98001,Lugo,88414,Aviles,85351,Reus,79245,Santiago de Compostela,65387,Alcoi,54990,Algeciras,52712,Lugo,42860,Logrono,34359,Reus,30367,Siero,25639,Cangas del Narcea,23792
+San Fernando,96786,San Fernando,88073,Lugo,83242,Lugo,72574,Lugo,63616,Melilla,54720,Vitoria-Gasteiz,52245,Lleida,41560,Ronda,33281,Ecija,29930,Reus,25205,Velez-Malaga,23585
+Girona,96113,Telde,87949,Ferrol,83045,San Fernando,72103,Ceuta,62645,Langreo,53550,Logrono,52050,Caceres,39286,Antequera,33097,Vallecas,28465,Albacete,24841,Sabadell,23492
+Caceres,95616,Aviles,83185,Marbella,80599,Palencia,71716,Alcoi,61144,Manresa,52290,Tortosa,45779,San Fernando,38651,Manresa,32200,Lugo,28349,Santiago de Compostela,24762,Toledo,23475
+Santiago de Compostela,95397,Caceres,82716,Palencia,77863,Manresa,67007,Melilla,60892,San Fernando,51480,Caceres,45473,Ourense,38641,Barakaldo,31577,Tarragona,27974,Lleida,24600,Manresa,23465
+Lorca,91849,Palencia,79797,Telde,77356,Alcoy,66396,Lorca,60389,Palencia,51120,Orihuela,45099,Lavadores,38503,Reus,31273,Manresa,27328,Ecija,24552,Mazarron,23479
+Torrevieja,90097,Ferrol,77950,Caceres,74589,Caceres,65758,Reus,59935,Caceres,49770,Alcoi,43901,Tortosa,38337,Lugo,31182,Siero,27234,Velez-Malaga,24390,Tineo,23441
+El Puerto de Santa Maria,89012,Lorca,77477,Pontevedra,71491,Ceuta,65264,Langreo,59563,Puertollano,48330,Antequera,43395,Antequera,37591,Pontevedra,30828,Sanlucar de Barrameda,27104,Pontevedra,24290,Vigo,23173
+Talavera de la Reina,87676,El Puerto de Santa Maria,76236,Talavera de la Reina,68764,Talavera de la Reina,64840,Manresa,58176,Pontevedra,47916,Pontevedra,43223,Pontevedra,37021,Tarragona,30771,San Fernando,27080,Estrada,24207,Ecija,23114
+Roquetas de Mar,86799,Talavera de la Reina,75369,Girona,68656,Pontevedra,64184,San Fernando,57279,Linea de la Concepcion,47430,Barakaldo,42287,Manresa,36438,Ecija,29958,Barakaldo,26913,Tineo,24079,Pontevedra,22866
+Guadalajara,84404,Pontevedra,74942,Ceuta,67615,Girona,63308,Palencia,56801,Linares,46710,Palencia,41819,Barakaldo,36241,Leon,29351,Pontevedra,26955,Logrono,24000,Siero,22750
+Toledo,83872,Girona,74879,Manresa,66320,Telde,62509,Caceres,55354,Orihuela,44847,San Cristobal de la Laguna,41759,Tarragona,35698,San Fernando,29212,Logrono,26843,Ceuta,24000,Albacete,21472
+Ceuta,83517,Ceuta,71505,Lorca,65919,Lorca,61879,Puertollano,53785,Zamora,43830,Ecija,41754,Linea de la Concepcion,35196,Velez-Malaga,27654,Melilla,26090,Valdepenas,23699,Lleida,21450
+Aviles,82938,Toledo,68382,El Puerto de Santa Maria,65517,Marbella,60172,Linea de la Concepcion,52760,Tortosa,43311,San Fernando,41260,Ecija,34953,Toledo,27462,Santiago de Compostela,25985,Villaviciosa,23373,Lucena,21311
+Pontevedra,82346,Guadalajara,68248,Alcoy,65514,Zamora,58560,Pontevedra,52609,Girona,42930,Manresa,40518,Toledo,34649,Sanlucar de Barrameda,26924,Estrada,25573,Tarragona,23342,Villaviciosa,21126
+Melilla,81323,Melilla,66411,Zamora,64476,La Linea de la Concepcion,56609,Linares,51996,Utrera,41113,Toledo,40231,Palencia,34378,Yecla,26465,Toledo,25344,Luarca,23270,Huelva,20966
+Palencia,81089,Zamora,64845,Guadalajara,63649,Torrelavega,56490,Zamora,48783,Sagunt,40340,Tarragona,38810,Reus,33316,Valdepenas,26073,Yecla,25326,Cangas del Narcea,23143,Ronda,20854
+El Ejido,80839,Manresa,63981,Torrelavega,60023,El Puerto de Santa Maria,55748,Girona,47746,Toledo,39780,Zamora,38307,San Cristobal de la Laguna,33098,Caceres,25902,Valdepenas,25283,Yecla,22985,Valdepenas,20799
+Chiclana de la Frontera,80769,Ciudad Real,63251,Ponferrada,59948,Sagunt,55294,Portugalete,45657,Elda,37260,Reus,36062,Ciudad Real,32937,Mataro,24068,Lavadores,25206,Mazarron,22963,Cuevas de Vera,20643
+Getxo,80252,Ponferrada,62175,Toledo,59802,Linares,55122,Orihuela,44811,Ponferrada,37170,Lucena,35814,Sanlucar de Barrameda,32808,Palencia,23940,Velez-Malaga,24906,Alzira,22758,Alzira,19934
+Orihuela,79889,Rubi,61159,Linares,59249,Toledo,54335,Toledo,44241,Ciudad Real,36967,Sanlucar de Barrameda,35408,Lucena,32700,Ciudad Real,23414,La Union,24835,Ronda,22713,Mataro,19719
+Gandia,77595,Chiclana de la Frontera,61028,La Linea de la Concepcion,58315,Ponferrada,53763,Elda,41500,Segovia,36720,Puertollano,34969,Zamora,32500,Guadix,22043,Ceuta,24289,Terrassa,22703,Puerto de Santa Maria,19468
+Velez-Malaga,76922,Sanlucar de Barrameda,60254,Ciudad Real,57030,Melilla,53593,Ciudad Real,41014,Talavera de la Reina,35910,Utrera,34990,Ubeda,31199,Girona,21839,Mataro,24175,San Roque,22614,Ubeda,19410
+Manresa,76311,Gandia,59850,Melilla,56615,Irun,53334,Segovia,40885,Tarragona,35761,Ciudad Real,34205,Siero,30996,Ourense,21667,Luarca,24172,Sanlucar de Barrameda,22388,Loja,19147
+Ciudad Real,75071,La Linea de la Concepcion,59437,Cerdanyola del Valles,56612,Elda,53128,Talavera de la Reina,39918,Velez-Malaga,35128,Siero,32700,Utrera,30437,Zamora,21670,Cangas del Narcea,23759,Toledo,22346,Ortigueira,19001
+Rubi,74321,Alcoy,58358,Sanlucar de Barrameda,56006,Guadalajara,52313,Velez-Malaga,38532,Irun,34254,Mataro,31658,Valdepenas,30454,Cangas del Narcea,21215,Caceres,23633,Manresa,22200,Logrono,18994
+Mijas,74028,El Ejido,57877,Sagunt,55457,Segovia,50759,Irun,38068,Merida,33210,Velez-Malaga,31618,Velez-Malaga,29636,Algeciras,19630,Llanes,23374,Ubeda,22165,Langreo,18866
+Rivas-Vaciamadrid,73865,Linares,57578,Segovia,54375,Ciudad Real,50151,Sestao,37339,Eibar,33030,Ronda,31043,Girona,28812,Segovia,18167,Lucena,23034,Mataro,21947,Llanes,18844
+Ferrol,71690,Velez-Malaga,57142,Elda,54350,Gandia,48558,Merida,36961,Puerto de Santa Maria,32850,Puente Genil,30588,Tomelloso,28505,San Cristobal de la Laguna,17780,Ubeda,23098,Llanes,21851,Yecla,18729
+Majadahonda,69587,Viladecans,56841,Irun,53276,Sanlucar de Barrameda,48390,Eibar,36781,Reus,32028,Martos,30463,Puerto de Santa Maria,28352,Guadalajara,16100,Carmona,22184,Lavadores,21158,Motril,18548
+Valdemoro,69354,Irun,56601,Granollers,51873,Granollers,45348,Puerto de Santa Maria,36574,Cuenca,30240,Loja,30332,Mataro,27668,Alzira,16014,Leon,21464,Lucena,21079,Mahon,18047
+Ponferrada,68383,Sagunt,56471,Gandia,51806,Orihuela,44776,Siero,35993,Mataro,29955,Ubeda,30246,Plasencia,25179,Mahon,16057,Tomelloso,21404,Ortigueira,20222,Mieres,17935
+Benidorm,68045,Torrelavega,55477,Velez-Malaga,50999,Rubi,43839,Vilanova i la Geltru,35784,Ecija,29391,Tomelloso,30176,Lorca,24557,Baza,16030,Utrera,21318,Puerto de Santa Maria,19748,Lalin,17956
+Sanlucar de Barrameda,67232,Orihuela,54390,Rubi,50405,Vilanova i la Geltru,43833,Cuenca,33631,Moron de la Frontera,29166,Moron de la Frontera,30107,Segovia,24360,Manzanares,16080,Don Benito,21052,Leon,19260,Osuna,17822
+Paterna,66853,Segovia,54368,Orihuela,49475,Viladecans,43358,Guadalajara,31687,Ubeda,29047,Guadix,30142,Aller,23681,Cuenca,15687,Alzira,20874,Mahon,18021,Grado,17435
+Molina de Segura,66771,Vilanova i la Geltru,54230,Merida,49284,Velez-Malaga,41937,Huesca,31671,Huesca,28440,Hellin,30068,Alcazar de San Juan,23178,Avila,15215,Villaviciosa,20799,Palencia,17685,Leon,17056
+Santa Lucia de Tirajana,66725,Cerdanyola del Valles,53343,Pozuelo de Alarcon,48328,Huesca,41455,Gandia,30752,Antequera,28486,Segovia,29683,Cuenca,23010,Merida,15002,Loja,20543,Girona,17364,Don Benito,16701
+Torremolinos,66270,Granollers,53105,Viladecans,48294,Merida,41027,Alzira,30517,Tomelloso,27785,Alcala la Real,29269,Andujar,22916,Huesca,14670,Cuevas de Vera,20453,Caceres,16966,Martos,16736
+Vilanova i la Geltru,66074,Benidorm,51873,Chiclana de la Frontera,46862,Motril,40506,Avila,30185,Avila,27090,Girona,28957,Merida,22479,Teruel,13640,Jumilla,20336,Zamora,16089,Priego de Cordoba,16784
+Sagunt,65813,Elda,51593,Motril,46500,Siero,40350,Granollers,30172,Alcazar de San Juan,27090,Andujar,28530,Puente Genil,22315,Figueres,13023,Puertollano,20186,Ourense,16024,Villarreal,16521
+Zamora,65417,Motril,51298,Avila,45977,Avila,40173,Villarreal,29552,Sanlucar de Barrameda,26550,Puerto de Santa Maria,28368,Puertollano,22167,Xativa,13010,Ciudad Real,20031,Utrera,15111,Zamora,16438
+Linea de la Concepcion,65412,Torrevieja,50953,Vilanova i la Geltru,45864,Cerdanyola del Valles,40078,Sanlucar de Barrameda,29522,Miranda de Ebro,26460,Estrada,28231,Aranjuez,21809,Igualada,12526,Palencia,19770,Segovia,15092,Andujar,16448
+Viladecans,64999,Majadahonda,50683,Huesca,44165,Cuenca,40007,Miranda de Ebro,29483,Carmona,26472,Penarroya-Pueblonuevo,27227,Guadalajara,21542,Eibar,12089,Algeciras,19034,Baena,14519,Carmona,16333
+Estepona,64468,Merida,50271,Siero,44033,Utrera,38097,Aranjuez,28600,Aranjuez,26002,Carmona,27126,Tineo,21301,Calatayud,12056,Puerto de Santa Maria,19017,Baeza,14451,Requena,16380
+Castelldefels,61858,Roquetas de Mar,50096,Utrera,43220,Chiclana de la Frontera,36492,Utrera,28350,Vilanova i la Geltru,25774,Priego de Cordoba,27168,Almendralejo,21126,La Union,11864,Girona,19029,Aranjuez,13037,Terrassa,15989
+Benalmadena,61394,Avila,49712,Cuenca,42442,Aranjuez,35619,Ubeda,28300,Sestao,25043,Sagunt,26952,Alzira,21097,Bermeo,10562,Ortigueira,19007,Pozoblanco,12821,Alcala la Real,15969
+Collado Villalba,60964,Fuengirola,49675,El Ejido,41374,Mollet del Valles,35480,Antequera,28000,Puente Genil,24813,Valdepenas,26037,Carmona,21036,Soria,10120,Ourense,18056,Trujillo,12553,Jumilla,15917
+Irun,60747,Siero,47890,Paterna,41081,Villarreal,34923,Igualada,27900,Valdepenas,24661,Aller,25553,Don Benito,20626,Plasencia,10049,Zamora,18007,Merida,11271,Aguilas,15849
+Alcoy,60716,Santa Lucia de Tirajana,47652,Mollet del Valles,40877,Paterna,32613,San MartIn del Rey Aurelio,27342,Andujar,23913,Alcazar de San Juan,25100,Algeciras,20227,Tudela,10002,Mahon,17096,Teruel,10900,Caravaca de la Cruz,15861
+Motril,60460,Mollet del Valles,47270,Villarreal,37927,Molina de Segura,31515,Ecija,27300,Irun,29800,Arucas,25000,Villaviciosa,20280,Ripoll,10011,Segovia,16010,Melilla,9027,Huercal-Overa,15847
+Granollers,59571,Collado Villalba,47001,Molina de Segura,37806,Pozuelo de Alarcon,29756,Plasencia,26900,Toledo,29400,Alzira,24900,a1,1,Orotava,9244,b1,1,c1,1,Girona,15700
