@@ -82,7 +82,7 @@ Renfrew,2607,Saint-Laurent,1703,Saint-Jerome,3328,Newmarket,2192,Fredericton,101
 Glace Bay,2531,Grand Falls,1688,Summerside,3256,Magog,2131,Orillia,9894,East Kildonan,18671,Saint-Thomas,22561,Fredericton,37730,Red Deer,46402,Brossard,64869,Hull ,66246,Bowmanville-Newcastle,35168
 Sydney Mines,2526,Kalowna,1661,Burin,2784,Riviere du Loup,2128,Barrie,9748,Woodstock,18219,Rimouski,22452,Salaberry-de-Valleyfield,37473,Timmins,46148,North Bay,63363,Newmarket ,65788,Campbell River,33448
 Saguenay,2364,Whitehorse,755,Kelowna,2520,Brampton,2122,New Toronto,9584,Fredericton,18092,Joliette,22294,Saint-Hubert,36984,Welland,45467,Shawinigan,61754,Brossard ,65026,Moose Jaw,32546
-Newmarket,2192,d18,18,Red Deer,2346,Welland,2004,Trail,9469,Cornwall,18002,New Glasgow,22017,Markham,36714,Charlottetown,45069,Verdun,61356,Maple Ridge ,63169,Sydney,31597
+Newmarket,2192,Brockville,9374,Red Deer,2346,Welland,2004,Trail,9469,Cornwall,18002,New Glasgow,22017,Markham,36714,Charlottetown,45069,Verdun,61356,Maple Ridge ,63169,Sydney,31597
 Magog,2131,d17,17,Wetaskiwin,2104,Drummondville,2001,New Waterford,9323,Joliette,16917,Victoriaville,21785,West Vancouver,36423,Saint-Jerome,43569,Whitby,61329,Charlottetown,62539,Orillia,30546
 Riviere du Loup,2128,d16,16,Dawson,1088,Saint-Vital,1896,New Glasgow,9248,Rouyn-Noranda,16875,Waterloo,21411,Pointe-aux-Trembles,35662,Abbotsford,42007,Hull,60734,Medicine Hat ,60924,Stratford,30516
 Brampton,2122,d15,15,Whitehorse,353,Oakville,1840,Waterloo,9070,Owen Sound,16712,West Kildonan,21052,Saint-Jerome,35374,Chatham,41041,Red Deer,58149,Norfolk ,60847,Orangeville,29007
@@ -99,7 +99,8 @@ Sainte-Therese,1727,d5,5,c4,4,b4,4,Mimico,8140,West Kildonan,15201,Mimico,18260,
 Saint-Laurent,1703,d4,4,c3,3,b3,3,Kamloops,8099,Pointe-Claire,15199,Nanaimo,18091,Charlottetown,32063,Stoney Creek,36828,Pierrefonds,48776,Caledon ,50595,Midland,23791
 Grand Falls,1688,d3,3,c2,2,b2,2,Eastview,8040,Oak Bay,14757,Brockville,17731,North Vancouver,31809,Whitby,36736,Timmins,47460,Saint-Hyacinthe,50390,Bradford,23024
 ,,,,,,,,La Tuque,7942,Rimouski,14300,,,Pickering,31749,Brandon,36240,Welland,46934,Cornwall ,49640,Innisfil,20365
-,,,,,,,,,,,,,,Woodstock,26173,Belleville,34881,Belleville,37243,Saint-Thomas,33236,Innisfil,20365
+,,,,,,,,,,Brockville,12301,,,Woodstock,26173,Belleville,34881,Belleville,37243,Saint-Thomas,33236,Innisfil,20365
 ,,,,,,,,,,,,,,Saint-Thomas,24561,Woodstock,26603,Saint-Thomas,30332,Sydney,32496,Cochrane,17433
-,,,,,,,,,,,,,,Stratford,24508,Stratford,26262,Woodstock,30075,Woodstock,32253,,
-,,,,,,,,,,,,,,,,Saint-Thomas,25143,Stratford,27666,Stratford,29676,,
+,,,,,,,,,,,,,,Stratford,24508,Stratford,26262,Woodstock,30075,Woodstock,32253,Brockville,21870
+,,,,,,,,,,,,,,Brockville,18547,Saint-Thomas,25143,Stratford,27666,Stratford,29676,,
+,,,,,,,,,,,,,,,,Brockville,19896,Brockville,21582,Brockville,21375,,
