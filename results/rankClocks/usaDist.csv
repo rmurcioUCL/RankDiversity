@@ -1,162 +1,148 @@
-,2010,2000,c1990,c1980,c1970,c1960,c1950,c1940,c1930,c1920,c1910,c1900
+,c1900,c1910,c1920,c1930,c1940,c1950,c1960,c1970,c1980,c1990,2000,2010
 New York,0,0,0,0,0,0,0,0,0,0,0,0
-Los Angeles,1,0,0,-1,0,0,-1,-1,0,-4,-8,-16
-Chicago,2,0,0,1,0,0,0,0,0,0,0,0
-Houston,3,0,0,-1,-1,-1,-7,-7,-5,-19,-15,-4
-Philadelphia,4,0,0,1,0,0,1,0,0,0,0,0
-Phoenix,5,0,-3,0,-11,-9,-65,NA,NA,NA,NA,NA
-San Antonio,6,-2,-1,-1,-4,-2,-8,-11,-2,-3,-9,-6
-San Diego,7,1,1,-2,-6,-4,-13,-12,-10,-24,-14,NA
-Dallas,8,1,0,1,-1,-6,-8,-9,-2,-9,-10,-14
-San Jose,9,-1,0,-6,-14,-26,NA,NA,NA,NA,NA,-41
-Austin,10,-5,-11,-15,-14,-11,-7,-17,NA,NA,NA,-5
-Jacksonville,11,-2,-1,-4,-4,-37,11,1,-14,-5,-5,-15
-San Francisco,12,0,-1,1,0,1,1,-1,2,-2,2,1
-Indianapolis,13,2,0,0,1,-15,3,3,-1,0,-1,1
-Columbus,14,0,-1,-4,-1,-7,0,2,-2,0,-1,2
-Fort Worth,15,-11,-1,-5,0,-1,-4,-9,-1,-11,-3,-27
-Charlotte,16,-9,-9,-12,-13,2,-13,-12,-5,NA,NA,NA
-Seattle,17,-6,3,-2,1,3,0,-3,2,0,-1,-23
-Denver,18,-6,-1,2,-1,2,-1,0,-5,4,-2,2
-El Paso,19,-3,1,-6,-17,0,-32,-11,10,3,-17,NA
-Detroit,20,11,3,1,1,0,0,1,0,0,-4,-4
-Washington,21,1,2,4,6,0,0,-2,-3,0,-1,1
-Boston,22,3,0,-1,5,3,3,1,0,2,2,0
-Memphis,23,6,0,4,-3,-5,-4,-6,-4,-4,3,3
-Nashville-Davidson,24,3,-1,-2,-5,-44,18,5,0,-1,9,0
-Portland,25,-2,-2,-5,0,3,3,2,2,1,-4,-10
-Oklahoma City,26,-2,0,-2,-6,1,-9,3,-1,-25,-2,NA
-Las Vegas,27,-5,-30,-26,NA,NA,NA,NA,NA,NA,NA,NA
-Baltimore,28,12,4,3,3,1,0,-1,-1,0,1,1
-Louisville,29,-36,8,9,10,8,1,5,1,-5,5,6
-Milwaukee,30,12,2,1,4,1,-2,0,1,-1,2,-2
-Albuquerque,31,-3,-3,-6,-14,-1,NA,NA,NA,NA,NA,NA
-Tucson,32,3,-3,-12,-8,-1,NA,NA,NA,NA,NA,NA
-Fresno,33,-3,-10,-18,-19,-7,NA,NA,NA,NA,NA,NA
-Sacramento,34,-5,-1,-11,-3,-8,-6,-10,-4,0,1,-3
-Kansas City,35,0,5,4,1,-1,7,1,0,0,-1,-2
-Long Beach,36,3,2,-6,-3,-10,-9,-3,NA,NA,NA,NA
-Mesa,37,-4,-11,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Atlanta,38,0,3,7,2,3,-9,5,-4,-1,2,-8
-Colorado Springs,39,-8,-6,-12,NA,NA,NA,NA,NA,NA,NA,-33
-Virginia Beach,40,3,1,-19,-23,NA,NA,NA,NA,NA,NA,NA
-Raleigh,41,-20,-13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Omaha,42,-1,-4,0,8,0,0,1,0,5,-6,8
-Miami,43,-3,1,5,-1,-1,2,-8,-23,NA,NA,NA
-Oakland,44,4,2,-4,5,5,6,-2,-1,-1,-1,-16
-Minneapolis,45,1,3,8,2,7,8,1,1,-3,0,-1
-Tulsa,46,4,0,6,-6,-6,-2,-11,6,-25,NA,NA
-Wichita,47,-2,-1,0,0,1,-7,-14,0,-9,6,-18
-New Orleans,48,18,6,3,3,4,-1,1,-1,-1,3,3
-Arlington,49,-3,-8,-33,17,4,12,NA,NA,NA,NA,NA
-Cleveland,50,19,8,6,8,2,1,1,0,1,-1,-1
-Honolulu CDP,51,6,2,8,-8,2,-1,-3,-13,-12,-4,6
-Bakersfield,52,-16,-28,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Tampa,53,-3,2,2,3,3,-37,6,-2,-17,2,NA
-Aurora,54,-6,-11,-25,NA,NA,NA,NA,NA,NA,NA,4
-Anaheim,55,1,-4,-4,-19,NA,NA,NA,NA,NA,NA,NA
-Santa Ana,56,6,-1,-17,-18,NA,NA,NA,NA,NA,NA,NA
-Corpus Christi,57,-2,-4,4,-2,-13,-17,NA,NA,NA,NA,NA
-Riverside,58,-8,-1,-16,-13,NA,NA,NA,NA,NA,NA,NA
-Saint Louis,59,11,15,8,8,8,2,0,1,1,2,0
-Lexington-Fayette,60,-3,-6,2,NA,NA,NA,NA,NA,NA,-30,8
-Stockton,61,-8,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Pittsburgh,62,11,12,10,6,8,4,2,-1,1,-6,0
-Saint Paul,63,5,2,3,8,7,4,2,2,1,4,3
-Anchorage,64,0,-4,-9,NA,NA,NA,NA,NA,NA,NA,NA
-Cincinnati,65,12,9,13,3,8,3,1,0,1,4,2
-Henderson,66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Greensboro,67,-9,-11,-12,4,-4,NA,NA,NA,NA,NA,NA
-Plano,68,-9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Newark,69,7,7,10,10,6,9,3,0,3,2,-2
-Toledo,70,15,7,9,6,-4,2,2,7,1,-4,4
-Lincoln,71,-4,-5,0,-11,-4,-3,4,0,2,9,17
-Orlando,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Chula Vista,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Jersey City,74,3,5,6,7,8,9,7,7,1,3,2
-Chandler,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Fort Wayne,76,-7,-15,19,8,-7,6,4,0,0,-2,9
-Buffalo,77,20,8,11,11,8,5,1,1,2,2,1
-Durham,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-St. Petersburg,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Irvine,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Laredo,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Lubbock,82,-7,3,8,-14,-2,NA,NA,NA,NA,NA,NA
-Madison,83,1,1,-1,5,-19,NA,NA,NA,NA,NA,NA
-Gilbert,84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Norfolk,85,13,11,7,8,6,-7,-12,-1,7,-12,5
-Reno,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-WinstonñSalem,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Glendale,88,9,-12,NA,NA,NA,NA,-2,NA,NA,NA,NA
-Hialeah,89,15,-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Garland,90,9,-9,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Scottsdale,91,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Irving,92,-7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Chesapeake,93,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-North Las Vegas,94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Fremont,95,11,-13,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Baton Rouge,96,23,1,11,-21,2,-1,NA,NA,NA,NA,NA
-Richmond,97,3,19,12,7,5,6,1,1,7,-1,-4
-Boise,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-San Bernardino,99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-Saint Petersburg,NA,32,3,7,-3,-8,NA,NA,NA,NA,NA,NA
-Birmingham,NA,-2,11,10,2,13,1,-1,1,-2,0,-35
-Rochester,NA,-8,13,9,8,12,5,9,1,-1,-2,1
-Akron,NA,-57,10,12,7,8,5,1,3,3,-33,0
-Montgomery,NA,-22,1,10,NA,-14,-5,-5,0,NA,6,12
-Shreveport,NA,-6,11,10,-2,-8,-4,-4,-8,NA,NA,NA
-Augusta-Richmond County,NA,4,NA,NA,NA,NA,NA,NA,NA,-7,8,20
-Mobile,NA,-24,13,8,3,6,-17,-20,0,13,8,8
-Des Moines,NA,-23,13,6,10,9,2,-2,0,4,-4,6
-Grand Rapids,NA,-45,11,8,10,-6,16,2,7,-1,5,2
-Yonkers,NA,-56,12,12,9,-1,-2,5,1,-2,4,-2
-Spokane,NA,-37,3,12,2,12,4,-3,0,7,14,-28
-Tacoma,NA,-25,4,-3,9,5,17,-10,4,10,7,-17
-Jackson,NA,NA,-5,8,-21,6,-15,NA,NA,NA,NA,NA
-Dayton,NA,NA,11,16,14,11,4,4,-1,-2,2,0
-Huntington Beach,NA,NA,-49,5,NA,NA,NA,NA,NA,NA,NA,NA
-Little Rock,NA,NA,-11,0,NA,NA,-1,7,0,5,6,7
-Knoxville,NA,NA,NA,-5,1,NA,-7,9,-1,1,-22,17
-Syracuse,NA,NA,NA,-8,21,13,6,6,1,2,4,5
-Chattanooga,NA,NA,NA,-59,NA,-5,18,9,1,-23,5,0
-Salt Lake City,NA,NA,NA,-7,16,9,13,-5,0,4,2,-4
-Worcester,NA,NA,NA,-36,18,7,16,6,2,7,2,5
-Warren,NA,NA,NA,-65,23,NA,NA,NA,NA,NA,NA,NA
-Flint,NA,NA,NA,-25,28,6,-1,6,6,-16,-27,NA
-Providence,NA,NA,NA,-6,28,15,14,5,0,10,4,3
-Gary,NA,NA,NA,NA,-55,5,-2,-1,-8,-11,NA,NA
-Springfield,NA,NA,NA,NA,7,13,9,5,6,2,-3,3
-Hartford,NA,NA,NA,NA,-36,8,24,2,5,1,-3,4
-Bridgeport,NA,NA,NA,NA,-43,8,15,6,5,10,-3,0
-Rockford,NA,NA,NA,NA,-47,-4,NA,5,7,2,3,0
-Paterson,NA,NA,NA,NA,-14,9,18,4,6,10,9,8
-Youngstown,NA,NA,NA,NA,-67,22,18,8,5,-4,-10,-4
-Fort Lauderdale,NA,NA,NA,NA,-36,NA,NA,NA,NA,NA,NA,NA
-Evansville,NA,NA,NA,NA,-1,13,7,-6,7,9,6,13
-New Haven,NA,NA,NA,NA,NA,-31,23,5,5,10,4,5
-Savannah,NA,NA,NA,NA,NA,-53,-3,-3,2,15,3,15
-Erie,NA,NA,NA,NA,NA,-34,12,6,4,1,-3,11
-Amarillo,NA,NA,NA,NA,NA,-32,NA,NA,NA,NA,NA,NA
-South Bend,NA,NA,NA,NA,NA,-3,5,5,5,-5,9,-2
-Albany,NA,NA,NA,NA,NA,-19,24,5,2,8,7,12
-Cambridge,NA,NA,NA,NA,NA,NA,-49,10,5,12,13,8
-Berkeley,NA,NA,NA,NA,NA,NA,-51,-4,3,-2,1,NA
-Elizabeth,NA,NA,NA,NA,NA,NA,1,13,8,4,3,3
-Peoria,NA,NA,NA,NA,NA,NA,-32,10,4,0,9,14
-Wilmington,NA,NA,NA,NA,NA,NA,-38,19,-2,17,3,8
-Allentown,NA,NA,NA,NA,NA,NA,-47,6,3,6,2,0
-Pasadena,NA,NA,NA,NA,NA,NA,-20,0,2,NA,NA,NA
-Waterbury,NA,NA,NA,NA,NA,NA,-4,14,-1,6,-1,-6
-Lowell,NA,NA,NA,NA,NA,NA,NA,5,-1,26,12,9
-Winston-Salem,NA,NA,NA,NA,NA,NA,NA,-62,1,-4,NA,NA
-Lansing,NA,NA,NA,NA,NA,NA,NA,2,7,2,NA,NA
-Manchester,NA,NA,NA,NA,NA,NA,NA,NA,-3,19,10,11
-Roanoke,NA,NA,NA,NA,NA,NA,NA,NA,-46,0,-1,2
-Davenport,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,4,6
-Portsmouth,NA,NA,NA,NA,NA,NA,NA,NA,NA,-14,NA,NA
-Macon,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,6,-5
-Topeka,NA,NA,NA,NA,NA,NA,NA,NA,NA,-5,14,7
-Pueblo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9,-1
-Joliet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-12,16
-Cedar Rapids,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-7
-Columbia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-9
+Chicago,1,0,0,0,0,0,0,0,0,-1,0,0
+Philadelphia,2,0,0,0,0,0,-1,0,0,-1,0,0
+Saint Louis,3,0,-2,-1,-1,0,-2,-8,-8,-8,-15,-11
+Boston,4,0,-2,-2,0,-1,-3,-3,-5,1,0,-3
+Baltimore,5,-1,-1,0,1,1,0,-1,-3,-3,-4,-12
+Cleveland,6,1,1,-1,0,-1,-1,-2,-8,-6,-8,-19
+Buffalo,7,-1,-2,-2,-1,-1,-5,-8,-11,-11,-8,-20
+San Francisco,8,-1,-2,2,-2,1,-1,-1,0,-1,1,0
+Cincinnati,9,-2,-4,-1,0,-1,-3,-8,-3,-13,-9,-12
+New Orleans,10,-3,-3,1,1,-1,1,-4,-3,-3,-6,-18
+Detroit,11,4,4,0,0,-1,0,0,-1,-1,-3,-11
+Milwaukee,12,2,-2,1,-1,0,2,-1,-4,-1,-2,-12
+Washington,13,-1,1,0,3,2,0,0,-6,-4,-2,-1
+Newark,14,2,-2,-3,0,-3,-9,-6,-10,-10,-7,-7
+Pittsburgh,15,0,6,-1,1,-2,-4,-8,-6,-10,-12,-11
+Jersey City,16,-2,-3,-1,-7,-7,-9,-8,-7,-6,-5,-3
+Louisville,17,-6,-5,5,-1,-5,-1,-8,-10,-9,-8,36
+Minneapolis,18,1,0,3,-1,-1,-8,-7,-2,-8,-3,-1
+Providence,19,-3,-4,-10,0,-5,-14,-15,-28,NA,NA,NA
+Indianapolis,20,-1,1,0,1,-3,-3,15,-1,0,0,-2
+Kansas City,21,2,1,0,0,-1,-7,1,-1,-4,-5,0
+Saint Paul,22,-3,-4,-1,-2,-2,-4,-7,-8,-3,-2,-5
+Rochester,23,-1,2,1,-1,-9,-5,-12,-8,-9,-13,NA
+Denver,24,-2,2,-4,5,0,1,-2,1,-2,1,6
+Toledo,25,-4,4,-1,-7,-2,-2,4,-6,-9,-7,-15
+Columbus,26,-2,1,0,2,-2,0,7,1,4,1,0
+Worcester,27,-5,-2,-7,-2,-6,-16,-7,-18,NA,NA,NA
+Syracuse,28,-5,-4,-2,-1,-6,-6,-13,-21,NA,NA,NA
+New Haven,29,-5,-4,-10,-5,-5,-23,NA,NA,NA,NA,NA
+Paterson,30,-8,-9,-10,-6,-4,-18,-9,NA,NA,NA,NA
+Omaha,31,-8,6,-5,0,-1,0,0,-8,0,4,1
+Los Angeles,32,16,8,4,0,1,1,0,0,1,0,0
+Memphis,33,-3,-3,4,4,6,4,5,3,-4,0,-6
+Lowell,34,-9,-12,-26,1,NA,NA,NA,NA,NA,NA,NA
+Albany,35,-12,-7,-8,-2,-5,-24,NA,NA,NA,NA,NA
+Cambridge,36,-8,-13,-12,-5,-10,NA,NA,NA,NA,NA,NA
+Portland,37,10,4,-1,-2,-2,-3,-3,0,5,2,2
+Atlanta,38,8,-2,1,4,-5,9,-3,-2,-7,-3,0
+Grand Rapids,39,-2,-5,1,-7,-2,-16,6,-10,-8,-11,NA
+Dayton,40,0,-2,2,1,-4,-4,-11,-14,-16,NA,NA
+Richmond,41,4,1,-7,-1,-1,-6,-5,-7,-12,-19,-3
+Nashville-Davidson,42,0,-9,1,0,-5,-18,44,5,2,1,-3
+Seattle,43,23,1,0,-2,3,0,-3,-1,2,-3,6
+Hartford,44,-4,3,-1,-5,-2,-24,-8,NA,NA,NA,NA
+Wilmington,45,-8,-3,-17,2,-19,NA,NA,NA,NA,NA,NA
+Bridgeport,46,0,3,-10,-5,-6,-15,-8,NA,NA,NA,NA
+Oakland,47,16,1,1,1,2,-6,-5,-5,4,-2,-4
+Des Moines,48,-6,4,-4,0,2,-2,-9,-10,-6,-13,NA
+Springfield,49,-3,3,-2,-6,-5,-9,-13,NA,NA,NA,NA
+Evansville,50,-13,-6,-9,-7,6,-7,-13,NA,NA,NA,NA
+Manchester,51,-11,-10,-19,NA,NA,NA,NA,NA,NA,NA,NA
+Peoria,52,-14,-9,0,-4,-10,NA,NA,NA,NA,NA,NA
+Savannah,53,-15,-3,-15,-2,3,3,NA,NA,NA,NA,NA
+Salt Lake City,54,4,-2,-4,0,5,-13,-9,-16,NA,NA,NA
+San Antonio,55,6,9,3,2,11,8,2,4,1,1,2
+Erie,56,-11,3,-1,-4,-6,-12,NA,NA,NA,NA,NA
+Elizabeth,57,-3,-3,-4,-8,-13,NA,NA,NA,NA,NA,NA
+Yonkers,59,2,-4,2,-1,-5,2,1,-9,-12,-12,NA
+Norfolk,60,-5,12,-7,1,12,7,-6,-8,-7,-11,-13
+Fort Wayne,61,-9,2,0,0,-4,-6,7,-8,-19,15,7
+Youngstown,62,4,10,4,-5,-8,-18,-22,NA,NA,NA,NA
+Houston,63,4,15,19,5,7,7,1,1,1,0,0
+Akron,64,0,33,-3,-3,-1,-5,-8,-7,-12,-10,NA
+Dallas,65,14,10,9,2,9,8,6,1,-1,0,-1
+Lincoln,66,-17,-9,-2,0,-4,3,4,11,0,5,4
+Augusta-Richmond,67,-20,-8,NA,NA,NA,NA,NA,NA,NA,7,NA
+Honolulu,68,-6,4,12,13,3,1,-2,8,-8,-2,-6
+Mobile,69,-8,-8,-13,0,20,17,-6,-3,-8,-13,NA
+Birmingham,70,35,0,2,-1,1,-1,-13,-2,-10,-11,NA
+Little Rock,71,-7,-6,-5,0,-7,NA,NA,1,0,NA,NA
+Tacoma,72,17,-7,-10,-4,10,-17,-5,-9,3,-4,NA
+Spokane,73,28,-14,-7,0,3,-4,-12,-2,-12,-3,NA
+South Bend,74,2,-9,5,-5,-5,-5,NA,NA,NA,NA,NA
+Allentown,75,0,-2,-6,-3,-6,NA,NA,NA,NA,NA,NA
+Topeka,77,-7,-14,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Knoxville,78,-17,22,-1,1,-9,NA,7,-1,NA,NA,NA
+Davenport,79,-6,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rockford,80,0,-3,-2,-7,NA,-5,4,NA,NA,NA,NA
+Montgomery,81,-12,NA,-6,0,5,5,NA,14,-10,-1,NA
+Chattanooga,82,0,-5,23,-1,-9,-18,NA,5,NA,NA,NA
+Joliet,83,-16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sacramento,84,3,-1,0,4,10,6,8,3,11,1,5
+Waterbury,85,6,1,-6,1,-14,NA,NA,NA,NA,NA,NA
+Jacksonville,86,15,5,5,14,-1,-11,37,4,4,1,2
+Pueblo,87,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fort Worth,88,27,3,11,1,9,4,1,0,5,1,11
+Lexington-Fayette,89,-8,NA,NA,NA,NA,NA,NA,30,-2,6,3
+Cedar Rapids,90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wichita,91,18,-6,9,0,14,7,-1,0,0,1,2
+Aurora,92,NA,NA,NA,NA,NA,NA,NA,-4,25,11,6
+Macon,93,5,-6,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Austin,95,NA,NA,NA,5,17,7,11,14,15,11,5
+Roanoke,96,-2,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+San Jose,97,NA,NA,NA,NA,NA,41,26,14,6,0,1
+Colorado Springs,98,NA,NA,NA,NA,NA,NA,NA,33,12,6,8
+Columbia,99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oklahoma City,NA,30,2,25,1,-3,9,-1,6,2,0,2
+Berkeley,NA,-63,-1,2,-3,4,NA,NA,NA,NA,NA,NA
+San Diego,NA,-3,14,24,10,12,13,4,6,2,-1,-1
+El Paso,NA,-84,17,-3,-10,11,32,0,17,6,-1,3
+Flint,NA,-73,27,16,-6,-6,1,-6,-28,NA,NA,NA
+Tampa,NA,0,-2,17,2,-6,37,-3,-3,-2,-2,3
+Tulsa,NA,NA,-27,25,-6,11,2,6,6,-6,0,-4
+Lansing,NA,NA,-42,-2,-7,NA,NA,NA,NA,NA,NA,NA
+Gary,NA,NA,6,11,8,1,2,-5,NA,NA,NA,NA
+Portsmouth,NA,NA,-19,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Winston-Salem,NA,NA,-6,4,-1,NA,NA,NA,NA,NA,NA,9
+Miami,NA,NA,NA,16,23,8,-2,1,1,-5,-1,3
+Charlotte,NA,NA,NA,-44,5,12,13,-2,13,12,9,9
+Shreveport,NA,NA,NA,-76,8,4,4,8,2,-10,-11,NA
+Pasadena,NA,NA,NA,-6,-2,0,NA,NA,NA,NA,NA,NA
+Long Beach,NA,NA,NA,NA,33,3,9,10,3,6,-2,-3
+Glendale,NA,NA,NA,NA,-57,NA,NA,NA,NA,2,12,-9
+Arlington,NA,NA,NA,NA,NA,28,-12,-4,-17,33,8,3
+Baton Rouge,NA,NA,NA,NA,NA,-32,1,-2,21,-11,-1,-23
+Corpus Christi,NA,NA,NA,NA,NA,5,17,13,2,-4,4,2
+Phoenix,NA,NA,NA,NA,NA,-36,65,9,11,0,3,0
+Jackson,NA,NA,NA,NA,NA,-94,15,-6,21,-8,NA,NA
+Tucson,NA,NA,NA,NA,NA,NA,24,1,8,12,3,-3
+Albuquerque,NA,NA,NA,NA,NA,NA,-26,1,14,6,3,3
+Saint Petersburg,NA,NA,NA,NA,NA,NA,-37,8,3,-7,-3,NA
+Amarillo,NA,NA,NA,NA,NA,NA,-21,NA,NA,NA,NA,NA
+Fresno,NA,NA,NA,NA,NA,NA,-2,7,19,18,10,3
+Lubbock,NA,NA,NA,NA,NA,NA,-61,2,14,-8,-3,7
+Madison,NA,NA,NA,NA,NA,NA,-14,19,-5,1,-1,-1
+Greensboro,NA,NA,NA,NA,NA,NA,-16,4,-4,12,11,9
+Warren,NA,NA,NA,NA,NA,NA,NA,-2,-23,NA,NA,NA
+Virginia Beach,NA,NA,NA,NA,NA,NA,NA,14,23,19,-1,-3
+Anaheim,NA,NA,NA,NA,NA,NA,NA,-41,19,4,4,-1
+Santa Ana,NA,NA,NA,NA,NA,NA,NA,-31,18,17,1,-6
+Riverside,NA,NA,NA,NA,NA,NA,NA,-40,13,16,1,8
+Fort Lauderdale,NA,NA,NA,NA,NA,NA,NA,-40,NA,NA,NA,NA
+Anchorage,NA,NA,NA,NA,NA,NA,NA,NA,21,9,4,0
+Huntington Beach,NA,NA,NA,NA,NA,NA,NA,NA,-20,-5,NA,NA
+Las Vegas,NA,NA,NA,NA,NA,NA,NA,NA,1,26,30,5
+Mesa,NA,NA,NA,NA,NA,NA,NA,NA,NA,-25,11,4
+Stockton,NA,NA,NA,NA,NA,NA,NA,NA,NA,-36,4,8
+Raleigh,NA,NA,NA,NA,NA,NA,NA,NA,NA,-13,13,20
+Hialeah,NA,NA,NA,NA,NA,NA,NA,NA,NA,-43,10,-15
+Garland,NA,NA,NA,NA,NA,NA,NA,NA,NA,-1,9,-9
+Bakersfield,NA,NA,NA,NA,NA,NA,NA,NA,NA,-6,28,16
+Fremont,NA,NA,NA,NA,NA,NA,NA,NA,NA,-45,13,-11
+Plano,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,9
+Scottsdale,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-17,-6
+Chesapeake,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,-3
+Irving,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,-6,7
