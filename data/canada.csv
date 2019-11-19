@@ -82,24 +82,24 @@ Renfrew,2607,Saint-Laurent,1703,Saint-Jerome,3328,Newmarket,2192,Fredericton,101
 Glace Bay,2531,Grand Falls,1688,Summerside,3256,Magog,2131,Orillia,9894,East Kildonan,18671,Saint-Thomas,22561,Fredericton,37730,Red Deer,46402,Brossard,64869,Hull ,66246,Bowmanville-Newcastle,35168
 Sydney Mines,2526,Kalowna,1661,Burin,2784,Riviere du Loup,2128,Barrie,9748,Woodstock,18219,Rimouski,22452,Salaberry-de-Valleyfield,37473,Timmins,46148,North Bay,63363,Newmarket ,65788,Campbell River,33448
 Saguenay,2364,Whitehorse,755,Kelowna,2520,Brampton,2122,New Toronto,9584,Fredericton,18092,Joliette,22294,Saint-Hubert,36984,Welland,45467,Shawinigan,61754,Brossard ,65026,Moose Jaw,32546
-Newmarket,2192,d18,18,Red Deer,2346,Welland,2004,Trail,9469,Cornwall,18002,New Glasgow,22017,Markham,36714,Charlottetown,45069,Verdun,61356,Maple Ridge ,63169,Orillia,30546
-Magog,2131,d17,17,Wetaskiwin,2104,Drummondville,2001,New Waterford,9323,Joliette,16917,Victoriaville,21785,West Vancouver,36423,Saint-Jerome,43569,Whitby,61329,Charlottetown,62539,Stratford,30516
-Riviere du Loup,2128,d16,16,Dawson,1088,Saint-Vital,1896,New Glasgow,9248,Rouyn-Noranda,16875,Waterloo,21411,Pointe-aux-Trembles,35662,Abbotsford,42007,Hull,60734,Medicine Hat ,60924,Orangeville,29007
-Brampton,2122,d15,15,Whitehorse,353,Oakville,1840,Waterloo,9070,Owen Sound,16712,West Kildonan,21052,Saint-Jerome,35374,Chatham,41041,Red Deer,58149,Norfolk ,60847,Spruce Grove,27970
-Lethbridge,2072,d14,14,c13,13,Lachute,1822,Magog,9051,Leaside,16596,Stratford,20533,Chatham,35344,Dollard-des-Ormeaux,39949,Charlottetown,57589,Verdun ,60564,Lloydminster,27769
-Saint-Jean-sur-Richelieu,2046,d13,13,c12,12,Preston,1805,North Vancouver,8932,Charlottetown,16442,Woodstock,20500,Belleville,35239,New Westminster,38667,Ajax,57446,Saint-Jerome,59614,Bolton,27108
-Sudbury,2027,d12,12,c11,11,Sainte-Therese,1727,Rouyn-Noranda,8803,Sorel,16368,Alma,19962,Sorel,34588,Pierrefonds,38433,Cornwall,53551,North Bay ,59262,Keswick-Elmhurst Beach,26002
-Welland,2004,d11,11,c10,10,Saint-Laurent,1703,Riviere du Loup,8752,Waterloo,16330,Charlottetown,19057,Sydney Mines,34097,Saint-Hyacinthe,38249,Granby,53430,Granby,55460,Val-dOr,25023
-Drummondville,2001,d10,10,c9,9,Kalowna,1661,Amherst,8630,Victoriaville,16123,Pembroke,18860,Anjou,33919,Granby,38190,Medicine Hat,52704,Pierrefonds ,54963,Saint-Georges,24940
-Saint-Vital,1896,d9,9,c8,8,Dawson,855,Grand'Mere,8627,Welland,15956,Kamloops,18748,Chateauguay,33785,Richmond Hill,37874,Saint-Jerome,51764,New Westminster ,54656,Stouffville,24654
-Oakville,1840,d8,8,c7,7,Whitehorse,755,Lindsay,8497,Mont-Royal,15947,Brampton,18553,Charlesbourg,33408,Pickering,37826,Saint-Hyacinthe,50190,Repentigny ,54550,Okotoks,24470
-Lachute,1822,d7,7,c6,6,Abbotsford,510,Trenton,8331,Nanaimo,15257,Transcona,18286,Pierrefonds,33096,Lachine,37511,Stoney Creek,50015,St. Albert ,53081,Quispamsis-Rothesay,23862
-Preston,1805,d6,6,c5,5,b5,5,Sydney Mines,8282,Pembroke,15240,Orillia,18271,Saint-Vital,33081,Anjou,37387,Repentigny,49663,Shawinigan,52040,Leduc,23827
-Sainte-Therese,1727,d5,5,c4,4,b4,4,Mimico,8140,West Kildonan,15201,Mimico,18260,Richmond Hill,32411,Chateauguay,36978,Newcastle,49598,Port Coquitlam ,51257,Midland,23791
-Saint-Laurent,1703,d4,4,c3,3,b3,3,Kamloops,8099,Pointe-Claire,15199,Nanaimo,18091,Charlottetown,32063,Stoney Creek,36828,Pierrefonds,48776,Caledon ,50595,Bradford,23024
-Grand Falls,1688,d3,3,c2,2,b2,2,Eastview,8040,Oak Bay,14757,Brockville,17731,North Vancouver,31809,Whitby,36736,Timmins,47460,Saint-Hyacinthe,50390,Innisfil,20365
+Newmarket,2192,d18,18,Red Deer,2346,Welland,2004,Trail,9469,Cornwall,18002,New Glasgow,22017,Markham,36714,Charlottetown,45069,Verdun,61356,Maple Ridge ,63169,Sydney,31597
+Magog,2131,d17,17,Wetaskiwin,2104,Drummondville,2001,New Waterford,9323,Joliette,16917,Victoriaville,21785,West Vancouver,36423,Saint-Jerome,43569,Whitby,61329,Charlottetown,62539,Orillia,30546
+Riviere du Loup,2128,d16,16,Dawson,1088,Saint-Vital,1896,New Glasgow,9248,Rouyn-Noranda,16875,Waterloo,21411,Pointe-aux-Trembles,35662,Abbotsford,42007,Hull,60734,Medicine Hat ,60924,Stratford,30516
+Brampton,2122,d15,15,Whitehorse,353,Oakville,1840,Waterloo,9070,Owen Sound,16712,West Kildonan,21052,Saint-Jerome,35374,Chatham,41041,Red Deer,58149,Norfolk ,60847,Orangeville,29007
+Lethbridge,2072,d14,14,c13,13,Lachute,1822,Magog,9051,Leaside,16596,Stratford,20533,Chatham,35344,Dollard-des-Ormeaux,39949,Charlottetown,57589,Verdun ,60564,Spruce Grove,27970
+Saint-Jean-sur-Richelieu,2046,d13,13,c12,12,Preston,1805,North Vancouver,8932,Charlottetown,16442,Woodstock,20500,Belleville,35239,New Westminster,38667,Ajax,57446,Saint-Jerome,59614,Lloydminster,27769
+Sudbury,2027,d12,12,c11,11,Sainte-Therese,1727,Rouyn-Noranda,8803,Sorel,16368,Alma,19962,Sorel,34588,Pierrefonds,38433,Cornwall,53551,North Bay ,59262,Bolton,27108
+Welland,2004,d11,11,c10,10,Saint-Laurent,1703,Riviere du Loup,8752,Waterloo,16330,Charlottetown,19057,Sydney Mines,34097,Saint-Hyacinthe,38249,Granby,53430,Granby,55460,Keswick-Elmhurst Beach,26002
+Drummondville,2001,d10,10,c9,9,Kalowna,1661,Amherst,8630,Victoriaville,16123,Pembroke,18860,Anjou,33919,Granby,38190,Medicine Hat,52704,Pierrefonds ,54963,Val-dOr,25023
+Saint-Vital,1896,d9,9,c8,8,Dawson,855,Grand'Mere,8627,Welland,15956,Kamloops,18748,Chateauguay,33785,Richmond Hill,37874,Saint-Jerome,51764,New Westminster ,54656,Saint-Georges,24940
+Oakville,1840,d8,8,c7,7,Whitehorse,755,Lindsay,8497,Mont-Royal,15947,Brampton,18553,Charlesbourg,33408,Pickering,37826,Saint-Hyacinthe,50190,Repentigny ,54550,Stouffville,24654
+Lachute,1822,d7,7,c6,6,Abbotsford,510,Trenton,8331,Nanaimo,15257,Transcona,18286,Pierrefonds,33096,Lachine,37511,Stoney Creek,50015,St. Albert ,53081,Okotoks,24470
+Preston,1805,d6,6,c5,5,b5,5,Sydney Mines,8282,Pembroke,15240,Orillia,18271,Saint-Vital,33081,Anjou,37387,Repentigny,49663,Shawinigan,52040,Quispamsis-Rothesay,23862
+Sainte-Therese,1727,d5,5,c4,4,b4,4,Mimico,8140,West Kildonan,15201,Mimico,18260,Richmond Hill,32411,Chateauguay,36978,Newcastle,49598,Port Coquitlam ,51257,Leduc,23827
+Saint-Laurent,1703,d4,4,c3,3,b3,3,Kamloops,8099,Pointe-Claire,15199,Nanaimo,18091,Charlottetown,32063,Stoney Creek,36828,Pierrefonds,48776,Caledon ,50595,Midland,23791
+Grand Falls,1688,d3,3,c2,2,b2,2,Eastview,8040,Oak Bay,14757,Brockville,17731,North Vancouver,31809,Whitby,36736,Timmins,47460,Saint-Hyacinthe,50390,Bradford,23024
 ,,,,,,,,La Tuque,7942,Rimouski,14300,,,Pickering,31749,Brandon,36240,Welland,46934,Cornwall ,49640,Innisfil,20365
-,,,,,,,,,,,,,,Woodstock,26173,Belleville,34881,Belleville,37243,Saint-Thomas,33236,Cochrane,17433
-,,,,,,,,,,,,,,Saint-Thomas,24561,Woodstock,26603,Saint-Thomas,30332,Woodstock,32253,,
-,,,,,,,,,,,,,,Stratford,24508,Stratford,26262,Woodstock,30075,Stratford,29676,,
-,,,,,,,,,,,,,,,,Saint-Thomas,25143,Stratford,27666,,,,
+,,,,,,,,,,,,,,Woodstock,26173,Belleville,34881,Belleville,37243,Saint-Thomas,33236,Innisfil,20365
+,,,,,,,,,,,,,,Saint-Thomas,24561,Woodstock,26603,Saint-Thomas,30332,Sydney,32496,Cochrane,17433
+,,,,,,,,,,,,,,Stratford,24508,Stratford,26262,Woodstock,30075,Woodstock,32253,,
+,,,,,,,,,,,,,,,,Saint-Thomas,25143,Stratford,27666,Stratford,29676,,
