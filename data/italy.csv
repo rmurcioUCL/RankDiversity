@@ -29,74 +29,77 @@ Taranto,60712,Pistoia,67591,Ravenna,71993,Bergamo,82152,Bergamo,82434,Foggia,975
 Trapani,59576,Perugia,65826,Trapani,71289,Lucca,81879,Pescara,82374,Perugia,95310,Lucca,94051,Reggio di Calabria,120578,Perugia,142335,Siracusa,125402,Ravenna,134631,Rimini,143321
 Reggio nellEmilia,58545,Marsala,65555,Pisa,68990,Perugia,79364,Ferrara,81114,Ravenna,91803,Ravenna,92096,Novara,117612,Ravenna,138006,Monza,121207,Ferrara,130992,Salerno,139019
 Marsala,57661,Pisa,65283,Pistoia,66547,Ravenna,78154,Vicenza,79330,Salerno,90849,Alessandria,90493,Ferrara,114318,Pescara,131302,Sassari,120035,Rimini,128656,Ferrara,135369
-Ancona,56813,Ancona,63140,Ancona,66314,Pisa,73065,Monza,72976,Lucca,88372,Torre Annunziata,87321,Sesto San Giovanni,110433,Reggio nellEmilia,130467,Bergamo,115757,Siracusa,123657,Sassari,130658
-Cagliari,53737,Cagliari,60193,Bergamo,62317,Parma,71311,Ancona,72544,Ancona,85893,Pisa,84795,Bolzano,110439,Rimini,127836,Rimini,114815,Sassari,120729,Siracusa,123850
+Ancona,56813,Ancona,63140,Ancona,66314,Pisa,73065,Monza,72976,Lucca,88372,Torre Annunziata,87321,Bolzano,110439,Reggio nellEmilia,130467,Bergamo,115757,Siracusa,123657,Sassari,130658
+Cagliari,53737,Cagliari,60193,Bergamo,62317,Parma,71311,Ancona,72544,Ancona,85893,Pisa,84795,Sesto San Giovanni,110433,Rimini,127836,Rimini,114815,Sassari,120729,Siracusa,123850
 Foggia,53282,Trapani,59683,Prato,62259,Pistoia,70482,Terni,72211,Terni,84461,Pistoia,83174,Reggio nellEmilia,107304,Monza,123149,Ferrara,110760,Monza,120204,Pescara,123077
 Alcamo,51857,Prato,56706,Cagliari,61807,Prato,67812,Bolzano,71946,Alessandria,82196,Parma,81789,Pescara,106067,Bergamo,122114,Perugia,109566,Pescara,116286,Monza,122712
 Prato,51592,Modica,55978,Marsala,61414,Udine,66564,Piacenza,70214,Vicenza,79943,Prato,79800,Monza,105205,Sassari,119620,Vicenza,109317,Bergamo,113143,Latina,119804
 Andria,49629,Bergamo,55378,Vicenza,60355,Piacenza,65811,Pisa,69463,Pistoia,77859,Vicenza,79070,Piacenza,103289,Siracusa,117647,Reggio nellEmilia,108861,Forli,108335,Bergamo,119551
 Parma,49314,Vicenza,54607,Caltanissetta,60169,Torre Annunziata,65720,Novara,68904,Pisa,77705,Terni,79072,Udine,100890,La Spezia,115477,Cosenza,104560,Latina,107898,Forli,118167
 Modica,49091,Novara,54691,Reggio di Calabria,59490,Vicenza,65292,Reggio nellEmilia,67060,Prato,77669,Salerno,78959,Vicenza,100080,Vicenza,114615,Catanzaro,103862,Vicenza,107223,Giuliano in Campania,117963
-Capannori,48275,Andria,53350,Cremona,59108,Cremona,64096,Rimini,65773,Forli,77522,Forli,77775,Ancona,99057,Terni,111601,Ancona,103387,Terni,105018,Trento,116298
-Bergamo,47850,Monza,53254,Parma,58513,Novara,63269,Udine,64722,Rimini,77300,Rimini,76801,Pisa,98063,Forli,110809,Novara,103324,Trento,104946,Vicenza,115927
-Novara,45205,Parma,51907,Monza,57086,Terni,62774,Cosenza,64243,Marsala,74937,Piacenza,76396,Sassari,97673,Piacenza,109051,Lecce,102364,Novara,100910,Terni,113324
-Caltagirone,44933,Rimini,50999,Rimini,56809,Rimini,62619,Como,64210,Trapani,73317,Savona,75486,Prato,95674,Cosenza,106830,Piacenza,102337,Ancona,100507,Novara,105024
-Vicenza,44822,Savona,50234,Novara,56323,Salerno,62171,Sassari,64092,Monza,73180,Cremona,75284,Treviso,93082,Ancona,106584,La Spezia,101710,Giuliano in Campania,97999,Bolzano,104029
-Reggio di Calabria,44485,Carrara,49448,Udine,56062,Monza,60919,Perugia,63987,Piacenza,72991,Monza,74863,Siracusa,92047,Bolzano,105243,Torre del Greco,101552,Andria,95653,Piacenza,103206
-Arezzo,44331,Capannori,47748,Savona,55450,Forli,60873,Trento,63581,Udine,72916,Trapani,72736,Rimini,91098,Pisa,104519,Pisa,101512,Piacenza,95594,Ancona,102997
-Forli,43741,Udine,47687,Carrara,53984,Savona,60667,Treviso,63135,Siracusa,71010,Udine,70273,Cosenza,90488,Torre del Greco,103692,Bolzano,100457,Catanzaro,95251,Arezzo,100212
-Caltanissetta,43322,Arezzo,47588,Andria,53661,Trapani,60069,Siracusa,62681,Bolzano,70966,Novara,69613,Pavia,90055,Novara,102182,Udine,98347,Udine,95030,Andria,100086
-Rimini,43287,Forli,46066,Cesena,52695,Cesena,59751,Sesto San Giovanni,62344,Cesena,70499,Foggia,69503,Andria,89409,Udine,102066,Terni,93485,Bolzano,94989,Udine,99627
-Salerno,42800,Salerno,45761,Salerno,52068,Carrara,58521,Alessandria,62266,Como,70461,Marsala,68414,Lecce,89063,Catanzaro,100871,Brindisi,91889,Barletta,92094,Cesena,97056
-Monza,42643,Cesena,45640,Forli,52024,Foggia,57282,Pavia,61389,Sassari,70117,Cesena,67442,Barletta,86266,Alessandria,100576,Forli,90650,Arezzo,91589,Lecce,95520
-Cesena,42290,Corato,45244,Arezzo,51911,Marsala,57274,Torre del Greco,60396,Novara,69424,Arezzo,66885,Trapani,83095,Sesto San Giovanni,94726,Ravenna,87063,La Spezia,91391,La Spezia,95378
-Carrara,42129,Barletta,44372,Treviso,49783,Arezzo,57097,Catanzaro,59040,Cremona,68700,Carrara,65411,Forli,82933,Como,94300,Lucca,86470,Pesaro,91086,Pesaro,95011
-Barletta,42040,Como,44130,Siracusa,49666,Trento,56831,Brindisi,56258,Savona,67871,Andria,65370,Asti,82769,Varese,86779,Barletta,86211,Cesena,90948,Alessandria,94974
-Corato,41660,Molfetta,43313,Modica,49652,Como,54113,Lecce,56090,Arezzo,66503,Trento,65248,Terni,82675,Brindisi,84905,Como,86066,Torre del Greco,90607,Barletta,94459
-Faenza,40424,Reggio di Calabria,43255,Torre Annunziata,48533,Treviso,54050,Ravenna,55445,Andria,66376,Sassari,64860,Cremona,82517,Lucca,84844,Varese,85572,Pisa,89694,Catanzaro,93124
-Molfetta,40199,Sassari,43174,Como,48105,Andria,53972,Varese,54743,Pescara,65558,Laquila,64522,Savona,82506,Treviso,84347,Sesto San Giovanni,85234,Brindisi,89081,Pistoia,90288
-Como,38978,Caltagirone,42660,Terni,47877,Sassari,53608,Cremona,53916,Torre del Greco,64477,Treviso,64320,Como,82038,Andria,84199,Treviso,83933,Alessandria,85438,Brindisi,89780
-Savona,38488,San Pier d'Arena,42453,Barletta,46371,Laquila,52686,Savona,53268,Barletta,64370,Siracusa,63553,Brindisi,79294,Pavia,82624,Trento,83134,Pistoia,84274,Pisa,88217
-Sassari,38358,Siena,41740,Molfetta,45390,Caserta,51416,Forli,53299,Lecce,63826,Como,62787,Cesena,78008,Barletta,82375,Andria,82698,Lecce,83303,Torre del Greco,87197
-Asti,38034,Caltanissetta,41333,Asti,44469,Alcamo,51235,Busto Arsizio,52430,Pavia,63797,Barletta,61259,Molfetta,77802,Trento,80512,Pavia,80142,Lucca,81862,Como,85263
-Udine,37929,Treviso,41078,Siena,43972,Pavia,50368,Andria,51869,Treviso,63497,Pescara,59473,Torre Annunziata,77389,Cinisello Balsamo,80389,Gela,79788,Varese,80511,Lucca,84939
-Cremona,37776,Siracusa,40874,Piacenza,43785,Siracusa,50191,Barletta,51756,Trento,62389,Pavia,58587,Busto Arsizio,76712,Lecce,80199,Pesaro,78759,Treviso,80144,Guidonia Montecelio,83736
-Piacenza,36170,Cremona,40474,Ragusa,43656,Ragusa,49798,Cinisello Balsamo,51410,Carrara,62351,Torre del Greco,58427,Torre del Greco,74311,Portici,79377,Marsala,77204,Sesto San Giovanni,78850,Pozzuoli,83459
-Pavia,35494,Faenza,40230,Sassari,42968,Gorizia,49300,Lucca,50596,Caltanissetta,60700,Caltanissetta,56862,Ravenna,74039,Busto Arsizio,79374,Busto Arsizio,77023,Pozzuoli,78754,Treviso,82807
-Acireale,35490,Cerignola,40087,Torre del Greco,42314,Asti,49179,Portici,49594,Catanzaro,60033,Caserta,55855,Mantova,72340,Pesaro,78660,Cinisello Balsamo,75699,Como,78680,Marsala,82774
-Cerignola,34277,Pavia,39956,Pavia,42084,Barletta,48371,Castellammare di Stabia,49530,Brindisi,58367,Ragusa,54513,Gela,71391,Pistoia,78163,Cremona,75212,Marsala,77784,Grosseto,81928
-San Pier d'Arena,34178,Asti,39759,Alcamo,41563,Torre del Greco,47960,Pistoia,49404,Cosenza,57099,Molfetta,53900,Vercelli,71030,Marsala,76841,Arezzo,74272,Busto Arsizio,75916,Busto Arsizio,81760
-Treviso,34022,Piacenza,38560,Caltagirone,40447,Siena,47735,Pesaro,49345,Castellammare di Stabia,56363,Lecce,52563,Perugia,69088,Arezzo,74524,Alessandria,74097,Caserta,75208,Varese,81579
-Torre del Greco,33312,Ragusa,37509,Lecce,39310,Molfetta,47467,Carrara,48986,Molfetta,56002,Asti,52085,Biella,68199,Cremona,74390,Pistoia,73981,Cosenza,72998,Sesto San Giovanni,81130
-Imola,33285,Torre del Greco,36669,Castellammare di Stabia,38918,Faenza,47361,Vigevano,48739,Laquila,54631,Siena,51785,Caltanissetta,67732,Gela,74110,Latina,72704,Gela,72774,Caserta,78693
-Castellammare di Stabia,32845,Lecce,36249,Mantova,36706,Lecce,46827,Gela,47253,Pesaro,54148,Faenza,51658,Vigevano,66669,Cesena,72149,Cesena,72278,Cinisello Balsamo,72050,Gela,77360
-Lecce,32761,Acireale,36133,Catanzaro,36112,Caltanissetta,44162,Mantova,46685,Mantova,53885,Gorizia,50714,Ragusa,66661,Castellammare di Stabia,70505,Ragusa,69467,Asti,71276,Asti,76534
-Caserta,32769,Chioggia,35189,Caserta,35255,Corato,44119,Trapani,46526,Varese,53125,Castellammare di Stabia,50236,Trento,66052,Asti,65519,Savona,69064,Grosseto,71263,Cinisello Balsamo,75150
-Vittoria,32277,Imola,35082,Trento,35150,Castellammare di Stabia,43774,Molfetta,45559,Busto Arsizio,52617,Bolzano,49212,Caserta,65449,Savona,65053,Caserta,68900,Pavia,71214,Ragusa,73743
-Siracusa,32006,Catanzaro,34360,Massa,34278,Modica,43327,Arezzo,45436,Siena,52692,Catanzaro,49402,Siena,64046,Molfetta,64778,Castellammare di Stabia,68770,Cremona,70887,Laquila,72511
-Ragusa,31990,Casale Monferrato,34199,Ascoli Piceno,32127,Mantova,42948,Massa,44815,Asti,52034,Varese,49154,Castellammare di Stabia,63401,Latina,64531,Carrara,68508,Lamezia Terme,70501,Cremona,72147
-Catanzaro,31896,Castellammare di Stabia,34062,Cuneo,31243,Varese,42695,Torre Annunziata,44705,Torre Annunziata,52098,Corato,48447,Cuneo,62621,Vigevano,62991,Portici,67828,Potenza,69060,Quartu SantElena,71779
-Trani,31839,Bisceglie,33972,Cosenza,30089,Pesaro,42596,Asti,44679,Cerignola,51304,Pesaro,47988,Varese,61043,Trapani,61963,Massa,67822,Ragusa,68956,Lamezia Terme,71286
-Casale Monferrato,31895,Caserta,33291,Pesaro,29956,Catanzaro,41942,Vercelli,42677,Massa,50494,Chioggia,47903,San Severo,56796,Pozzuoli,61901,Pozzuoli,67104,Laquila,68503,Pavia,71142
-Vercelli,31290,Terni,32981,Agrigento,29805,Bolzano,40806,Viareggio,41873,Ragusa,49552,Massa,47591,Lecco,55871,Carrara,61772,Molfetta,66754,Trapani,68346,Fiumicino,70985
-Bisceglie,30967,Bitonto,32882,Chieti,29206,Massa,39872,Cesena,41769,Chioggia,49575,Brindisi,47263,Pesaro,55076,San Giorgio a Cremano,61703,Caltanissetta,62905,Quartu SantElena,68040,Massa,70973
-Terni,30647,Mantova,32736,Benevento,27593,Brindisi,39765,Caserta,40557,San Severo,48758,Mantova,47003,Massa,55003,Ragusa,60952,Asti,62883,Guidonia Montecelio,67516,Trapani,70622
-Bitonto,30648,San Severo,32231,Belluno,26641,Vercelli,39589,Biella,40009,Faenza,48105,Cosenza,46990,Agrigento,54997,Massa,60821,San Giorgio a Cremano,62298,Castellammare di Stabia,66929,Aprilia,70349
-Chioggia,30653,Piazza Armerina,32127,Teramo,25898,Chioggia,38969,Siena,40053,Benevento,47624,Rovigo,45433,Lucca,54540,Torre Annunziata,60558,Vigevano,61424,Massa,66769,Cosenza,70068
-San Severo,30060,Vercelli,31968,Gorizia,25697,Acireale,38292,Latina,39393,Rovigo,45918,Caltagirone,44240,Catanzaro,54075,San Remo,59931,Quartu SantElena,60997,Carrara,65034,Altamura,70023
-Cortona,29337,Alcamo,31892,Avellino,25673,Caltagirone,38234,Pozzuoli,39062,Corato,45577,Vercelli,44027,Pozzuoli,54052,Moncalieri,59369,Ercolano,60911,Imola,64348,Imola,69116
-Mantova,29144,Vittoria,31383,Bolzano,25468,Rovigo,37471,Ragusa,38491,Imola,45440,Alcamo,43964,Arezzo,54061,Caserta,59251,Afragola,59998,Altamura,64167,Carpi,69021
-Ascoli Piceno,28972,Torre Annunziata,31346,Macerata,24470,Viterbo,37111,Moncalieri,38132,Carbonia,45174,Ascoli Piceno,43386,Cerignola,53046,Caltanissetta,57757,Trapani,59762,Molfetta,62546,Potenza,68297
-Siena,28499,Trani,31048,Laquila,24262,Ascoli Piceno,37037,Lecco,37977,Ascoli Piceno,44760,Benevento,42912,Alcamo,52727,Afragola,57699,San Remo,59214,Afragola,62319,Carrara,65573
-Cuneo,27198,Gorizia,31029,Imperia,20318,Benevento,36920,Ercolano,37992,Caserta,44621,Modica,42525,Casale Monferrato,52546,Ercolano,57581,Giuliano in Campania,59105,Benevento,61791,Castellammare di Stabia,64506
-Massa,26479,Massa,30899,Potenza,18517,Cuneo,36295,Afragola,36972,Foligno,44699,Acireale,42110,Vittoria,52256,Aversa,55852,Potenza,58873,Carpi,61476,Viareggio,64503
-Chieti,26499,Ascoli Piceno,30675,Grosseto,18091,Cosenza,36114,San Severo,36150,Sesto San Giovanni,44545,Viterbo,41543,Altamura,52123,Grosseto,55616,Moncalieri,58438,Caltanissetta,61438,Afragola,63981
-Adrano,25986,Canicatti,30248,Campobasso,16371,Civitavecchia,34467,Caltanissetta,35389,Viterbo,44192,Cuneo,41552,Benevento,52100,Potenza,55243,Manfredonia,58209,Viareggio,61103,Vigevano,63797
-Cascina,25965,Adrano,30140,Rovigo,14710,Chieti,34121,San Remo,34860,Vigevano,43894,Rieti,41183,Pistoia,51040,Siena,55060,Siena,57798,Portici,60218,Viterbo,63597
-Enna,25851,Trento,30066,Sondrio,9617,Rieti,32221,Aversa,33818,Gela,43746,Teramo,41088,Viareggio,50554,Scandicci,54078,Guidonia Montecelio,57586,Crotone,60010,Vittoria,63332
-Gorizia,25450,Cortona,29337,a1,1,San Remo,31650,Benevento,33058,Caltagirone,43615,Agrigento,40566,Bisceglie,49006,San Severo,53923,Chieti,57581,Savona,59907,Savona,62553
-Pesaro,25105,Cuneo,29220,a2,1,Teramo,30720,Vittoria,31957,Vittoria,43271,Civitavecchia,40403,Faenza,47221,Biella,52620,Altamura,57541,Viterbo,59308,Crotone,61798
-Torre Annunziata,25111,Paterno,28936,a3,2,Merano,30323,Grosseto,31801,Biella,42848,San Remo,40207,Aversa,47002,Mantova,52573,Grosseto,57096,Matera,57785,Pomezia,61106
-Agrigento,25064,Monte San Giuliano,28795,a4,3,Agrigento,30099,Laquila,30303,Lecco,42597,Chieti,40103,San Remo,47095,Cologno Monzese,52359,Vittoria,57086,Manfredonia,57704,Caltanissetta,60267
-Trento,24918,Foligno,28449,a5,4,Imperia,28770,Chieti,29769,Vercelli,42257,Pozzuoli,39946,Paterno,47064,Agrigento,51325,Agrigento,55283,Vigevano,57450,Matera,59796
-,,Enna,28396,,,,,,,,,,,,,,,,,,,,
+Capannori,48275,Andria,53350,Cremona,59108,Cremona,64096,Marsala,66105,Forli,77522,Forli,77775,Ancona,99057,Terni,111601,Ancona,103387,Terni,105018,Trento,116298
+Bergamo,47850,Monza,53254,Parma,58513,Novara,63269,Rimini,65773,Rimini,77300,Rimini,76801,Pisa,98063,Forli,110809,Novara,103324,Trento,104946,Vicenza,115927
+Novara,45205,Parma,51907,Monza,57086,Terni,62774,Udine,64722,Marsala,74937,Piacenza,76396,Sassari,97673,Piacenza,109051,Lecce,102364,Novara,100910,Terni,113324
+Caltagirone,44933,Rimini,50999,Rimini,56809,Rimini,62619,Cosenza,64243,Trapani,73317,Savona,75486,Prato,95674,Cosenza,106830,Piacenza,102337,Ancona,100507,Novara,105024
+Vicenza,44822,Savona,50234,Novara,56323,Salerno,62171,Como,64210,Monza,73180,Cremona,75284,Treviso,93082,Ancona,106584,La Spezia,101710,Giuliano in Campania,97999,Bolzano,104029
+Reggio di Calabria,44485,Carrara,49448,Udine,56062,Monza,60919,Sassari,64092,Piacenza,72991,Monza,74863,Siracusa,92047,Bolzano,105243,Torre del Greco,101552,Andria,95653,Piacenza,103206
+Arezzo,44331,Capannori,47748,Savona,55450,Forli,60873,Perugia,63987,Udine,72916,Trapani,72736,Rimini,91098,Pisa,104519,Pisa,101512,Piacenza,95594,Ancona,102997
+Forli,43741,Udine,47687,Carrara,53984,Savona,60667,Trento,63581,Siracusa,71010,Udine,70273,Cosenza,90488,Torre del Greco,103692,Bolzano,100457,Catanzaro,95251,Arezzo,100212
+Caltanissetta,43322,Arezzo,47588,Andria,53661,Trapani,60069,Treviso,63135,Bolzano,70966,Novara,69613,Pavia,90055,Novara,102182,Udine,98347,Udine,95030,Andria,100086
+Rimini,43287,Forli,46066,Cesena,52695,Cesena,59751,Siracusa,62681,Cesena,70499,Foggia,69503,Andria,89409,Udine,102066,Terni,93485,Bolzano,94989,Udine,99627
+Salerno,42800,Salerno,45761,Salerno,52068,Carrara,58521,Sesto San Giovanni,62344,Como,70461,Marsala,68414,Lecce,89063,Catanzaro,100871,Brindisi,91889,Barletta,92094,Cesena,97056
+Monza,42643,Cesena,45640,Forli,52024,Foggia,57282,Alessandria,62266,Sassari,70117,Cesena,67442,Barletta,86266,Alessandria,100576,Forli,90650,Arezzo,91589,Lecce,95520
+Cesena,42290,Corato,45244,Arezzo,51911,Marsala,57274,Corato,94070,Novara,69424,Arezzo,66885,Trapani,83095,Sesto San Giovanni,94726,Ravenna,87063,La Spezia,91391,La Spezia,95378
+Carrara,42129,Barletta,44372,Treviso,49783,Arezzo,57097,Pavia,61389,Cremona,68700,Carrara,65411,Forli,82933,Como,94300,Lucca,86470,Pesaro,91086,Pesaro,95011
+Barletta,42040,Como,44130,Siracusa,49666,Trento,56831,Torre del Greco,60396,Savona,67871,Andria,65370,Asti,82769,Varese,86779,Barletta,86211,Cesena,90948,Alessandria,94974
+Corato,41660,Molfetta,43313,Modica,49652,Como,54113,Catanzaro,59040,Arezzo,66503,Trento,65248,Terni,82675,Brindisi,84905,Como,86066,Torre del Greco,90607,Barletta,94459
+Faenza,40424,Reggio di Calabria,43255,Torre Annunziata,48533,Treviso,54050,Brindisi,56258,Andria,66376,Sassari,64860,Cremona,82517,Lucca,84844,Varese,85572,Pisa,89694,Catanzaro,93124
+Molfetta,40199,Sassari,43174,Como,48105,Andria,53972,Lecce,56090,Pescara,65558,Laquila,64522,Savona,82506,Treviso,84347,Sesto San Giovanni,85234,Brindisi,89081,Pistoia,90288
+Como,38978,Caltagirone,42660,Terni,47877,Sassari,53608,Ravenna,55445,Torre del Greco,64477,Treviso,64320,Como,82038,Andria,84199,Treviso,83933,Alessandria,85438,Brindisi,89780
+Savona,38488,San Pier d'Arena,42453,Barletta,46371,Laquila,52686,Varese,54743,Barletta,64370,Siracusa,63553,Brindisi,79294,Pavia,82624,Trento,83134,Pistoia,84274,Pisa,88217
+Sassari,38358,Siena,41740,Molfetta,45390,Caserta,51416,Cremona,53916,Lecce,63826,Como,62787,Cesena,78008,Barletta,82375,Andria,82698,Lecce,83303,Torre del Greco,87197
+Asti,38034,Caltanissetta,41333,Corato,44681,Alcamo,51235,Forli,53299,Pavia,63797,Barletta,61259,Molfetta,77802,Trento,80512,Pavia,80142,Lucca,81862,Como,85263
+Udine,37929,Treviso,41078,Asti,44469,Pavia,50368,Savona,53268,Treviso,63497,Pescara,59473,Torre Annunziata,77389,Cinisello Balsamo,80389,Gela,79788,Varese,80511,Lucca,84939
+Cremona,37776,Siracusa,40874,Siena,43972,Siracusa,50191,Busto Arsizio,52430,Trento,62389,Pavia,58587,Busto Arsizio,76712,Lecce,80199,Pesaro,78759,Treviso,80144,Guidonia Montecelio,83736
+Piacenza,36170,Cremona,40474,Faenza,43795,Ragusa,49798,Andria,51869,Carrara,62351,Torre del Greco,58427,Torre del Greco,74311,Portici,79377,Marsala,77204,Sesto San Giovanni,78850,Pozzuoli,83459
+Pavia,35494,Faenza,40230,Piacenza,43785,Gorizia,49300,Barletta,51756,Caltanissetta,60700,Caltanissetta,56862,Ravenna,74039,Busto Arsizio,79374,Busto Arsizio,77023,Pozzuoli,78754,Treviso,82807
+Acireale,35490,Cerignola,40087,Ragusa,43656,Asti,49179,Cinisello Balsamo,51410,Catanzaro,60033,Caserta,55855,Marsala,72627,Pesaro,78660,Cinisello Balsamo,75699,Como,78680,Marsala,82774
+Cerignola,34277,Pavia,39956,Sassari,42968,Barletta,48371,Lucca,50596,Brindisi,58367,Ragusa,54513,Mantova,72340,Pistoia,78163,Cremona,75212,Marsala,77784,Grosseto,81928
+San Pier d'Arena,34178,Asti,39759,Torre del Greco,42314,Torre del Greco,47960,Portici,49594,Cosenza,57099,Molfetta,53900,Gela,71391,Marsala,76841,Arezzo,74272,Busto Arsizio,75916,Busto Arsizio,81760
+Treviso,34022,Piacenza,38560,Pavia,42084,Siena,47735,Castellammare di Stabia,49530,Castellammare di Stabia,56363,Lecce,52563,Vercelli,71030,Arezzo,74524,Alessandria,74097,Caserta,75208,Varese,81579
+Torre del Greco,33312,Ragusa,37509,Alcamo,41563,Molfetta,47467,Pistoia,49404,Molfetta,56002,Asti,52085,Perugia,69088,Cremona,74390,Pistoia,73981,Cosenza,72998,Sesto San Giovanni,81130
+Imola,33285,Torre del Greco,36669,Caltagirone,40447,Faenza,47361,Pesaro,49345,Laquila,54631,Siena,51785,Biella,68199,Gela,74110,Latina,72704,Gela,72774,Caserta,78693
+Castellammare di Stabia,32845,Lecce,36249,Lecce,39310,Lecce,46827,Carrara,48986,Pesaro,54148,Faenza,51658,Caltanissetta,67732,Cesena,72149,Cesena,72278,Cinisello Balsamo,72050,Gela,77360
+Lecce,32761,Acireale,36133,Castellammare di Stabia,38918,Caltanissetta,44162,Vigevano,48739,Mantova,53885,Gorizia,50714,Vigevano,66669,Castellammare di Stabia,70505,Ragusa,69467,Asti,71276,Asti,76534
+Caserta,32769,Chioggia,35189,Acireale,37212,Corato,44119,Faenza,47733,Varese,53125,Castellammare di Stabia,50236,Ragusa,66661,Asti,65519,Savona,69064,Grosseto,71263,Cinisello Balsamo,75150
+Vittoria,32277,Imola,35082,Mantova,36706,Castellammare di Stabia,43774,Gela,47253,Busto Arsizio,52617,Bolzano,49212,Trento,66052,Savona,65053,Caserta,68900,Pavia,71214,Ragusa,73743
+Siracusa,32006,Catanzaro,34360,Catanzaro,36112,Modica,43327,Mantova,46685,Siena,52692,Catanzaro,49402,Caserta,65449,Molfetta,64778,Castellammare di Stabia,68770,Cremona,70887,Laquila,72511
+Ragusa,31990,Casale Monferrato,34199,Caserta,35255,Mantova,42948,Trapani,46526,Asti,52034,Varese,49154,Siena,64046,Latina,64531,Carrara,68508,Lamezia Terme,70501,Cremona,72147
+Catanzaro,31896,Castellammare di Stabia,34062,Trento,35150,Varese,42695,Molfetta,45559,Torre Annunziata,52098,Corato,48447,Carrara,63591,Vigevano,62991,Portici,67828,Potenza,69060,Quartu SantElena,71779
+Trani,31839,Bisceglie,33972,Massa,34278,Pesaro,42596,Arezzo,45436,Cerignola,51304,Pesaro,47988,Castellammare di Stabia,63401,Trapani,61963,Massa,67822,Ragusa,68956,Lamezia Terme,71286
+Casale Monferrato,31895,Caserta,33291,Ascoli Piceno,32127,Catanzaro,41942,Massa,44815,Massa,50494,Chioggia,47903,Cuneo,62621,Pozzuoli,61901,Pozzuoli,67104,Laquila,68503,Pavia,71142
+Vercelli,31290,Terni,32981,Cuneo,31243,Bolzano,40806,Torre Annunziata,44705,Ragusa,49552,Massa,47591,Varese,61043,Carrara,61772,Molfetta,66754,Trapani,68346,Fiumicino,70985
+Bisceglie,30967,Bitonto,32882,Cosenza,30089,Massa,39872,Asti,44679,Chioggia,49575,Brindisi,47263,San Severo,56796,San Giorgio a Cremano,61703,Caltanissetta,62905,Quartu SantElena,68040,Massa,70973
+Terni,30647,Mantova,32736,Pesaro,29956,Brindisi,39765,Vercelli,42677,San Severo,48758,Mantova,47003,Lecco,55871,Ragusa,60952,Asti,62883,Guidonia Montecelio,67516,Trapani,70622
+Bitonto,30648,San Severo,32231,Agrigento,29805,Vercelli,39589,Viareggio,41873,Faenza,48105,Cosenza,46990,Pesaro,55076,Massa,60821,San Giorgio a Cremano,62298,Castellammare di Stabia,66929,Aprilia,70349
+Chioggia,30653,Piazza Armerina,32127,Chieti,29206,Chioggia,38969,Cesena,41769,Benevento,47624,Rovigo,45433,Massa,55003,Torre Annunziata,60558,Vigevano,61424,Massa,66769,Cosenza,70068
+San Severo,30060,Vercelli,31968,Benevento,27593,Acireale,38292,Caltagirone,40924,Rovigo,45918,Caltagirone,44240,Agrigento,54997,San Remo,59931,Quartu SantElena,60997,Carrara,65034,Altamura,70023
+Cortona,29337,Alcamo,31892,Belluno,26641,Caltagirone,38234,Caserta,40557,Corato,45577,Vercelli,44027,Lucca,54540,Moncalieri,59369,Ercolano,60911,Imola,64348,Imola,69116
+Mantova,29144,Vittoria,31383,Teramo,25898,Rovigo,37471,Siena,40053,Imola,45440,Alcamo,43964,Catanzaro,54075,Caserta,59251,Afragola,59998,Altamura,64167,Carpi,69021
+Ascoli Piceno,28972,Torre Annunziata,31346,Gorizia,25697,Viterbo,37111,Biella,40009,Carbonia,45174,Ascoli Piceno,43386,Arezzo,54061,Caltanissetta,57757,Trapani,59762,Molfetta,62546,Potenza,68297
+Siena,28499,Trani,31048,Avellino,25673,Ascoli Piceno,37037,Latina,39393,Ascoli Piceno,44760,Benevento,42912,Pozzuoli,54052,Afragola,57699,San Remo,59214,Afragola,62319,Carrara,65573
+Cuneo,27198,Gorizia,31029,Bolzano,25468,Benevento,36920,Pozzuoli,39062,Caserta,44621,Modica,42525,Cerignola,53046,Ercolano,57581,Giuliano in Campania,59105,Benevento,61791,Castellammare di Stabia,64506
+Massa,26479,Massa,30899,Macerata,24470,Cuneo,36295,Ragusa,38491,Foligno,44699,Acireale,42110,Alcamo,52727,Aversa,55852,Potenza,58873,Carpi,61476,Viareggio,64503
+Chieti,26499,Ascoli Piceno,30675,Laquila,24262,Cosenza,36114,Moncalieri,38132,Sesto San Giovanni,44545,Viterbo,41543,Casale Monferrato,52546,Grosseto,55616,Moncalieri,58438,Caltanissetta,61438,Afragola,63981
+Adrano,25986,Canicatti,30248,Imperia,20318,Civitavecchia,34467,Ercolano,37992,Viterbo,44192,Cuneo,41552,Vittoria,52256,Potenza,55243,Manfredonia,58209,Viareggio,61103,Vigevano,63797
+Cascina,25965,Adrano,30140,Potenza,18517,Chieti,34121,Lecco,37977,Vigevano,43894,Rieti,41183,Altamura,52123,Siena,55060,Siena,57798,Portici,60218,Viterbo,63597
+Enna,25851,Trento,30066,Grosseto,18091,Rieti,32221,Afragola,36972,Gela,43746,Teramo,41088,Benevento,52100,Scandicci,54078,Guidonia Montecelio,57586,Crotone,60010,Vittoria,63332
+Gorizia,25450,Cortona,29337,Campobasso,16371,San Remo,31650,San Severo,36150,Caltagirone,43615,Agrigento,40566,Pistoia,51040,San Severo,53923,Chieti,57581,Savona,59907,Savona,62553
+Pesaro,25105,Cuneo,29220,Rovigo,14710,Teramo,30720,Caltanissetta,35389,Vittoria,43271,Civitavecchia,40403,Viareggio,50554,Biella,52620,Altamura,57541,Viterbo,59308,Crotone,61798
+Torre Annunziata,25111,Paterno,28936,Sondrio,9617,Merano,30323,San Remo,34860,Biella,42848,San Remo,40207,Bisceglie,49006,Mantova,52573,Grosseto,57096,Matera,57785,Pomezia,61106
+Agrigento,25064,Monte San Giuliano,28795,a4,3,Agrigento,30099,Aversa,33818,Lecco,42597,Chieti,40103,Faenza,47221,Cologno Monzese,52359,Vittoria,57086,Manfredonia,57704,Caltanissetta,60267
+Trento,24918,Foligno,28449,a3,2,Imperia,28770,Benevento,33058,Vercelli,42257,Pozzuoli,39946,San Remo,47095,Agrigento,51325,Agrigento,55283,Vigevano,57450,Matera,59796
+,,Enna,28396,,,,,Vittoria,31957,,,,,Paterno,47064,,,,,,,,
+,,Pesaro,27530,,,,,Grosseto,31801,,,,,Aversa,47002,,,,,,,,
+,,,,,,,,Laquila,30303,,,,,,,,,,,,,,
+,,,,,,,,Chieti,29769,,,,,,,,,,,,,,
