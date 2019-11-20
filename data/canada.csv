@@ -1,6 +1,6 @@
-city,1901,city,1911,city,1921,city,1931,city,1941,city,1951,city,c1961,city,c1971,city,c1981,city,c1991,city,2002,city,2011
-Montreal,267714,Montreal,470590,Montreal,618555,Montreal,818666,Montreal,903058,Montreal,1094419,Montreal,2157943,Montreal,2808595,Toronto,3498967,Toronto,4293065,Toronto ,5004011,Toronto,5852602
-Toronto,208083,Toronto,376524,Toronto,521928,Toronto,631201,Toronto,667516,Toronto,662132,Toronto,1824506,Toronto,2609638,Montreal,2923264,Montreal,3209116,Montreal ,3654167,Montreal,4031844
+city,1901,city,1911,city,1921,city,1931,city,1941,city,1951,city,c1961,city,c1971,city,c1981,city,c1991,city,2001,city,2011
+Montreal,393665,Montreal,594812,Montreal,774330,Montreal,1064448,Montreal,1192235,Montreal,1539308,Montreal,2110679,Montreal,2570985,Toronto,2998967,Toronto,3893933,Toronto ,4682897,Toronto,5583064
+Toronto,208083,Toronto,376524,Toronto,521928,Toronto,631201,Toronto,667516,Toronto,1262000,Toronto,1919506,Toronto,2609638,Montreal,2923264,Montreal,3209116,Montreal ,3654167,Montreal,4031844
 Quebec,68845,Winnipeg,136052,Winnipeg,179196,Vancouver,246654,Vancouver,275444,Vancouver,362005,Vancouver,790263,Vancouver,1071143,Vancouver,1468211,Vancouver,1857766,Vancouver ,2098170,Vancouver,2419030
 Ottawa,59917,Vancouver,100445,Vancouver,117249,Winnipeg,218830,Winnipeg,222053,Edmonton,324031,Edmonton,537695,Edmonton,690853,Ottawa,793315,Ottawa,956743,Ottawa ,1126321,Ottawa,1303536
 Hamilton,52638,Ottawa,87116,Hamilton,114227,Quebec,130643,Edmonton,173846,Winnipeg,256739,Winnipeg,476031,Ottawa,596295,Edmonton,657127,Calgary,768650,Calgary ,1007469,Calgary,1300352
